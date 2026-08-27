@@ -1,0 +1,441 @@
+============================================================
+MDRG 0.97 - Exact Stage Numbering
+============================================================
+
+
+############################################################
+TARGET: get_Stage1
+############################################################
+
+--- Around dump line 129426 ---
+129418: 
+129419: 	// RVA: 0xA7DB80 Offset: 0xA7CF80 VA: 0x180A7DB80
+129420: 	private void PreparePersonalityDefinitions() { }
+129421: 
+129422: 	// RVA: 0xA56300 Offset: 0xA55700 VA: 0x180A56300
+129423: 	public string GenerateCommonPersonalityModuleConversations() { }
+129424: 
+129425: 	// RVA: 0xA7E260 Offset: 0xA7D660 VA: 0x180A7E260
+129426: 	public StoryBotDialogueStage get_Stage1() { }
+129427: 
+129428: 	// RVA: 0xA7E2D0 Offset: 0xA7D6D0 VA: 0x180A7E2D0
+129429: 	public StoryBotDialogueStage get_Stage2() { }
+129430: 
+129431: 	// RVA: 0xA7E340 Offset: 0xA7D740 VA: 0x180A7E340
+129432: 	public StoryBotDialogueStage get_Stage3() { }
+129433: 
+129434: 	// RVA: 0xA56F80 Offset: 0xA56380 VA: 0x180A56F80
+129435: 	private StoryBotDialogueStage GetStageInner(int stageNr) { }
+129436: 
+129437: 	// RVA: 0xA7E1A0 Offset: 0xA7D5A0 VA: 0x180A7E1A0
+129438: 	public IEnumerable<StoryBotDialogueStage> get_AllStages() { }
+
+TOTAL MATCHES: 1
+
+############################################################
+TARGET: get_Stage2
+############################################################
+
+--- Around dump line 98800 ---
+98792: 
+98793: 	// RVA: 0x92F2A0 Offset: 0x92E6A0 VA: 0x18092F2A0
+98794: 	public static string get_Frick_BotCum() { }
+98795: 
+98796: 	// RVA: 0x92DA40 Offset: 0x92CE40 VA: 0x18092DA40
+98797: 	public static string get_Cowgirl_CumAlone() { }
+98798: 
+98799: 	// RVA: 0x930DD0 Offset: 0x9301D0 VA: 0x180930DD0
+98800: 	public static string get_Stage2Headpat1() { }
+98801: 
+98802: 	// RVA: 0x930E20 Offset: 0x930220 VA: 0x180930E20
+98803: 	public static string get_Stage2Headpat2() { }
+98804: 
+98805: 	// RVA: 0x930E70 Offset: 0x930270 VA: 0x180930E70
+98806: 	public static string get_Stage2Headpat3() { }
+98807: 
+98808: 	// RVA: 0x931230 Offset: 0x930630 VA: 0x180931230
+98809: 	public static string get_Word_Brother() { }
+98810: 
+98811: 	// RVA: 0x931280 Offset: 0x930680 VA: 0x180931280
+98812: 	public static string get_Word_Sister() { }
+
+--- Around dump line 98803 ---
+98795: 
+98796: 	// RVA: 0x92DA40 Offset: 0x92CE40 VA: 0x18092DA40
+98797: 	public static string get_Cowgirl_CumAlone() { }
+98798: 
+98799: 	// RVA: 0x930DD0 Offset: 0x9301D0 VA: 0x180930DD0
+98800: 	public static string get_Stage2Headpat1() { }
+98801: 
+98802: 	// RVA: 0x930E20 Offset: 0x930220 VA: 0x180930E20
+98803: 	public static string get_Stage2Headpat2() { }
+98804: 
+98805: 	// RVA: 0x930E70 Offset: 0x930270 VA: 0x180930E70
+98806: 	public static string get_Stage2Headpat3() { }
+98807: 
+98808: 	// RVA: 0x931230 Offset: 0x930630 VA: 0x180931230
+98809: 	public static string get_Word_Brother() { }
+98810: 
+98811: 	// RVA: 0x931280 Offset: 0x930680 VA: 0x180931280
+98812: 	public static string get_Word_Sister() { }
+98813: 
+98814: 	// RVA: 0x930880 Offset: 0x92FC80 VA: 0x180930880
+98815: 	public static string get_Outside_RiotsDanger() { }
+
+--- Around dump line 98806 ---
+98798: 
+98799: 	// RVA: 0x930DD0 Offset: 0x9301D0 VA: 0x180930DD0
+98800: 	public static string get_Stage2Headpat1() { }
+98801: 
+98802: 	// RVA: 0x930E20 Offset: 0x930220 VA: 0x180930E20
+98803: 	public static string get_Stage2Headpat2() { }
+98804: 
+98805: 	// RVA: 0x930E70 Offset: 0x930270 VA: 0x180930E70
+98806: 	public static string get_Stage2Headpat3() { }
+98807: 
+98808: 	// RVA: 0x931230 Offset: 0x930630 VA: 0x180931230
+98809: 	public static string get_Word_Brother() { }
+98810: 
+98811: 	// RVA: 0x931280 Offset: 0x930680 VA: 0x180931280
+98812: 	public static string get_Word_Sister() { }
+98813: 
+98814: 	// RVA: 0x930880 Offset: 0x92FC80 VA: 0x180930880
+98815: 	public static string get_Outside_RiotsDanger() { }
+98816: 
+98817: 	// RVA: 0x92EF80 Offset: 0x92E380 VA: 0x18092EF80
+98818: 	public static string get_Fishing_PollutedLakeName() { }
+
+--- Around dump line 129429 ---
+129421: 
+129422: 	// RVA: 0xA56300 Offset: 0xA55700 VA: 0x180A56300
+129423: 	public string GenerateCommonPersonalityModuleConversations() { }
+129424: 
+129425: 	// RVA: 0xA7E260 Offset: 0xA7D660 VA: 0x180A7E260
+129426: 	public StoryBotDialogueStage get_Stage1() { }
+129427: 
+129428: 	// RVA: 0xA7E2D0 Offset: 0xA7D6D0 VA: 0x180A7E2D0
+129429: 	public StoryBotDialogueStage get_Stage2() { }
+129430: 
+129431: 	// RVA: 0xA7E340 Offset: 0xA7D740 VA: 0x180A7E340
+129432: 	public StoryBotDialogueStage get_Stage3() { }
+129433: 
+129434: 	// RVA: 0xA56F80 Offset: 0xA56380 VA: 0x180A56F80
+129435: 	private StoryBotDialogueStage GetStageInner(int stageNr) { }
+129436: 
+129437: 	// RVA: 0xA7E1A0 Offset: 0xA7D5A0 VA: 0x180A7E1A0
+129438: 	public IEnumerable<StoryBotDialogueStage> get_AllStages() { }
+129439: 
+129440: 	[IteratorStateMachine(typeof(StorySingleton.<GetAllStages>d__46))]
+129441: 	// RVA: 0xA56E90 Offset: 0xA56290 VA: 0x180A56E90
+
+TOTAL MATCHES: 4
+
+############################################################
+TARGET: get_Stage3
+############################################################
+
+--- Around dump line 129432 ---
+129424: 
+129425: 	// RVA: 0xA7E260 Offset: 0xA7D660 VA: 0x180A7E260
+129426: 	public StoryBotDialogueStage get_Stage1() { }
+129427: 
+129428: 	// RVA: 0xA7E2D0 Offset: 0xA7D6D0 VA: 0x180A7E2D0
+129429: 	public StoryBotDialogueStage get_Stage2() { }
+129430: 
+129431: 	// RVA: 0xA7E340 Offset: 0xA7D740 VA: 0x180A7E340
+129432: 	public StoryBotDialogueStage get_Stage3() { }
+129433: 
+129434: 	// RVA: 0xA56F80 Offset: 0xA56380 VA: 0x180A56F80
+129435: 	private StoryBotDialogueStage GetStageInner(int stageNr) { }
+129436: 
+129437: 	// RVA: 0xA7E1A0 Offset: 0xA7D5A0 VA: 0x180A7E1A0
+129438: 	public IEnumerable<StoryBotDialogueStage> get_AllStages() { }
+129439: 
+129440: 	[IteratorStateMachine(typeof(StorySingleton.<GetAllStages>d__46))]
+129441: 	// RVA: 0xA56E90 Offset: 0xA56290 VA: 0x180A56E90
+129442: 	private IEnumerable<StoryBotDialogueStage> GetAllStages() { }
+129443: 
+129444: 	// RVA: 0xA57040 Offset: 0xA56440 VA: 0x180A57040
+
+TOTAL MATCHES: 1
+
+############################################################
+TARGET: GetStageInner
+############################################################
+
+--- Around dump line 129435 ---
+129427: 
+129428: 	// RVA: 0xA7E2D0 Offset: 0xA7D6D0 VA: 0x180A7E2D0
+129429: 	public StoryBotDialogueStage get_Stage2() { }
+129430: 
+129431: 	// RVA: 0xA7E340 Offset: 0xA7D740 VA: 0x180A7E340
+129432: 	public StoryBotDialogueStage get_Stage3() { }
+129433: 
+129434: 	// RVA: 0xA56F80 Offset: 0xA56380 VA: 0x180A56F80
+129435: 	private StoryBotDialogueStage GetStageInner(int stageNr) { }
+129436: 
+129437: 	// RVA: 0xA7E1A0 Offset: 0xA7D5A0 VA: 0x180A7E1A0
+129438: 	public IEnumerable<StoryBotDialogueStage> get_AllStages() { }
+129439: 
+129440: 	[IteratorStateMachine(typeof(StorySingleton.<GetAllStages>d__46))]
+129441: 	// RVA: 0xA56E90 Offset: 0xA56290 VA: 0x180A56E90
+129442: 	private IEnumerable<StoryBotDialogueStage> GetAllStages() { }
+129443: 
+129444: 	// RVA: 0xA57040 Offset: 0xA56440 VA: 0x180A57040
+129445: 	private StoryBotDialogueStage GetStage(int stageNr, string queryTag) { }
+129446: 
+129447: 	// RVA: 0xA56FA0 Offset: 0xA563A0 VA: 0x180A56FA0
+
+TOTAL MATCHES: 1
+
+############################################################
+TARGET: GetStage
+############################################################
+
+--- Around dump line 129435 ---
+129427: 
+129428: 	// RVA: 0xA7E2D0 Offset: 0xA7D6D0 VA: 0x180A7E2D0
+129429: 	public StoryBotDialogueStage get_Stage2() { }
+129430: 
+129431: 	// RVA: 0xA7E340 Offset: 0xA7D740 VA: 0x180A7E340
+129432: 	public StoryBotDialogueStage get_Stage3() { }
+129433: 
+129434: 	// RVA: 0xA56F80 Offset: 0xA56380 VA: 0x180A56F80
+129435: 	private StoryBotDialogueStage GetStageInner(int stageNr) { }
+129436: 
+129437: 	// RVA: 0xA7E1A0 Offset: 0xA7D5A0 VA: 0x180A7E1A0
+129438: 	public IEnumerable<StoryBotDialogueStage> get_AllStages() { }
+129439: 
+129440: 	[IteratorStateMachine(typeof(StorySingleton.<GetAllStages>d__46))]
+129441: 	// RVA: 0xA56E90 Offset: 0xA56290 VA: 0x180A56E90
+129442: 	private IEnumerable<StoryBotDialogueStage> GetAllStages() { }
+129443: 
+129444: 	// RVA: 0xA57040 Offset: 0xA56440 VA: 0x180A57040
+129445: 	private StoryBotDialogueStage GetStage(int stageNr, string queryTag) { }
+129446: 
+129447: 	// RVA: 0xA56FA0 Offset: 0xA563A0 VA: 0x180A56FA0
+
+--- Around dump line 129445 ---
+129437: 	// RVA: 0xA7E1A0 Offset: 0xA7D5A0 VA: 0x180A7E1A0
+129438: 	public IEnumerable<StoryBotDialogueStage> get_AllStages() { }
+129439: 
+129440: 	[IteratorStateMachine(typeof(StorySingleton.<GetAllStages>d__46))]
+129441: 	// RVA: 0xA56E90 Offset: 0xA56290 VA: 0x180A56E90
+129442: 	private IEnumerable<StoryBotDialogueStage> GetAllStages() { }
+129443: 
+129444: 	// RVA: 0xA57040 Offset: 0xA56440 VA: 0x180A57040
+129445: 	private StoryBotDialogueStage GetStage(int stageNr, string queryTag) { }
+129446: 
+129447: 	// RVA: 0xA56FA0 Offset: 0xA563A0 VA: 0x180A56FA0
+129448: 	public StoryBotDialogueStage GetStage(int stageNr) { }
+129449: 
+129450: 	// RVA: -1 Offset: -1
+129451: 	public T GetDialogueArea<T>() { }
+129452: 	/* GenericInstMethod :
+129453: 	|
+129454: 	|-RVA: 0xE02520 Offset: 0xE01920 VA: 0x180E02520
+129455: 	|-StorySingleton.GetDialogueArea<object>
+129456: 	*/
+129457: 
+
+--- Around dump line 129448 ---
+129440: 	[IteratorStateMachine(typeof(StorySingleton.<GetAllStages>d__46))]
+129441: 	// RVA: 0xA56E90 Offset: 0xA56290 VA: 0x180A56E90
+129442: 	private IEnumerable<StoryBotDialogueStage> GetAllStages() { }
+129443: 
+129444: 	// RVA: 0xA57040 Offset: 0xA56440 VA: 0x180A57040
+129445: 	private StoryBotDialogueStage GetStage(int stageNr, string queryTag) { }
+129446: 
+129447: 	// RVA: 0xA56FA0 Offset: 0xA563A0 VA: 0x180A56FA0
+129448: 	public StoryBotDialogueStage GetStage(int stageNr) { }
+129449: 
+129450: 	// RVA: -1 Offset: -1
+129451: 	public T GetDialogueArea<T>() { }
+129452: 	/* GenericInstMethod :
+129453: 	|
+129454: 	|-RVA: 0xE02520 Offset: 0xE01920 VA: 0x180E02520
+129455: 	|-StorySingleton.GetDialogueArea<object>
+129456: 	*/
+129457: 
+129458: 	// RVA: 0xA7DD60 Offset: 0xA7D160 VA: 0x180A7DD60
+129459: 	public bool TryGetTag(int stageNr, string queryTag, out StoryBotDialogueTag storyTag) { }
+129460: 
+
+TOTAL MATCHES: 3
+
+############################################################
+TARGET: PrepareContainer
+############################################################
+
+--- Around dump line 128840 ---
+128832: 
+128833: // Namespace: 
+128834: public class StorySingleton.LuaPersonalityModuleDefinition : StorySingleton.PersonalityModuleDefinition // TypeDefIndex: 2280
+128835: {
+128836: 	// Methods
+128837: 
+128838: 	[Preserve]
+128839: 	// RVA: 0xA83040 Offset: 0xA82440 VA: 0x180A83040
+128840: 	public StoryBotDialogueBranchContainer PrepareContainer(string tagId, int stageNr) { }
+128841: 
+128842: 	// RVA: 0xA83150 Offset: 0xA82550 VA: 0x180A83150
+128843: 	public void .ctor() { }
+128844: }
+128845: 
+128846: // Namespace: 
+128847: [CompilerGenerated]
+128848: [Serializable]
+128849: private sealed class StorySingleton.ConversationContainerPersonalityModuleDefinition.<>c<T> // TypeDefIndex: 2281
+128850: {
+128851: 	// Fields
+128852: 	public static readonly StorySingleton.ConversationContainerPersonalityModuleDefinition.<>c<T> <>9; // 0x0
+
+TOTAL MATCHES: 1
+
+############################################################
+TARGET: CreateContainer
+############################################################
+
+--- Around dump line 130026 ---
+130018: 	[CompilerGenerated]
+130019: 	// RVA: 0x4F3C30 Offset: 0x4F3030 VA: 0x1804F3C30
+130020: 	private void set_SourceStage(StoryBotDialogueStage value) { }
+130021: 
+130022: 	// RVA: 0xA94220 Offset: 0xA93620 VA: 0x180A94220
+130023: 	public ReadOnlyCollection<StoryBotDialogueBranchContainer> get_AllContainers() { }
+130024: 
+130025: 	// RVA: 0xA921D0 Offset: 0xA915D0 VA: 0x180A921D0
+130026: 	public void CreateContainer(out StoryBotDialogueBranchContainer container, StoryBotContainerTypeEnum type) { }
+130027: 
+130028: 	// RVA: 0xA927D0 Offset: 0xA91BD0 VA: 0x180A927D0 Slot: 4
+130029: 	public IEnumerable<StoryBotDialogueBranch> GetBranches() { }
+130030: 
+130031: 	// RVA: 0xA92A10 Offset: 0xA91E10 VA: 0x180A92A10
+130032: 	public void GetDialogues(HashSet<StoryBotDialogueBranch> uniqueDialogues, HashSet<StoryBotDialogueBranch> genericDialogues, int uniqueDialoguesCount, SceneEnumFlag sceneEnumFlag) { }
+130033: 
+130034: 	// RVA: 0xA92910 Offset: 0xA91D10 VA: 0x180A92910
+130035: 	public bool GetDialogueForModelBrainState(ModelBrainState modelBrainState, out StoryBotDialogueBranch branch) { }
+130036: 
+130037: 	// RVA: 0xA92D90 Offset: 0xA92190 VA: 0x180A92D90
+130038: 	public bool StartDialogueFromModelBrainState(StoryBotDialogueBranch branch, ModelBrainState modelBrainState, bool isRealDialogue, bool noWrapper) { }
+
+--- Around dump line 130097 ---
+130089: 
+130090: 	// RVA: 0x397420 Offset: 0x396820 VA: 0x180397420
+130091: 	public void .ctor() { }
+130092: 
+130093: 	// RVA: 0x409780 Offset: 0x408B80 VA: 0x180409780
+130094: 	public void .ctor(string id) { }
+130095: 
+130096: 	// RVA: 0xA919F0 Offset: 0xA90DF0 VA: 0x180A919F0
+130097: 	public void CreateContainer(StoryBotDialogueStage stage, out StoryBotDialogueBranchContainer o, StoryBotContainerTypeEnum type) { }
+130098: 
+130099: 	// RVA: 0xA91990 Offset: 0xA90D90 VA: 0x180A91990
+130100: 	public StoryBotDialogueBranchContainer CreateContainerReturn(StoryBotDialogueStage stage, StoryBotContainerTypeEnum type) { }
+130101: 
+130102: 	// RVA: 0xA91F10 Offset: 0xA91310 VA: 0x180A91F10
+130103: 	public bool TryGetTag(out StoryBotDialogueTag o) { }
+130104: 
+130105: 	// RVA: 0xA91E20 Offset: 0xA91220 VA: 0x180A91E20
+130106: 	public bool StartDialogueFromModelBrainState(ModelBrainState modelBrainState, bool isRealDialogue) { }
+130107: 
+130108: 	// RVA: 0xA91D20 Offset: 0xA91120 VA: 0x180A91D20
+130109: 	public ManagedCoroutine StartDialogueFromModelBrainStateAndWait(ModelBrainState modelBrainState, bool isRealDialogue, bool noWrapper) { }
+
+--- Around dump line 130100 ---
+130092: 
+130093: 	// RVA: 0x409780 Offset: 0x408B80 VA: 0x180409780
+130094: 	public void .ctor(string id) { }
+130095: 
+130096: 	// RVA: 0xA919F0 Offset: 0xA90DF0 VA: 0x180A919F0
+130097: 	public void CreateContainer(StoryBotDialogueStage stage, out StoryBotDialogueBranchContainer o, StoryBotContainerTypeEnum type) { }
+130098: 
+130099: 	// RVA: 0xA91990 Offset: 0xA90D90 VA: 0x180A91990
+130100: 	public StoryBotDialogueBranchContainer CreateContainerReturn(StoryBotDialogueStage stage, StoryBotContainerTypeEnum type) { }
+130101: 
+130102: 	// RVA: 0xA91F10 Offset: 0xA91310 VA: 0x180A91F10
+130103: 	public bool TryGetTag(out StoryBotDialogueTag o) { }
+130104: 
+130105: 	// RVA: 0xA91E20 Offset: 0xA91220 VA: 0x180A91E20
+130106: 	public bool StartDialogueFromModelBrainState(ModelBrainState modelBrainState, bool isRealDialogue) { }
+130107: 
+130108: 	// RVA: 0xA91D20 Offset: 0xA91120 VA: 0x180A91D20
+130109: 	public ManagedCoroutine StartDialogueFromModelBrainStateAndWait(ModelBrainState modelBrainState, bool isRealDialogue, bool noWrapper) { }
+130110: 
+130111: 	// RVA: 0xA91BB0 Offset: 0xA90FB0 VA: 0x180A91BB0
+130112: 	public void FromTupleReference(StoryBotDialogueStage stage3, GameId id, LOS.TupleReference target, bool waitForInput) { }
+
+--- Around dump line 847646 ---
+847638: 	internal IStreamDecoder <.cctor>b__83_1(IPacketProvider pp) { }
+847639: }
+847640: 
+847641: // Namespace: NVorbis
+847642: public sealed class VorbisReader : IEnumerator<object> // TypeDefIndex: 15478
+847643: {
+847644: 	// Fields
+847645: 	[CompilerGenerated]
+847646: 	private static Func<Stream, bool, IContainerReader> <CreateContainerReader>k__BackingField; // 0x0
+847647: 	[CompilerGenerated]
+847648: 	private static Func<IPacketProvider, IStreamDecoder> <CreateStreamDecoder>k__BackingField; // 0x8
+847649: 	private readonly List<IStreamDecoder> _decoders; // 0x10
+847650: 	private readonly IContainerReader _containerReader; // 0x18
+847651: 	private readonly bool _closeOnDispose; // 0x20
+847652: 	private IStreamDecoder _streamDecoder; // 0x28
+847653: 	[CompilerGenerated]
+847654: 	private EventHandler<NewStreamEventArgs> NewStream; // 0x30
+847655: 
+847656: 	// Properties
+847657: 	internal static Func<Stream, bool, IContainerReader> CreateContainerReader { get; }
+847658: 	internal static Func<IPacketProvider, IStreamDecoder> CreateStreamDecoder { get; }
+
+--- Around dump line 847657 ---
+847649: 	private readonly List<IStreamDecoder> _decoders; // 0x10
+847650: 	private readonly IContainerReader _containerReader; // 0x18
+847651: 	private readonly bool _closeOnDispose; // 0x20
+847652: 	private IStreamDecoder _streamDecoder; // 0x28
+847653: 	[CompilerGenerated]
+847654: 	private EventHandler<NewStreamEventArgs> NewStream; // 0x30
+847655: 
+847656: 	// Properties
+847657: 	internal static Func<Stream, bool, IContainerReader> CreateContainerReader { get; }
+847658: 	internal static Func<IPacketProvider, IStreamDecoder> CreateStreamDecoder { get; }
+847659: 	public int Channels { get; }
+847660: 	public int SampleRate { get; }
+847661: 	public long TotalSamples { get; }
+847662: 
+847663: 	// Methods
+847664: 
+847665: 	[CompilerGenerated]
+847666: 	// RVA: 0x1F550B0 Offset: 0x1F544B0 VA: 0x181F550B0
+847667: 	internal static Func<Stream, bool, IContainerReader> get_CreateContainerReader() { }
+847668: 
+847669: 	[CompilerGenerated]
+
+--- Around dump line 847667 ---
+847659: 	public int Channels { get; }
+847660: 	public int SampleRate { get; }
+847661: 	public long TotalSamples { get; }
+847662: 
+847663: 	// Methods
+847664: 
+847665: 	[CompilerGenerated]
+847666: 	// RVA: 0x1F550B0 Offset: 0x1F544B0 VA: 0x181F550B0
+847667: 	internal static Func<Stream, bool, IContainerReader> get_CreateContainerReader() { }
+847668: 
+847669: 	[CompilerGenerated]
+847670: 	// RVA: 0x1F55100 Offset: 0x1F54500 VA: 0x181F55100
+847671: 	internal static Func<IPacketProvider, IStreamDecoder> get_CreateStreamDecoder() { }
+847672: 
+847673: 	// RVA: 0x1F54D00 Offset: 0x1F54100 VA: 0x181F54D00
+847674: 	public void .ctor(Stream stream, bool closeOnDispose) { }
+847675: 
+847676: 	// RVA: 0x1F54890 Offset: 0x1F53C90 VA: 0x181F54890
+847677: 	private bool ProcessNewStream(IPacketProvider packetProvider) { }
+847678: 
+847679: 	// RVA: 0x1F54640 Offset: 0x1F53A40 VA: 0x181F54640 Slot: 4
+
+TOTAL MATCHES: 6
+
+============================================================
+END REPORT
+============================================================
