@@ -1,0 +1,1515 @@
+============================================================
+MDRG 0.97 - Focused API Compatibility Report
+============================================================
+
+Source:
+C:\Users\gabec\Downloads\MDRG_Mod_Update_Audit\IL2CPP_Dump_0.97\dump.cs
+
+
+############################################################
+TARGET: ModUtilities
+############################################################
+
+TOTAL OCCURRENCES: 5
+
+
+--- MATCH NEAR DUMP LINE 118391 ---
+118383: 
+118384: 	// RVA: 0x9D33C0 Offset: 0x9D27C0 VA: 0x1809D33C0
+118385: 	public static ModdableTable.TranslationStatus LoadTranslations(Mod mod, ModsSingleton.ModTranslationDataLoaded translationData, List<string> allModKeys) { }
+118386: }
+118387: 
+118388: // Namespace: 
+118389: [CompilerGenerated]
+118390: [Serializable]
+118391: private sealed class ModUtilities.<>c // TypeDefIndex: 1971
+118392: {
+118393: 	// Fields
+118394: 	public static readonly ModUtilities.<>c <>9; // 0x0
+118395: 	public static Func<ModFileBase, MidiFile> <>9__15_0; // 0x8
+118396: 	public static Func<ModFileBase, AudioClip> <>9__17_0; // 0x10
+118397: 
+118398: 	// Methods
+118399: 
+118400: 	// RVA: 0x9E0BC0 Offset: 0x9DFFC0 VA: 0x1809E0BC0
+118401: 	private static void .cctor() { }
+118402: 
+118403: 	// RVA: 0x397420 Offset: 0x396820 VA: 0x180397420
+
+--- MATCH NEAR DUMP LINE 118415 ---
+118407: 	internal MidiFile <GetMidiReference>b__15_0(ModFileBase modFile) { }
+118408: 
+118409: 	// RVA: 0x9C00F0 Offset: 0x9BF4F0 VA: 0x1809C00F0
+118410: 	internal AudioClip <GetAsAudioClipReference>b__17_0(ModFileBase modFile) { }
+118411: }
+118412: 
+118413: // Namespace: 
+118414: [CompilerGenerated]
+118415: private sealed class ModUtilities.<>c__DisplayClass16_0 // TypeDefIndex: 1972
+118416: {
+118417: 	// Fields
+118418: 	public string songName; // 0x10
+118419: 	public string songAuthor; // 0x18
+118420: 
+118421: 	// Methods
+118422: 
+118423: 	// RVA: 0x397420 Offset: 0x396820 VA: 0x180397420
+118424: 	public void .ctor() { }
+118425: 
+118426: 	// RVA: 0x9E07D0 Offset: 0x9DFBD0 VA: 0x1809E07D0
+118427: 	internal IMusicWithInfo <GetAsMusicWithInfo>b__0(ModFileBase modFile) { }
+
+--- MATCH NEAR DUMP LINE 118432 ---
+118424: 	public void .ctor() { }
+118425: 
+118426: 	// RVA: 0x9E07D0 Offset: 0x9DFBD0 VA: 0x1809E07D0
+118427: 	internal IMusicWithInfo <GetAsMusicWithInfo>b__0(ModFileBase modFile) { }
+118428: }
+118429: 
+118430: // Namespace: 
+118431: [CompilerGenerated]
+118432: private sealed class ModUtilities.<>c__DisplayClass20_0 // TypeDefIndex: 1973
+118433: {
+118434: 	// Fields
+118435: 	public float ppu; // 0x10
+118436: 
+118437: 	// Methods
+118438: 
+118439: 	// RVA: 0x397420 Offset: 0x396820 VA: 0x180397420
+118440: 	public void .ctor() { }
+118441: 
+118442: 	// RVA: 0x9E0870 Offset: 0x9DFC70 VA: 0x1809E0870
+118443: 	internal Sprite <GetSpriteReference>b__0(Texture2D tex) { }
+118444: }
+
+--- MATCH NEAR DUMP LINE 118448 ---
+118440: 	public void .ctor() { }
+118441: 
+118442: 	// RVA: 0x9E0870 Offset: 0x9DFC70 VA: 0x1809E0870
+118443: 	internal Sprite <GetSpriteReference>b__0(Texture2D tex) { }
+118444: }
+118445: 
+118446: // Namespace: 
+118447: [Preserve]
+118448: internal class ModUtilities : SingletonMonoBehaviour<ModUtilities> // TypeDefIndex: 1974
+118449: {
+118450: 	// Methods
+118451: 
+118452: 	// RVA: 0x9CA440 Offset: 0x9C9840 VA: 0x1809CA440
+118453: 	private void CheckIfInInitialization() { }
+118454: 
+118455: 	[Preserve]
+118456: 	// RVA: 0x9CA630 Offset: 0x9C9A30 VA: 0x1809CA630
+118457: 	public ModCustomStringReference CreateLocalizableString(Guid modGuid, string key, string text, bool smartString) { }
+118458: 
+118459: 	[Preserve]
+118460: 	// RVA: 0x9CAF00 Offset: 0x9CA300 VA: 0x1809CAF00
+
+Additional matches omitted: 1
+
+############################################################
+TARGET: CreateItemPrefab
+############################################################
+
+TOTAL OCCURRENCES: 2
+
+
+--- MATCH NEAR DUMP LINE 118469 ---
+118461: 	public ModCustomStringReference GetLocalizableString(Guid modGuid, string key) { }
+118462: 
+118463: 	[Preserve]
+118464: 	// RVA: 0x9CADC0 Offset: 0x9CA1C0 VA: 0x1809CADC0
+118465: 	public string GetLocalizableStringRaw(Guid modGuid, string key) { }
+118466: 
+118467: 	[Preserve]
+118468: 	// RVA: 0x9CA510 Offset: 0x9C9910 VA: 0x1809CA510
+118469: 	public ItemPrefab CreateItemPrefab() { }
+118470: 
+118471: 	[Preserve]
+118472: 	// RVA: 0x9CA5A0 Offset: 0x9C99A0 VA: 0x1809CA5A0
+118473: 	public ItemPrefab CreateItemPrefab(string name, string description, int price) { }
+118474: 
+118475: 	[Preserve]
+118476: 	// RVA: 0x9CA8B0 Offset: 0x9C9CB0 VA: 0x1809CA8B0
+118477: 	public GameId CreateNewItemAutoAssignId(Guid modGuid, ItemPrefab itemPrefab) { }
+118478: 
+118479: 	[Preserve]
+118480: 	// RVA: 0x9CA8B0 Offset: 0x9C9CB0 VA: 0x1809CA8B0
+118481: 	public GameId CreateNewItem(Guid modGuid, ItemPrefab itemPrefab) { }
+
+--- MATCH NEAR DUMP LINE 118473 ---
+118465: 	public string GetLocalizableStringRaw(Guid modGuid, string key) { }
+118466: 
+118467: 	[Preserve]
+118468: 	// RVA: 0x9CA510 Offset: 0x9C9910 VA: 0x1809CA510
+118469: 	public ItemPrefab CreateItemPrefab() { }
+118470: 
+118471: 	[Preserve]
+118472: 	// RVA: 0x9CA5A0 Offset: 0x9C99A0 VA: 0x1809CA5A0
+118473: 	public ItemPrefab CreateItemPrefab(string name, string description, int price) { }
+118474: 
+118475: 	[Preserve]
+118476: 	// RVA: 0x9CA8B0 Offset: 0x9C9CB0 VA: 0x1809CA8B0
+118477: 	public GameId CreateNewItemAutoAssignId(Guid modGuid, ItemPrefab itemPrefab) { }
+118478: 
+118479: 	[Preserve]
+118480: 	// RVA: 0x9CA8B0 Offset: 0x9C9CB0 VA: 0x1809CA8B0
+118481: 	public GameId CreateNewItem(Guid modGuid, ItemPrefab itemPrefab) { }
+118482: 
+118483: 	[Preserve]
+118484: 	// RVA: 0x9CA960 Offset: 0x9C9D60 VA: 0x1809CA960
+118485: 	public GameId CreateNewItem(int id, Guid modGuid, ItemPrefab itemPrefab) { }
+
+############################################################
+TARGET: CreateNewItemAutoAssignId
+############################################################
+
+TOTAL OCCURRENCES: 1
+
+
+--- MATCH NEAR DUMP LINE 118477 ---
+118469: 	public ItemPrefab CreateItemPrefab() { }
+118470: 
+118471: 	[Preserve]
+118472: 	// RVA: 0x9CA5A0 Offset: 0x9C99A0 VA: 0x1809CA5A0
+118473: 	public ItemPrefab CreateItemPrefab(string name, string description, int price) { }
+118474: 
+118475: 	[Preserve]
+118476: 	// RVA: 0x9CA8B0 Offset: 0x9C9CB0 VA: 0x1809CA8B0
+118477: 	public GameId CreateNewItemAutoAssignId(Guid modGuid, ItemPrefab itemPrefab) { }
+118478: 
+118479: 	[Preserve]
+118480: 	// RVA: 0x9CA8B0 Offset: 0x9C9CB0 VA: 0x1809CA8B0
+118481: 	public GameId CreateNewItem(Guid modGuid, ItemPrefab itemPrefab) { }
+118482: 
+118483: 	[Preserve]
+118484: 	// RVA: 0x9CA960 Offset: 0x9C9D60 VA: 0x1809CA960
+118485: 	public GameId CreateNewItem(int id, Guid modGuid, ItemPrefab itemPrefab) { }
+118486: 
+118487: 	[Preserve]
+118488: 	// RVA: 0x9CA110 Offset: 0x9C9510 VA: 0x1809CA110
+118489: 	public void AddGenericItemToShop(string shopId, GameId gameId, Func<bool> availabilityFunc, float occurenceRate) { }
+
+############################################################
+TARGET: AddSingleBuyItemToShop
+############################################################
+
+TOTAL OCCURRENCES: 1
+
+
+--- MATCH NEAR DUMP LINE 118493 ---
+118485: 	public GameId CreateNewItem(int id, Guid modGuid, ItemPrefab itemPrefab) { }
+118486: 
+118487: 	[Preserve]
+118488: 	// RVA: 0x9CA110 Offset: 0x9C9510 VA: 0x1809CA110
+118489: 	public void AddGenericItemToShop(string shopId, GameId gameId, Func<bool> availabilityFunc, float occurenceRate) { }
+118490: 
+118491: 	[Preserve]
+118492: 	// RVA: 0x9CA280 Offset: 0x9C9680 VA: 0x1809CA280
+118493: 	public void AddSingleBuyItemToShop(string shopId, GameId gameId, Func<bool> availabilityFunc, float occurenceRate) { }
+118494: 
+118495: 	[Preserve]
+118496: 	// RVA: 0x9CB210 Offset: 0x9CA610 VA: 0x1809CB210
+118497: 	public ModFileBase GetModFile(Guid modGuid, string path) { }
+118498: 
+118499: 	[Preserve]
+118500: 	// RVA: 0x9CB340 Offset: 0x9CA740 VA: 0x1809CB340
+118501: 	public PackedTexturesContainer GetPackedTexture(Guid modGuid, string formatPath) { }
+118502: 
+118503: 	[Preserve]
+118504: 	// RVA: 0x9CB710 Offset: 0x9CAB10 VA: 0x1809CB710
+118505: 	public Texture2D GetTexture(Guid modGuid, string path) { }
+
+############################################################
+TARGET: PrepareNewPersonalityDefinition
+############################################################
+
+TOTAL OCCURRENCES: 1
+
+
+--- MATCH NEAR DUMP LINE 118543 ---
+118535: 	// RVA: 0x9CAC80 Offset: 0x9CA080 VA: 0x1809CAC80
+118536: 	public IReference<Sprite> GetAsSprite(Guid modGuid, string path, float ppu) { }
+118537: 
+118538: 	[Preserve]
+118539: 	// RVA: 0x765540 Offset: 0x764940 VA: 0x180765540
+118540: 	public Guid GetNewGuid() { }
+118541: 
+118542: 	// RVA: 0x9CB7D0 Offset: 0x9CABD0 VA: 0x1809CB7D0
+118543: 	public StorySingleton.LuaPersonalityModuleDefinition PrepareNewPersonalityDefinition() { }
+118544: 
+118545: 	[UsedInLua]
+118546: 	// RVA: 0x9CB820 Offset: 0x9CAC20 VA: 0x1809CB820
+118547: 	public ManagedCoroutineWithTarget StartCoroutine(Closure closure, Action onFinished) { }
+118548: 
+118549: 	[UsedInLua]
+118550: 	// RVA: 0x9CB900 Offset: 0x9CAD00 VA: 0x1809CB900
+118551: 	public WaitForSeconds WaitForSeconds(float seconds) { }
+118552: 
+118553: 	[UsedInLua]
+118554: 	// RVA: 0x9CB8E0 Offset: 0x9CACE0 VA: 0x1809CB8E0
+118555: 	public void StopCoroutine(ManagedCoroutineWithTarget coroutine) { }
+
+############################################################
+TARGET: PrepareContainer
+############################################################
+
+TOTAL OCCURRENCES: 1
+
+
+--- MATCH NEAR DUMP LINE 128840 ---
+128832: 
+128833: // Namespace: 
+128834: public class StorySingleton.LuaPersonalityModuleDefinition : StorySingleton.PersonalityModuleDefinition // TypeDefIndex: 2280
+128835: {
+128836: 	// Methods
+128837: 
+128838: 	[Preserve]
+128839: 	// RVA: 0xA83040 Offset: 0xA82440 VA: 0x180A83040
+128840: 	public StoryBotDialogueBranchContainer PrepareContainer(string tagId, int stageNr) { }
+128841: 
+128842: 	// RVA: 0xA83150 Offset: 0xA82550 VA: 0x180A83150
+128843: 	public void .ctor() { }
+128844: }
+128845: 
+128846: // Namespace: 
+128847: [CompilerGenerated]
+128848: [Serializable]
+128849: private sealed class StorySingleton.ConversationContainerPersonalityModuleDefinition.<>c<T> // TypeDefIndex: 2281
+128850: {
+128851: 	// Fields
+128852: 	public static readonly StorySingleton.ConversationContainerPersonalityModuleDefinition.<>c<T> <>9; // 0x0
+
+############################################################
+TARGET: StoryBotDialogueBranch
+############################################################
+
+TOTAL OCCURRENCES: 117
+
+
+--- MATCH NEAR DUMP LINE 76961 ---
+76953: 	internal void <DoThingsTogetherButtonClicked>b__34_1() { }
+76954: }
+76955: 
+76956: // Namespace: 
+76957: [CompilerGenerated]
+76958: private sealed class InteractState.<>c__DisplayClass32_0 // TypeDefIndex: 1344
+76959: {
+76960: 	// Fields
+76961: 	public StoryBotDialogueBranch random; // 0x10
+76962: 	public InteractState <>4__this; // 0x18
+76963: 
+76964: 	// Methods
+76965: 
+76966: 	// RVA: 0x397420 Offset: 0x396820 VA: 0x180397420
+76967: 	public void .ctor() { }
+76968: 
+76969: 	// RVA: 0x868760 Offset: 0x867B60 VA: 0x180868760
+76970: 	internal void <TalkButtonClicked>b__1() { }
+76971: }
+76972: 
+76973: // Namespace: 
+
+--- MATCH NEAR DUMP LINE 76978 ---
+76970: 	internal void <TalkButtonClicked>b__1() { }
+76971: }
+76972: 
+76973: // Namespace: 
+76974: [CompilerGenerated]
+76975: private sealed class InteractState.<>c__DisplayClass32_1 // TypeDefIndex: 1345
+76976: {
+76977: 	// Fields
+76978: 	public StoryBotDialogueBranch t; // 0x10
+76979: 	public InteractState <>4__this; // 0x18
+76980: 
+76981: 	// Methods
+76982: 
+76983: 	// RVA: 0x397420 Offset: 0x396820 VA: 0x180397420
+76984: 	public void .ctor() { }
+76985: 
+76986: 	// RVA: 0x868790 Offset: 0x867B90 VA: 0x180868790
+76987: 	internal void <TalkButtonClicked>b__2() { }
+76988: }
+76989: 
+76990: // Namespace: 
+
+--- MATCH NEAR DUMP LINE 77041 ---
+77033: 
+77034: 	// RVA: 0x855860 Offset: 0x854C60 VA: 0x180855860 Slot: 4
+77035: 	public override void EnterState() { }
+77036: 
+77037: 	// RVA: 0x856140 Offset: 0x855540 VA: 0x180856140 Slot: 5
+77038: 	public override void ExitState() { }
+77039: 
+77040: 	// RVA: 0x856440 Offset: 0x855840 VA: 0x180856440
+77041: 	private void GetDialogueChains(HashSet<StoryBotDialogueBranch> uniqueDialogues, HashSet<StoryBotDialogueBranch> genericDialogues) { }
+77042: 
+77043: 	// RVA: 0x854E90 Offset: 0x854290 VA: 0x180854E90
+77044: 	private bool CanMoveToNextStage() { }
+77045: 
+77046: 	// RVA: 0x856DB0 Offset: 0x8561B0 VA: 0x180856DB0
+77047: 	private void StartStoryStateBlock(FungusBlocks.FungusBlockReference blockReference) { }
+77048: 
+77049: 	// RVA: 0x856B20 Offset: 0x855F20 VA: 0x180856B20
+77050: 	public void StartDialogue(StoryBotDialogueBranch branch) { }
+77051: 
+77052: 	// RVA: 0x8566C0 Offset: 0x855AC0 VA: 0x1808566C0
+77053: 	private static void OnStoryStateFinished(bool isZoomedIn) { }
+
+--- MATCH NEAR DUMP LINE 77050 ---
+77042: 
+77043: 	// RVA: 0x854E90 Offset: 0x854290 VA: 0x180854E90
+77044: 	private bool CanMoveToNextStage() { }
+77045: 
+77046: 	// RVA: 0x856DB0 Offset: 0x8561B0 VA: 0x180856DB0
+77047: 	private void StartStoryStateBlock(FungusBlocks.FungusBlockReference blockReference) { }
+77048: 
+77049: 	// RVA: 0x856B20 Offset: 0x855F20 VA: 0x180856B20
+77050: 	public void StartDialogue(StoryBotDialogueBranch branch) { }
+77051: 
+77052: 	// RVA: 0x8566C0 Offset: 0x855AC0 VA: 0x1808566C0
+77053: 	private static void OnStoryStateFinished(bool isZoomedIn) { }
+77054: 
+77055: 	// RVA: 0x8565A0 Offset: 0x8559A0 VA: 0x1808565A0
+77056: 	public static View GetInteractView(bool zoomedIn) { }
+77057: 
+77058: 	// RVA: 0x857E50 Offset: 0x857250 VA: 0x180857E50
+77059: 	public void ZoomButtonClicked() { }
+77060: 
+77061: 	// RVA: 0x856EA0 Offset: 0x8562A0 VA: 0x180856EA0
+77062: 	public void TalkButtonClicked() { }
+
+--- MATCH NEAR DUMP LINE 77101 ---
+77093: 	private void <StartDialogue>b__27_0() { }
+77094: 
+77095: 	[CompilerGenerated]
+77096: 	// RVA: 0x857D60 Offset: 0x857160 VA: 0x180857D60
+77097: 	private void <ZoomButtonClicked>b__31_0() { }
+77098: 
+77099: 	[CompilerGenerated]
+77100: 	// RVA: 0x857AB0 Offset: 0x856EB0 VA: 0x180857AB0
+77101: 	private MenuOption <TalkButtonClicked>b__32_0(StoryBotDialogueBranch t) { }
+77102: 
+77103: 	[CompilerGenerated]
+77104: 	// RVA: 0x857C10 Offset: 0x857010 VA: 0x180857C10
+77105: 	private void <TalkButtonClicked>b__32_3() { }
+77106: 
+77107: 	[CompilerGenerated]
+77108: 	// RVA: 0x857C80 Offset: 0x857080 VA: 0x180857C80
+77109: 	private void <TalkButtonClicked>b__32_4() { }
+77110: 
+77111: 	[CompilerGenerated]
+77112: 	// RVA: 0x857CF0 Offset: 0x8570F0 VA: 0x180857CF0
+77113: 	private void <TalkButtonClicked>b__32_5() { }
+
+--- MATCH NEAR DUMP LINE 128817 ---
+128809: 	private IEnumerator System.Collections.IEnumerable.GetEnumerator() { }
+128810: }
+128811: 
+128812: // Namespace: 
+128813: public abstract class StorySingleton.PersonalityModuleDefinition // TypeDefIndex: 2279
+128814: {
+128815: 	// Fields
+128816: 	protected readonly StoryCondition[] EmptyConditions; // 0x10
+128817: 	protected Dictionary<string, StoryBotDialogueBranchContainer> _containers; // 0x18
+128818: 	protected HashSet<GameId> _items; // 0x20
+128819: 
+128820: 	// Methods
+128821: 
+128822: 	[IteratorStateMachine(typeof(StorySingleton.PersonalityModuleDefinition.<GetAllPersonalityModifiableTags>d__3))]
+128823: 	// RVA: 0xA8A4B0 Offset: 0xA898B0 VA: 0x180A8A4B0
+128824: 	public static IEnumerable<StoryBotDialogueTagDefinition> GetAllPersonalityModifiableTags(StorySingleton storySingleton) { }
+128825: 
+128826: 	// RVA: 0xA8A130 Offset: 0xA89530 VA: 0x180A8A130
+128827: 	public void AddItem(GameId gameId) { }
+128828: 
+128829: 	// RVA: 0xA83150 Offset: 0xA82550 VA: 0x180A83150
+
+--- MATCH NEAR DUMP LINE 128840 ---
+128832: 
+128833: // Namespace: 
+128834: public class StorySingleton.LuaPersonalityModuleDefinition : StorySingleton.PersonalityModuleDefinition // TypeDefIndex: 2280
+128835: {
+128836: 	// Methods
+128837: 
+128838: 	[Preserve]
+128839: 	// RVA: 0xA83040 Offset: 0xA82440 VA: 0x180A83040
+128840: 	public StoryBotDialogueBranchContainer PrepareContainer(string tagId, int stageNr) { }
+128841: 
+128842: 	// RVA: 0xA83150 Offset: 0xA82550 VA: 0x180A83150
+128843: 	public void .ctor() { }
+128844: }
+128845: 
+128846: // Namespace: 
+128847: [CompilerGenerated]
+128848: [Serializable]
+128849: private sealed class StorySingleton.ConversationContainerPersonalityModuleDefinition.<>c<T> // TypeDefIndex: 2281
+128850: {
+128851: 	// Fields
+128852: 	public static readonly StorySingleton.ConversationContainerPersonalityModuleDefinition.<>c<T> <>9; // 0x0
+
+--- MATCH NEAR DUMP LINE 128919 ---
+128911: }
+128912: 
+128913: // Namespace: 
+128914: public abstract class StorySingleton.ConversationContainerPersonalityModuleDefinition<T> : StorySingleton.PersonalityModuleDefinition // TypeDefIndex: 2282
+128915: {
+128916: 	// Methods
+128917: 
+128918: 	// RVA: -1 Offset: -1
+128919: 	protected void PrepareOverrideContainer(StoryBotDialogueStage stage, StoryBotDialogueTagDefinition tag, out StoryBotDialogueBranchContainer container) { }
+128920: 	/* GenericInstMethod :
+128921: 	|
+128922: 	|-RVA: 0x169CE60 Offset: 0x169C260 VA: 0x18169CE60
+128923: 	|-StorySingleton.ConversationContainerPersonalityModuleDefinition<object>.PrepareOverrideContainer
+128924: 	*/
+128925: 
+128926: 	// RVA: -1 Offset: -1
+128927: 	public void FillCommonContainers(int startIndex, StorySingleton storySingleton, T conversations) { }
+128928: 	/* GenericInstMethod :
+128929: 	|
+128930: 	|-RVA: 0x169C370 Offset: 0x169B770 VA: 0x18169C370
+128931: 	|-StorySingleton.ConversationContainerPersonalityModuleDefinition<object>.FillCommonContainers
+
+--- MATCH NEAR DUMP LINE 129527 ---
+129519: 
+129520: 	[CompilerGenerated]
+129521: 	// RVA: 0xA7DE90 Offset: 0xA7D290 VA: 0x180A7DE90
+129522: 	internal static void <InitializeStoryEntryPoints>g__BDHOnActivate|56_0(StoryAutoBranch x) { }
+129523: }
+129524: 
+129525: // Namespace: 
+129526: [Flags]
+129527: public enum StoryBotDialogueBranchType // TypeDefIndex: 2303
+129528: {
+129529: 	// Fields
+129530: 	public int value__; // 0x0
+129531: 	public const StoryBotDialogueBranchType Story = 1;
+129532: 	public const StoryBotDialogueBranchType Reaction = 2;
+129533: 	public const StoryBotDialogueBranchType Comment = 4;
+129534: 	public const StoryBotDialogueBranchType All = 7;
+129535: }
+129536: 
+129537: // Namespace: 
+129538: public sealed class StoryBotDialogueBranch : StoryEntryPointBase.StoryBranchGenericBase // TypeDefIndex: 2304
+129539: {
+
+--- MATCH NEAR DUMP LINE 129531 ---
+129523: }
+129524: 
+129525: // Namespace: 
+129526: [Flags]
+129527: public enum StoryBotDialogueBranchType // TypeDefIndex: 2303
+129528: {
+129529: 	// Fields
+129530: 	public int value__; // 0x0
+129531: 	public const StoryBotDialogueBranchType Story = 1;
+129532: 	public const StoryBotDialogueBranchType Reaction = 2;
+129533: 	public const StoryBotDialogueBranchType Comment = 4;
+129534: 	public const StoryBotDialogueBranchType All = 7;
+129535: }
+129536: 
+129537: // Namespace: 
+129538: public sealed class StoryBotDialogueBranch : StoryEntryPointBase.StoryBranchGenericBase // TypeDefIndex: 2304
+129539: {
+129540: 	// Fields
+129541: 	[CompilerGenerated]
+129542: 	private StoryBotDialogueBranchContainer <SourceContainer>k__BackingField; // 0x28
+129543: 	[CompilerGenerated]
+
+--- MATCH NEAR DUMP LINE 129538 ---
+129530: 	public int value__; // 0x0
+129531: 	public const StoryBotDialogueBranchType Story = 1;
+129532: 	public const StoryBotDialogueBranchType Reaction = 2;
+129533: 	public const StoryBotDialogueBranchType Comment = 4;
+129534: 	public const StoryBotDialogueBranchType All = 7;
+129535: }
+129536: 
+129537: // Namespace: 
+129538: public sealed class StoryBotDialogueBranch : StoryEntryPointBase.StoryBranchGenericBase // TypeDefIndex: 2304
+129539: {
+129540: 	// Fields
+129541: 	[CompilerGenerated]
+129542: 	private StoryBotDialogueBranchContainer <SourceContainer>k__BackingField; // 0x28
+129543: 	[CompilerGenerated]
+129544: 	private int <Priority>k__BackingField; // 0x30
+129545: 	[CompilerGenerated]
+129546: 	private float <Odds>k__BackingField; // 0x34
+129547: 	public const float MaxOdds = 1E+09;
+129548: 	[CompilerGenerated]
+129549: 	private bool <IsOneTime>k__BackingField; // 0x38
+129550: 	[CompilerGenerated]
+
+--- MATCH NEAR DUMP LINE 129542 ---
+129534: 	public const StoryBotDialogueBranchType All = 7;
+129535: }
+129536: 
+129537: // Namespace: 
+129538: public sealed class StoryBotDialogueBranch : StoryEntryPointBase.StoryBranchGenericBase // TypeDefIndex: 2304
+129539: {
+129540: 	// Fields
+129541: 	[CompilerGenerated]
+129542: 	private StoryBotDialogueBranchContainer <SourceContainer>k__BackingField; // 0x28
+129543: 	[CompilerGenerated]
+129544: 	private int <Priority>k__BackingField; // 0x30
+129545: 	[CompilerGenerated]
+129546: 	private float <Odds>k__BackingField; // 0x34
+129547: 	public const float MaxOdds = 1E+09;
+129548: 	[CompilerGenerated]
+129549: 	private bool <IsOneTime>k__BackingField; // 0x38
+129550: 	[CompilerGenerated]
+129551: 	private StoryBotDialogueBranchType <BranchType>k__BackingField; // 0x3C
+129552: 	[CompilerGenerated]
+129553: 	private SceneEnumFlag <AllowedScenes>k__BackingField; // 0x40
+129554: 	public readonly GameId Id; // 0x48
+
+--- MATCH NEAR DUMP LINE 129551 ---
+129543: 	[CompilerGenerated]
+129544: 	private int <Priority>k__BackingField; // 0x30
+129545: 	[CompilerGenerated]
+129546: 	private float <Odds>k__BackingField; // 0x34
+129547: 	public const float MaxOdds = 1E+09;
+129548: 	[CompilerGenerated]
+129549: 	private bool <IsOneTime>k__BackingField; // 0x38
+129550: 	[CompilerGenerated]
+129551: 	private StoryBotDialogueBranchType <BranchType>k__BackingField; // 0x3C
+129552: 	[CompilerGenerated]
+129553: 	private SceneEnumFlag <AllowedScenes>k__BackingField; // 0x40
+129554: 	public readonly GameId Id; // 0x48
+129555: 	public SimpleLocalizedString TitleSls; // 0x68
+129556: 
+129557: 	// Properties
+129558: 	public StoryBotDialogueBranchContainer SourceContainer { get; set; }
+129559: 	public StoryBotDialogueTag SourceTag { get; }
+129560: 	public StoryBotDialogueStage SourceStage { get; }
+129561: 	public int Priority { get; set; }
+129562: 	public float Odds { get; set; }
+129563: 	public bool IsOneTime { get; set; }
+
+--- MATCH NEAR DUMP LINE 129558 ---
+129550: 	[CompilerGenerated]
+129551: 	private StoryBotDialogueBranchType <BranchType>k__BackingField; // 0x3C
+129552: 	[CompilerGenerated]
+129553: 	private SceneEnumFlag <AllowedScenes>k__BackingField; // 0x40
+129554: 	public readonly GameId Id; // 0x48
+129555: 	public SimpleLocalizedString TitleSls; // 0x68
+129556: 
+129557: 	// Properties
+129558: 	public StoryBotDialogueBranchContainer SourceContainer { get; set; }
+129559: 	public StoryBotDialogueTag SourceTag { get; }
+129560: 	public StoryBotDialogueStage SourceStage { get; }
+129561: 	public int Priority { get; set; }
+129562: 	public float Odds { get; set; }
+129563: 	public bool IsOneTime { get; set; }
+129564: 	public StoryBotDialogueBranchType BranchType { get; set; }
+129565: 	public SceneEnumFlag AllowedScenes { get; set; }
+129566: 	public string Title { get; }
+129567: 
+129568: 	// Methods
+129569: 
+129570: 	// RVA: 0x3E0150 Offset: 0x3DF550 VA: 0x1803E0150
+
+--- MATCH NEAR DUMP LINE 129564 ---
+129556: 
+129557: 	// Properties
+129558: 	public StoryBotDialogueBranchContainer SourceContainer { get; set; }
+129559: 	public StoryBotDialogueTag SourceTag { get; }
+129560: 	public StoryBotDialogueStage SourceStage { get; }
+129561: 	public int Priority { get; set; }
+129562: 	public float Odds { get; set; }
+129563: 	public bool IsOneTime { get; set; }
+129564: 	public StoryBotDialogueBranchType BranchType { get; set; }
+129565: 	public SceneEnumFlag AllowedScenes { get; set; }
+129566: 	public string Title { get; }
+129567: 
+129568: 	// Methods
+129569: 
+129570: 	// RVA: 0x3E0150 Offset: 0x3DF550 VA: 0x1803E0150
+129571: 	public void InitSource(StoryBotDialogueBranchContainer sourceContainer) { }
+129572: 
+129573: 	[CompilerGenerated]
+129574: 	// RVA: 0x3972B0 Offset: 0x3966B0 VA: 0x1803972B0
+129575: 	public StoryBotDialogueBranchContainer get_SourceContainer() { }
+129576: 
+
+--- MATCH NEAR DUMP LINE 129571 ---
+129563: 	public bool IsOneTime { get; set; }
+129564: 	public StoryBotDialogueBranchType BranchType { get; set; }
+129565: 	public SceneEnumFlag AllowedScenes { get; set; }
+129566: 	public string Title { get; }
+129567: 
+129568: 	// Methods
+129569: 
+129570: 	// RVA: 0x3E0150 Offset: 0x3DF550 VA: 0x1803E0150
+129571: 	public void InitSource(StoryBotDialogueBranchContainer sourceContainer) { }
+129572: 
+129573: 	[CompilerGenerated]
+129574: 	// RVA: 0x3972B0 Offset: 0x3966B0 VA: 0x1803972B0
+129575: 	public StoryBotDialogueBranchContainer get_SourceContainer() { }
+129576: 
+129577: 	[CompilerGenerated]
+129578: 	// RVA: 0x3E0150 Offset: 0x3DF550 VA: 0x1803E0150
+129579: 	private void set_SourceContainer(StoryBotDialogueBranchContainer value) { }
+129580: 
+129581: 	// RVA: 0xA902E0 Offset: 0xA8F6E0 VA: 0x180A902E0
+129582: 	public StoryBotDialogueTag get_SourceTag() { }
+129583: 
+
+--- MATCH NEAR DUMP LINE 129575 ---
+129567: 
+129568: 	// Methods
+129569: 
+129570: 	// RVA: 0x3E0150 Offset: 0x3DF550 VA: 0x1803E0150
+129571: 	public void InitSource(StoryBotDialogueBranchContainer sourceContainer) { }
+129572: 
+129573: 	[CompilerGenerated]
+129574: 	// RVA: 0x3972B0 Offset: 0x3966B0 VA: 0x1803972B0
+129575: 	public StoryBotDialogueBranchContainer get_SourceContainer() { }
+129576: 
+129577: 	[CompilerGenerated]
+129578: 	// RVA: 0x3E0150 Offset: 0x3DF550 VA: 0x1803E0150
+129579: 	private void set_SourceContainer(StoryBotDialogueBranchContainer value) { }
+129580: 
+129581: 	// RVA: 0xA902E0 Offset: 0xA8F6E0 VA: 0x180A902E0
+129582: 	public StoryBotDialogueTag get_SourceTag() { }
+129583: 
+129584: 	// RVA: 0xA902B0 Offset: 0xA8F6B0 VA: 0x180A902B0
+129585: 	public StoryBotDialogueStage get_SourceStage() { }
+129586: 
+129587: 	// RVA: 0xA900A0 Offset: 0xA8F4A0 VA: 0x180A900A0
+
+--- MATCH NEAR DUMP LINE 129579 ---
+129571: 	public void InitSource(StoryBotDialogueBranchContainer sourceContainer) { }
+129572: 
+129573: 	[CompilerGenerated]
+129574: 	// RVA: 0x3972B0 Offset: 0x3966B0 VA: 0x1803972B0
+129575: 	public StoryBotDialogueBranchContainer get_SourceContainer() { }
+129576: 
+129577: 	[CompilerGenerated]
+129578: 	// RVA: 0x3E0150 Offset: 0x3DF550 VA: 0x1803E0150
+129579: 	private void set_SourceContainer(StoryBotDialogueBranchContainer value) { }
+129580: 
+129581: 	// RVA: 0xA902E0 Offset: 0xA8F6E0 VA: 0x180A902E0
+129582: 	public StoryBotDialogueTag get_SourceTag() { }
+129583: 
+129584: 	// RVA: 0xA902B0 Offset: 0xA8F6B0 VA: 0x180A902B0
+129585: 	public StoryBotDialogueStage get_SourceStage() { }
+129586: 
+129587: 	// RVA: 0xA900A0 Offset: 0xA8F4A0 VA: 0x180A900A0
+129588: 	public void .ctor(GameId id, StoryBranchTarget branchTarget) { }
+129589: 
+129590: 	[UsedInLua]
+129591: 	// RVA: 0xA90150 Offset: 0xA8F550 VA: 0x180A90150
+
+--- MATCH NEAR DUMP LINE 129623 ---
+129615: 	public bool get_IsOneTime() { }
+129616: 
+129617: 	[CompilerGenerated]
+129618: 	// RVA: 0x5DE4E0 Offset: 0x5DD8E0 VA: 0x1805DE4E0
+129619: 	private void set_IsOneTime(bool value) { }
+129620: 
+129621: 	[CompilerGenerated]
+129622: 	// RVA: 0x3A1940 Offset: 0x3A0D40 VA: 0x1803A1940
+129623: 	public StoryBotDialogueBranchType get_BranchType() { }
+129624: 
+129625: 	[CompilerGenerated]
+129626: 	// RVA: 0x3A1A40 Offset: 0x3A0E40 VA: 0x1803A1A40
+129627: 	private void set_BranchType(StoryBotDialogueBranchType value) { }
+129628: 
+129629: 	[CompilerGenerated]
+129630: 	// RVA: 0x3A18E0 Offset: 0x3A0CE0 VA: 0x1803A18E0
+129631: 	public SceneEnumFlag get_AllowedScenes() { }
+129632: 
+129633: 	[CompilerGenerated]
+129634: 	// RVA: 0x3A19A0 Offset: 0x3A0DA0 VA: 0x1803A19A0
+129635: 	private void set_AllowedScenes(SceneEnumFlag value) { }
+
+--- MATCH NEAR DUMP LINE 129627 ---
+129619: 	private void set_IsOneTime(bool value) { }
+129620: 
+129621: 	[CompilerGenerated]
+129622: 	// RVA: 0x3A1940 Offset: 0x3A0D40 VA: 0x1803A1940
+129623: 	public StoryBotDialogueBranchType get_BranchType() { }
+129624: 
+129625: 	[CompilerGenerated]
+129626: 	// RVA: 0x3A1A40 Offset: 0x3A0E40 VA: 0x1803A1A40
+129627: 	private void set_BranchType(StoryBotDialogueBranchType value) { }
+129628: 
+129629: 	[CompilerGenerated]
+129630: 	// RVA: 0x3A18E0 Offset: 0x3A0CE0 VA: 0x1803A18E0
+129631: 	public SceneEnumFlag get_AllowedScenes() { }
+129632: 
+129633: 	[CompilerGenerated]
+129634: 	// RVA: 0x3A19A0 Offset: 0x3A0DA0 VA: 0x1803A19A0
+129635: 	private void set_AllowedScenes(SceneEnumFlag value) { }
+129636: 
+129637: 	// RVA: 0xA90300 Offset: 0xA8F700 VA: 0x180A90300
+129638: 	public string get_Title() { }
+129639: 
+
+--- MATCH NEAR DUMP LINE 129641 ---
+129633: 	[CompilerGenerated]
+129634: 	// RVA: 0x3A19A0 Offset: 0x3A0DA0 VA: 0x1803A19A0
+129635: 	private void set_AllowedScenes(SceneEnumFlag value) { }
+129636: 
+129637: 	// RVA: 0xA90300 Offset: 0xA8F700 VA: 0x180A90300
+129638: 	public string get_Title() { }
+129639: 
+129640: 	// RVA: 0x4CEB20 Offset: 0x4CDF20 VA: 0x1804CEB20
+129641: 	public StoryBotDialogueBranch SetOnActivateAction(Action action) { }
+129642: 
+129643: 	// RVA: 0xA90080 Offset: 0xA8F480 VA: 0x180A90080
+129644: 	public StoryBotDialogueBranch SetOdds(float odds) { }
+129645: 
+129646: 	// RVA: 0xA90070 Offset: 0xA8F470 VA: 0x180A90070
+129647: 	public StoryBotDialogueBranch SetMaxOdds() { }
+129648: 
+129649: 	// RVA: 0xA90050 Offset: 0xA8F450 VA: 0x180A90050
+129650: 	public StoryBotDialogueBranch MarkOneTime() { }
+129651: 
+129652: 	// RVA: 0xA90090 Offset: 0xA8F490 VA: 0x180A90090
+129653: 	public StoryBotDialogueBranch SetPriority(int i) { }
+
+--- MATCH NEAR DUMP LINE 129647 ---
+129639: 
+129640: 	// RVA: 0x4CEB20 Offset: 0x4CDF20 VA: 0x1804CEB20
+129641: 	public StoryBotDialogueBranch SetOnActivateAction(Action action) { }
+129642: 
+129643: 	// RVA: 0xA90080 Offset: 0xA8F480 VA: 0x180A90080
+129644: 	public StoryBotDialogueBranch SetOdds(float odds) { }
+129645: 
+129646: 	// RVA: 0xA90070 Offset: 0xA8F470 VA: 0x180A90070
+129647: 	public StoryBotDialogueBranch SetMaxOdds() { }
+129648: 
+129649: 	// RVA: 0xA90050 Offset: 0xA8F450 VA: 0x180A90050
+129650: 	public StoryBotDialogueBranch MarkOneTime() { }
+129651: 
+129652: 	// RVA: 0xA90090 Offset: 0xA8F490 VA: 0x180A90090
+129653: 	public StoryBotDialogueBranch SetPriority(int i) { }
+129654: 
+129655: 	// RVA: 0xA8FEE0 Offset: 0xA8F2E0 VA: 0x180A8FEE0
+129656: 	public StoryBotDialogueBranch AddConditionsAtFront(StoryCondition[] addedAdditionalConditions) { }
+129657: 
+129658: 	// RVA: 0xA8FF10 Offset: 0xA8F310 VA: 0x180A8FF10
+129659: 	public StoryBotDialogueBranch AddConditions(StoryCondition[] addedAdditionalConditions) { }
+
+--- MATCH NEAR DUMP LINE 129653 ---
+129645: 
+129646: 	// RVA: 0xA90070 Offset: 0xA8F470 VA: 0x180A90070
+129647: 	public StoryBotDialogueBranch SetMaxOdds() { }
+129648: 
+129649: 	// RVA: 0xA90050 Offset: 0xA8F450 VA: 0x180A90050
+129650: 	public StoryBotDialogueBranch MarkOneTime() { }
+129651: 
+129652: 	// RVA: 0xA90090 Offset: 0xA8F490 VA: 0x180A90090
+129653: 	public StoryBotDialogueBranch SetPriority(int i) { }
+129654: 
+129655: 	// RVA: 0xA8FEE0 Offset: 0xA8F2E0 VA: 0x180A8FEE0
+129656: 	public StoryBotDialogueBranch AddConditionsAtFront(StoryCondition[] addedAdditionalConditions) { }
+129657: 
+129658: 	// RVA: 0xA8FF10 Offset: 0xA8F310 VA: 0x180A8FF10
+129659: 	public StoryBotDialogueBranch AddConditions(StoryCondition[] addedAdditionalConditions) { }
+129660: 
+129661: 	// RVA: 0xA90060 Offset: 0xA8F460 VA: 0x180A90060
+129662: 	public StoryBotDialogueBranch SetAllowedScenes(SceneEnumFlag allowedScenes) { }
+129663: 
+129664: 	// RVA: 0xA8FF40 Offset: 0xA8F340 VA: 0x180A8FF40
+129665: 	public bool CheckAdditionalConditionsOffset(int offset) { }
+
+--- MATCH NEAR DUMP LINE 129659 ---
+129651: 
+129652: 	// RVA: 0xA90090 Offset: 0xA8F490 VA: 0x180A90090
+129653: 	public StoryBotDialogueBranch SetPriority(int i) { }
+129654: 
+129655: 	// RVA: 0xA8FEE0 Offset: 0xA8F2E0 VA: 0x180A8FEE0
+129656: 	public StoryBotDialogueBranch AddConditionsAtFront(StoryCondition[] addedAdditionalConditions) { }
+129657: 
+129658: 	// RVA: 0xA8FF10 Offset: 0xA8F310 VA: 0x180A8FF10
+129659: 	public StoryBotDialogueBranch AddConditions(StoryCondition[] addedAdditionalConditions) { }
+129660: 
+129661: 	// RVA: 0xA90060 Offset: 0xA8F460 VA: 0x180A90060
+129662: 	public StoryBotDialogueBranch SetAllowedScenes(SceneEnumFlag allowedScenes) { }
+129663: 
+129664: 	// RVA: 0xA8FF40 Offset: 0xA8F340 VA: 0x180A8FF40
+129665: 	public bool CheckAdditionalConditionsOffset(int offset) { }
+129666: 
+129667: 	[MustUseReturnValue]
+129668: 	// RVA: 0xA8FD80 Offset: 0xA8F180 VA: 0x180A8FD80
+129669: 	public StoryBranchTarget ActivateGetTarget() { }
+129670: }
+129671: 
+
+--- MATCH NEAR DUMP LINE 129685 ---
+129677: 	public const StoryBotContainerTypeEnum Prologue = 0;
+129678: 	public const StoryBotContainerTypeEnum Default = 1;
+129679: 	public const StoryBotContainerTypeEnum Override = 2;
+129680: }
+129681: 
+129682: // Namespace: 
+129683: [CompilerGenerated]
+129684: [Serializable]
+129685: private sealed class StoryBotDialogueBranchContainer.<>c // TypeDefIndex: 2306
+129686: {
+129687: 	// Fields
+129688: 	public static readonly StoryBotDialogueBranchContainer.<>c <>9; // 0x0
+129689: 	public static Func<StoryBotDialogueBranch, GameId> <>9__33_0; // 0x8
+129690: 
+129691: 	// Methods
+129692: 
+129693: 	// RVA: 0xA9A550 Offset: 0xA99950 VA: 0x180A9A550
+129694: 	private static void .cctor() { }
+129695: 
+129696: 	// RVA: 0x397420 Offset: 0x396820 VA: 0x180397420
+129697: 	public void .ctor() { }
+
+Additional matches omitted: 92
+
+############################################################
+TARGET: PersonalityModule
+############################################################
+
+TOTAL OCCURRENCES: 101
+
+
+--- MATCH NEAR DUMP LINE 88675 ---
+88667: 	public static readonly ItemSlot HairAdditional; // 0x98
+88668: 	public static readonly ItemSlot HairAugmentation; // 0xA0
+88669: 	public static readonly ItemSlot FeetBodyModules; // 0xA8
+88670: 	public static readonly ItemSlot ThighBodyModules; // 0xB0
+88671: 	public static readonly ItemSlot AssBodyModules; // 0xB8
+88672: 	public static readonly ItemSlot CalfBodyModules; // 0xC0
+88673: 	public static readonly ItemSlot BoobsBodyModules; // 0xC8
+88674: 	public static readonly ItemSlot[] BodySizeModuleSlots; // 0xD0
+88675: 	public static readonly ItemSlot PersonalityModule; // 0xD8
+88676: 	public static readonly ItemSlot UpperBody; // 0xE0
+88677: 	public static readonly ItemSlot LowerBody; // 0xE8
+88678: 	public static readonly ItemSlot UpperBodyOuter; // 0xF0
+88679: 	public static readonly ItemSlot Bra; // 0xF8
+88680: 	public static readonly ItemSlot Panties; // 0x100
+88681: 	public static readonly ItemSlot HairAccessoryL; // 0x108
+88682: 	public static readonly ItemSlot Manicure; // 0x110
+88683: 	public static readonly ItemSlot Pedicure; // 0x118
+88684: 	public static readonly ItemSlot NeckAccessory; // 0x120
+88685: 	public static readonly ItemSlot Glasses; // 0x128
+88686: 	public static readonly ItemSlot TongueAccessory; // 0x130
+88687: 	public static readonly ItemSlot EyeMakeup; // 0x138
+
+--- MATCH NEAR DUMP LINE 90890 ---
+90882: 	internal static ItemPrefab <PrepareItems>g__CreateFood|31_5(string name, string description, int price, EdibleItemPrefabData edibleItemPrefabData) { }
+90883: 
+90884: 	[CompilerGenerated]
+90885: 	// RVA: 0x9093F0 Offset: 0x9087F0 VA: 0x1809093F0
+90886: 	internal static ItemPrefab <PrepareItems>g__CreateDish|31_40(string name, string description, int price) { }
+90887: 
+90888: 	[CompilerGenerated]
+90889: 	// RVA: 0x909040 Offset: 0x908440 VA: 0x180909040
+90890: 	internal static void <PrepareItems>g__AddPersonalityItem|31_75(ItemEnum personalityModuleId, StorySingleton.PersonalityModuleDefinition personalityDefinition, string name, string description, int price, IGameStatModifier modifier, ref ItemPrefab.ItemPrefabManager.<>c__DisplayClass31_0 ) { }
+90891: }
+90892: 
+90893: // Namespace: 
+90894: [CompilerGenerated]
+90895: [Serializable]
+90896: private sealed class ItemPrefab.<>c // TypeDefIndex: 1691
+90897: {
+90898: 	// Fields
+90899: 	public static readonly ItemPrefab.<>c <>9; // 0x0
+90900: 	public static Func<PackedTexturesContainer, PackedTexturesContainer> <>9__185_0; // 0x8
+90901: 	public static Func<PropertyInfo, bool> <>9__187_0; // 0x10
+90902: 	public static Func<object, string> <>9__187_1; // 0x18
+
+--- MATCH NEAR DUMP LINE 91135 ---
+91127: 	private bool <IsIllegal>k__BackingField; // 0x80
+91128: 	[CompilerGenerated]
+91129: 	private bool <CanChangeColor>k__BackingField; // 0x81
+91130: 	[CompilerGenerated]
+91131: 	private bool <HasQuality>k__BackingField; // 0x82
+91132: 	[CompilerGenerated]
+91133: 	private bool <ExpectedInShop>k__BackingField; // 0x83
+91134: 	[CompilerGenerated]
+91135: 	private bool <IsPersonalityModule>k__BackingField; // 0x84
+91136: 	[CompilerGenerated]
+91137: 	private bool <IsMissingItem>k__BackingField; // 0x85
+91138: 	[CompilerGenerated]
+91139: 	private bool <ThrowingOutForbidden>k__BackingField; // 0x86
+91140: 	[CompilerGenerated]
+91141: 	private bool <IsStove>k__BackingField; // 0x87
+91142: 	private ColorSlot[] _colorSlots; // 0x88
+91143: 	[CompilerGenerated]
+91144: 	private ItemPrefab.ScratchTextureType <ScratchType>k__BackingField; // 0x90
+91145: 	[CompilerGenerated]
+91146: 	private bool <IsStackable>k__BackingField; // 0x94
+91147: 	[CompilerGenerated]
+
+--- MATCH NEAR DUMP LINE 91201 ---
+91193: 	public Action<bool, Item> SpecialEffectAction { get; set; }
+91194: 	public Action<Item> RandomItemPostProcessing { get; set; }
+91195: 	public Func<Live2DController, Item, Live2DController.Live2DControllerItemModifier> ItemModiferAdditionFunction { get; set; }
+91196: 	public Action<Item, List<IGameStatModifier>> FillGameStatsModifiersAction { get; set; }
+91197: 	public bool IsIllegal { get; set; }
+91198: 	public bool CanChangeColor { get; set; }
+91199: 	public bool HasQuality { get; set; }
+91200: 	public bool ExpectedInShop { get; set; }
+91201: 	public bool IsPersonalityModule { get; set; }
+91202: 	public bool IsMissingItem { get; set; }
+91203: 	public bool ThrowingOutForbidden { get; set; }
+91204: 	public bool IsStove { get; set; }
+91205: 	public ColorSlot[] ColorSlots { get; set; }
+91206: 	public ItemPrefab.ScratchTextureType ScratchType { get; set; }
+91207: 	public bool IsStackable { get; set; }
+91208: 	public ItemCategory Category { get; set; }
+91209: 	public ItemSubCategory SubCategory { get; set; }
+91210: 	public string[] Partners { get; set; }
+91211: 	public SusModifier[] SusModifiers { get; set; }
+91212: 	public FishItemPrefabData FishData { get; set; }
+91213: 	public FishingRodItemPrefabData FishingRodItemPrefabData { get; set; }
+
+--- MATCH NEAR DUMP LINE 91414 ---
+91406: 
+91407: 	[CompilerGenerated]
+91408: 	[MoonSharpVisible(True)]
+91409: 	// RVA: 0x911CB0 Offset: 0x9110B0 VA: 0x180911CB0
+91410: 	private void set_ExpectedInShop(bool value) { }
+91411: 
+91412: 	[CompilerGenerated]
+91413: 	// RVA: 0x911AF0 Offset: 0x910EF0 VA: 0x180911AF0
+91414: 	public bool get_IsPersonalityModule() { }
+91415: 
+91416: 	[CompilerGenerated]
+91417: 	[MoonSharpVisible(True)]
+91418: 	// RVA: 0x911FF0 Offset: 0x9113F0 VA: 0x180911FF0
+91419: 	private void set_IsPersonalityModule(bool value) { }
+91420: 
+91421: 	[CompilerGenerated]
+91422: 	// RVA: 0x911AE0 Offset: 0x910EE0 VA: 0x180911AE0
+91423: 	public bool get_IsMissingItem() { }
+91424: 
+91425: 	[CompilerGenerated]
+91426: 	[MoonSharpVisible(True)]
+
+--- MATCH NEAR DUMP LINE 91419 ---
+91411: 
+91412: 	[CompilerGenerated]
+91413: 	// RVA: 0x911AF0 Offset: 0x910EF0 VA: 0x180911AF0
+91414: 	public bool get_IsPersonalityModule() { }
+91415: 
+91416: 	[CompilerGenerated]
+91417: 	[MoonSharpVisible(True)]
+91418: 	// RVA: 0x911FF0 Offset: 0x9113F0 VA: 0x180911FF0
+91419: 	private void set_IsPersonalityModule(bool value) { }
+91420: 
+91421: 	[CompilerGenerated]
+91422: 	// RVA: 0x911AE0 Offset: 0x910EE0 VA: 0x180911AE0
+91423: 	public bool get_IsMissingItem() { }
+91424: 
+91425: 	[CompilerGenerated]
+91426: 	[MoonSharpVisible(True)]
+91427: 	// RVA: 0x911FE0 Offset: 0x9113E0 VA: 0x180911FE0
+91428: 	private void set_IsMissingItem(bool value) { }
+91429: 
+91430: 	[CompilerGenerated]
+91431: 	// RVA: 0x911B20 Offset: 0x910F20 VA: 0x180911B20
+
+--- MATCH NEAR DUMP LINE 91799 ---
+91791: 
+91792: 	// RVA: 0x910560 Offset: 0x90F960 VA: 0x180910560
+91793: 	public ItemPrefab SetRayMarchingShader(ItemPrefab.CustomShaderTypeEnum customShaderType) { }
+91794: 
+91795: 	// RVA: 0x90EEE0 Offset: 0x90E2E0 VA: 0x18090EEE0
+91796: 	public ItemPrefab MakeHypercamo() { }
+91797: 
+91798: 	// RVA: 0x911650 Offset: 0x910A50 VA: 0x180911650
+91799: 	public void TurnIntoPersonalityModule(GameId id, StorySingleton.PersonalityModuleDefinition personalityDefinition) { }
+91800: 
+91801: 	// RVA: 0x910210 Offset: 0x90F610 VA: 0x180910210
+91802: 	public ItemPrefab SetMovingTextureShader(IReference<Texture2D> textureReference, ItemPrefab.CustomShaderTypeEnum shaderType) { }
+91803: 
+91804: 	[IteratorStateMachine(typeof(ItemPrefab.<GetRequiredSlots>d__245))]
+91805: 	// RVA: 0x90D970 Offset: 0x90CD70 VA: 0x18090D970
+91806: 	public IEnumerable<ItemSlot> GetRequiredSlots(string equippedSlot) { }
+91807: 
+91808: 	// RVA: 0x90D7D0 Offset: 0x90CBD0 VA: 0x18090D7D0
+91809: 	public int GetRequiredSlotCount(string equippedSlot) { }
+91810: 
+91811: 	// RVA: 0x90CBD0 Offset: 0x90BFD0 VA: 0x18090CBD0
+
+--- MATCH NEAR DUMP LINE 103834 ---
+103826: 	public const long Interactable_MoveBlanket = 205536974418731008;
+103827: 	public const long Interactable_RubHerFace = 205536977090502656;
+103828: 	public const long Interactable_HoldHerHand = 205537104119193600;
+103829: 	public const long Cuddle_GoToSleep = 205538471843979264;
+103830: 	public const long Cuddle_AskToStopHeadpats = 205545741474586624;
+103831: 	public const long Cuddle_EndPrompt = 207592949275418624;
+103832: 	public const long Slot_Lips = 207911663787040768;
+103833: 	public const long Equipment_FromMod = 207959451258314752;
+103834: 	public const long Slot_PersonalityModule = 208385084266373120;
+103835: 	public const long Equipment_PersonalityModuleInfo = 208756289724997632;
+103836: 	public const long Equipment_PersonalityModules = 210961474161467392;
+103837: 	public const long Equipment_HighQuality = 210961814600540160;
+103838: 	public const long Equipment_Under20k = 210962206369505280;
+103839: 	public const long Cuddle_AskForHeadpats = 214844375504510976;
+103840: 	public const long Cuddle_AskToSaySomethingNice = 214855388001984512;
+103841: 	public const long Options_DeviceNotDetected = 214897433626271744;
+103842: 	public const long Options_WaitingForDevice = 110885475282980864;
+103843: 	public const long Mods_ApproximateExtractedSize = 216000683855306752;
+103844: 	public const long Mods_MajorVersionBehind = 216003925590925312;
+103845: 	public const long Mods_MinorVersionBehind = 216004093535051776;
+103846: 	public const long Mods_PatchVersionBehind = 216004097012129792;
+
+--- MATCH NEAR DUMP LINE 105323 ---
+105315: 	public static readonly LOS.TupleReference Interactable_MoveBlanket; // 0x1700
+105316: 	public static readonly LOS.TupleReference Interactable_RubHerFace; // 0x1708
+105317: 	public static readonly LOS.TupleReference Interactable_HoldHerHand; // 0x1710
+105318: 	public static readonly LOS.TupleReference Cuddle_GoToSleep; // 0x1718
+105319: 	public static readonly LOS.TupleReference Cuddle_AskToStopHeadpats; // 0x1720
+105320: 	public static readonly LOS.TupleReference Cuddle_EndPrompt; // 0x1728
+105321: 	public static readonly LOS.TupleReference Slot_Lips; // 0x1730
+105322: 	public static readonly LOS.TupleReference Equipment_FromMod; // 0x1738
+105323: 	public static readonly LOS.TupleReference Slot_PersonalityModule; // 0x1740
+105324: 	public static readonly LOS.TupleReference Equipment_PersonalityModuleInfo; // 0x1748
+105325: 	public static readonly LOS.TupleReference Equipment_PersonalityModules; // 0x1750
+105326: 	public static readonly LOS.TupleReference Equipment_HighQuality; // 0x1758
+105327: 	public static readonly LOS.TupleReference Equipment_Under20k; // 0x1760
+105328: 	public static readonly LOS.TupleReference Cuddle_AskForHeadpats; // 0x1768
+105329: 	public static readonly LOS.TupleReference Cuddle_AskToSaySomethingNice; // 0x1770
+105330: 	public static readonly LOS.TupleReference Options_DeviceNotDetected; // 0x1778
+105331: 	public static readonly LOS.TupleReference Options_WaitingForDevice; // 0x1780
+105332: 	public static readonly LOS.TupleReference Mods_ApproximateExtractedSize; // 0x1788
+105333: 	public static readonly LOS.TupleReference Mods_MajorVersionBehind; // 0x1790
+105334: 	public static readonly LOS.TupleReference Mods_MinorVersionBehind; // 0x1798
+105335: 	public static readonly LOS.TupleReference Mods_PatchVersionBehind; // 0x17A0
+
+--- MATCH NEAR DUMP LINE 106680 ---
+106672: 	public static string Frick_CowgirlRequest_BegStop { get; }
+106673: 	public static string Interactable_MoveBlanket { get; }
+106674: 	public static string Interactable_RubHerFace { get; }
+106675: 	public static string Interactable_HoldHerHand { get; }
+106676: 	public static string Cuddle_GoToSleep { get; }
+106677: 	public static string Cuddle_AskToStopHeadpats { get; }
+106678: 	public static string Cuddle_EndPrompt { get; }
+106679: 	public static string Slot_Lips { get; }
+106680: 	public static string Slot_PersonalityModule { get; }
+106681: 	public static string Equipment_PersonalityModuleInfo { get; }
+106682: 	public static string Equipment_PersonalityModules { get; }
+106683: 	public static string Equipment_HighQuality { get; }
+106684: 	public static string Equipment_Under20k { get; }
+106685: 	public static string Cuddle_AskForHeadpats { get; }
+106686: 	public static string Cuddle_AskToSaySomethingNice { get; }
+106687: 	public static string Options_DeviceNotDetected { get; }
+106688: 	public static string Options_WaitingForDevice { get; }
+106689: 	public static string Mods_ApproximateExtractedSize { get; }
+106690: 	public static string Mods_ExactlySameVersion { get; }
+106691: 	public static string Mods_UpdateYourGame { get; }
+106692: 	public static string New_Entry_1 { get; }
+
+--- MATCH NEAR DUMP LINE 109553 ---
+109545: 
+109546: 	// RVA: 0x989AA0 Offset: 0x988EA0 VA: 0x180989AA0
+109547: 	public static string get_Slot_Lips() { }
+109548: 
+109549: 	// RVA: 0x96AB60 Offset: 0x969F60 VA: 0x18096AB60
+109550: 	public static string Equipment_FromMod(object arg0) { }
+109551: 
+109552: 	// RVA: 0x989DC0 Offset: 0x9891C0 VA: 0x180989DC0
+109553: 	public static string get_Slot_PersonalityModule() { }
+109554: 
+109555: 	// RVA: 0x97CD00 Offset: 0x97C100 VA: 0x18097CD00
+109556: 	public static string get_Equipment_PersonalityModuleInfo() { }
+109557: 
+109558: 	// RVA: 0x97CD50 Offset: 0x97C150 VA: 0x18097CD50
+109559: 	public static string get_Equipment_PersonalityModules() { }
+109560: 
+109561: 	// RVA: 0x97C800 Offset: 0x97BC00 VA: 0x18097C800
+109562: 	public static string get_Equipment_HighQuality() { }
+109563: 
+109564: 	// RVA: 0x97D8E0 Offset: 0x97CCE0 VA: 0x18097D8E0
+109565: 	public static string get_Equipment_Under20k() { }
+
+--- MATCH NEAR DUMP LINE 109559 ---
+109551: 
+109552: 	// RVA: 0x989DC0 Offset: 0x9891C0 VA: 0x180989DC0
+109553: 	public static string get_Slot_PersonalityModule() { }
+109554: 
+109555: 	// RVA: 0x97CD00 Offset: 0x97C100 VA: 0x18097CD00
+109556: 	public static string get_Equipment_PersonalityModuleInfo() { }
+109557: 
+109558: 	// RVA: 0x97CD50 Offset: 0x97C150 VA: 0x18097CD50
+109559: 	public static string get_Equipment_PersonalityModules() { }
+109560: 
+109561: 	// RVA: 0x97C800 Offset: 0x97BC00 VA: 0x18097C800
+109562: 	public static string get_Equipment_HighQuality() { }
+109563: 
+109564: 	// RVA: 0x97D8E0 Offset: 0x97CCE0 VA: 0x18097D8E0
+109565: 	public static string get_Equipment_Under20k() { }
+109566: 
+109567: 	// RVA: 0x97AFF0 Offset: 0x97A3F0 VA: 0x18097AFF0
+109568: 	public static string get_Cuddle_AskForHeadpats() { }
+109569: 
+109570: 	// RVA: 0x97B040 Offset: 0x97A440 VA: 0x18097B040
+109571: 	public static string get_Cuddle_AskToSaySomethingNice() { }
+
+--- MATCH NEAR DUMP LINE 111863 ---
+111855: 	[SerializeField]
+111856: 	private FungusEnumerators.PlayerNamingStrings playerNamingStrings; // 0x48
+111857: 	[SerializeField]
+111858: 	private FungusEnumerators.ClothierStrings clothierStrings; // 0x50
+111859: 	[SerializeField]
+111860: 	private StorySingleton.StoryMenuBranchesStrings storyMenuBranchesStrings; // 0x58
+111861: 	[Header("Personality Modules")]
+111862: 	[SerializeField]
+111863: 	private StorySingleton.TsunTsunPersonalityModuleConversations tsunTsunPersonalityModuleConversations; // 0x60
+111864: 	[SerializeField]
+111865: 	private StorySingleton.CatgirlPersonalityModuleConversations catgirlPersonalityModuleConversations; // 0x68
+111866: 	[SerializeField]
+111867: 	private StorySingleton.DriverPersonalityModuleConversations driverPersonalityModuleConversations; // 0x70
+111868: 	[SerializeField]
+111869: 	private StorySingleton.RobotPersonalityModuleConversations robotPersonalityModuleConversations; // 0x78
+111870: 	[SerializeField]
+111871: 	private StorySingleton.YanderePersonalityModuleConversations yanderePersonalityModuleConversations; // 0x80
+111872: 	[SerializeField]
+111873: 	private StorySingleton.SlutPersonalityModuleConversations slutPersonalityModuleConversations; // 0x88
+111874: 	[SerializeField]
+111875: 	private StorySingleton.FemcelPersonalityModuleConversations femcelPersonalityModuleConversations; // 0x90
+
+--- MATCH NEAR DUMP LINE 111867 ---
+111859: 	[SerializeField]
+111860: 	private StorySingleton.StoryMenuBranchesStrings storyMenuBranchesStrings; // 0x58
+111861: 	[Header("Personality Modules")]
+111862: 	[SerializeField]
+111863: 	private StorySingleton.TsunTsunPersonalityModuleConversations tsunTsunPersonalityModuleConversations; // 0x60
+111864: 	[SerializeField]
+111865: 	private StorySingleton.CatgirlPersonalityModuleConversations catgirlPersonalityModuleConversations; // 0x68
+111866: 	[SerializeField]
+111867: 	private StorySingleton.DriverPersonalityModuleConversations driverPersonalityModuleConversations; // 0x70
+111868: 	[SerializeField]
+111869: 	private StorySingleton.RobotPersonalityModuleConversations robotPersonalityModuleConversations; // 0x78
+111870: 	[SerializeField]
+111871: 	private StorySingleton.YanderePersonalityModuleConversations yanderePersonalityModuleConversations; // 0x80
+111872: 	[SerializeField]
+111873: 	private StorySingleton.SlutPersonalityModuleConversations slutPersonalityModuleConversations; // 0x88
+111874: 	[SerializeField]
+111875: 	private StorySingleton.FemcelPersonalityModuleConversations femcelPersonalityModuleConversations; // 0x90
+111876: 	[SerializeField]
+111877: 	private StorySingleton.HimederePersonalityModuleConversations himederePersonalityModuleConversations; // 0x98
+111878: 	[SerializeField]
+111879: 	private StorySingleton.SillyCatPersonalityModuleConversations sillyCatPersonalityModuleConversations; // 0xA0
+
+--- MATCH NEAR DUMP LINE 111871 ---
+111863: 	private StorySingleton.TsunTsunPersonalityModuleConversations tsunTsunPersonalityModuleConversations; // 0x60
+111864: 	[SerializeField]
+111865: 	private StorySingleton.CatgirlPersonalityModuleConversations catgirlPersonalityModuleConversations; // 0x68
+111866: 	[SerializeField]
+111867: 	private StorySingleton.DriverPersonalityModuleConversations driverPersonalityModuleConversations; // 0x70
+111868: 	[SerializeField]
+111869: 	private StorySingleton.RobotPersonalityModuleConversations robotPersonalityModuleConversations; // 0x78
+111870: 	[SerializeField]
+111871: 	private StorySingleton.YanderePersonalityModuleConversations yanderePersonalityModuleConversations; // 0x80
+111872: 	[SerializeField]
+111873: 	private StorySingleton.SlutPersonalityModuleConversations slutPersonalityModuleConversations; // 0x88
+111874: 	[SerializeField]
+111875: 	private StorySingleton.FemcelPersonalityModuleConversations femcelPersonalityModuleConversations; // 0x90
+111876: 	[SerializeField]
+111877: 	private StorySingleton.HimederePersonalityModuleConversations himederePersonalityModuleConversations; // 0x98
+111878: 	[SerializeField]
+111879: 	private StorySingleton.SillyCatPersonalityModuleConversations sillyCatPersonalityModuleConversations; // 0xA0
+111880: 	[SerializeField]
+111881: 	private StorySingleton.AraAraPersonalityModuleConversations araAraPersonalityModuleConversations; // 0xA8
+111882: 
+111883: 	// Properties
+
+--- MATCH NEAR DUMP LINE 111875 ---
+111867: 	private StorySingleton.DriverPersonalityModuleConversations driverPersonalityModuleConversations; // 0x70
+111868: 	[SerializeField]
+111869: 	private StorySingleton.RobotPersonalityModuleConversations robotPersonalityModuleConversations; // 0x78
+111870: 	[SerializeField]
+111871: 	private StorySingleton.YanderePersonalityModuleConversations yanderePersonalityModuleConversations; // 0x80
+111872: 	[SerializeField]
+111873: 	private StorySingleton.SlutPersonalityModuleConversations slutPersonalityModuleConversations; // 0x88
+111874: 	[SerializeField]
+111875: 	private StorySingleton.FemcelPersonalityModuleConversations femcelPersonalityModuleConversations; // 0x90
+111876: 	[SerializeField]
+111877: 	private StorySingleton.HimederePersonalityModuleConversations himederePersonalityModuleConversations; // 0x98
+111878: 	[SerializeField]
+111879: 	private StorySingleton.SillyCatPersonalityModuleConversations sillyCatPersonalityModuleConversations; // 0xA0
+111880: 	[SerializeField]
+111881: 	private StorySingleton.AraAraPersonalityModuleConversations araAraPersonalityModuleConversations; // 0xA8
+111882: 
+111883: 	// Properties
+111884: 	public FrickConversations FrickConversations { get; }
+111885: 	public BlowjobBrainState.BlowjobConversations BlowjobConversations { get; }
+111886: 	public CowgirlBrainState.CowgirlConversations CowgirlConversations { get; }
+111887: 	public CuddleBrainState.CuddleConversations CuddleConversations { get; }
+
+--- MATCH NEAR DUMP LINE 111879 ---
+111871: 	private StorySingleton.YanderePersonalityModuleConversations yanderePersonalityModuleConversations; // 0x80
+111872: 	[SerializeField]
+111873: 	private StorySingleton.SlutPersonalityModuleConversations slutPersonalityModuleConversations; // 0x88
+111874: 	[SerializeField]
+111875: 	private StorySingleton.FemcelPersonalityModuleConversations femcelPersonalityModuleConversations; // 0x90
+111876: 	[SerializeField]
+111877: 	private StorySingleton.HimederePersonalityModuleConversations himederePersonalityModuleConversations; // 0x98
+111878: 	[SerializeField]
+111879: 	private StorySingleton.SillyCatPersonalityModuleConversations sillyCatPersonalityModuleConversations; // 0xA0
+111880: 	[SerializeField]
+111881: 	private StorySingleton.AraAraPersonalityModuleConversations araAraPersonalityModuleConversations; // 0xA8
+111882: 
+111883: 	// Properties
+111884: 	public FrickConversations FrickConversations { get; }
+111885: 	public BlowjobBrainState.BlowjobConversations BlowjobConversations { get; }
+111886: 	public CowgirlBrainState.CowgirlConversations CowgirlConversations { get; }
+111887: 	public CuddleBrainState.CuddleConversations CuddleConversations { get; }
+111888: 	public NewInteractBrainState.InteractConversations InteractConversations { get; }
+111889: 	public ShowerBrainState.ShowerConversations ShowerConversations { get; }
+111890: 	public FungusEnumerators.PlayerNamingStrings PlayerNamingStrings { get; }
+111891: 	public FungusEnumerators.ClothierStrings ClothierStrings { get; }
+
+--- MATCH NEAR DUMP LINE 111893 ---
+111885: 	public BlowjobBrainState.BlowjobConversations BlowjobConversations { get; }
+111886: 	public CowgirlBrainState.CowgirlConversations CowgirlConversations { get; }
+111887: 	public CuddleBrainState.CuddleConversations CuddleConversations { get; }
+111888: 	public NewInteractBrainState.InteractConversations InteractConversations { get; }
+111889: 	public ShowerBrainState.ShowerConversations ShowerConversations { get; }
+111890: 	public FungusEnumerators.PlayerNamingStrings PlayerNamingStrings { get; }
+111891: 	public FungusEnumerators.ClothierStrings ClothierStrings { get; }
+111892: 	public StorySingleton.StoryMenuBranchesStrings StoryMenuBranchesStrings { get; }
+111893: 	public StorySingleton.TsunTsunPersonalityModuleConversations TsunTsunPersonalityModuleConversations { get; }
+111894: 	public StorySingleton.CatgirlPersonalityModuleConversations CatgirlPersonalityModuleConversations { get; }
+111895: 	public StorySingleton.DriverPersonalityModuleConversations DriverPersonalityModuleConversations { get; }
+111896: 	public StorySingleton.RobotPersonalityModuleConversations RobotPersonalityModuleConversations { get; }
+111897: 	public StorySingleton.YanderePersonalityModuleConversations YanderePersonalityModuleConversations { get; }
+111898: 	public StorySingleton.SlutPersonalityModuleConversations SlutPersonalityModuleConversations { get; }
+111899: 	public StorySingleton.FemcelPersonalityModuleConversations FemcelPersonalityModuleConversations { get; }
+111900: 	public StorySingleton.HimederePersonalityModuleConversations HimederePersonalityModuleConversations { get; }
+111901: 	public StorySingleton.SillyCatPersonalityModuleConversations SillyCatPersonalityModuleConversations { get; }
+111902: 	public StorySingleton.AraAraPersonalityModuleConversations AraAraPersonalityModuleConversations { get; }
+111903: 
+111904: 	// Methods
+111905: 
+
+--- MATCH NEAR DUMP LINE 111897 ---
+111889: 	public ShowerBrainState.ShowerConversations ShowerConversations { get; }
+111890: 	public FungusEnumerators.PlayerNamingStrings PlayerNamingStrings { get; }
+111891: 	public FungusEnumerators.ClothierStrings ClothierStrings { get; }
+111892: 	public StorySingleton.StoryMenuBranchesStrings StoryMenuBranchesStrings { get; }
+111893: 	public StorySingleton.TsunTsunPersonalityModuleConversations TsunTsunPersonalityModuleConversations { get; }
+111894: 	public StorySingleton.CatgirlPersonalityModuleConversations CatgirlPersonalityModuleConversations { get; }
+111895: 	public StorySingleton.DriverPersonalityModuleConversations DriverPersonalityModuleConversations { get; }
+111896: 	public StorySingleton.RobotPersonalityModuleConversations RobotPersonalityModuleConversations { get; }
+111897: 	public StorySingleton.YanderePersonalityModuleConversations YanderePersonalityModuleConversations { get; }
+111898: 	public StorySingleton.SlutPersonalityModuleConversations SlutPersonalityModuleConversations { get; }
+111899: 	public StorySingleton.FemcelPersonalityModuleConversations FemcelPersonalityModuleConversations { get; }
+111900: 	public StorySingleton.HimederePersonalityModuleConversations HimederePersonalityModuleConversations { get; }
+111901: 	public StorySingleton.SillyCatPersonalityModuleConversations SillyCatPersonalityModuleConversations { get; }
+111902: 	public StorySingleton.AraAraPersonalityModuleConversations AraAraPersonalityModuleConversations { get; }
+111903: 
+111904: 	// Methods
+111905: 
+111906: 	// RVA: 0x3972F0 Offset: 0x3966F0 VA: 0x1803972F0
+111907: 	public FrickConversations get_FrickConversations() { }
+111908: 
+111909: 	// RVA: 0x3972D0 Offset: 0x3966D0 VA: 0x1803972D0
+
+--- MATCH NEAR DUMP LINE 111901 ---
+111893: 	public StorySingleton.TsunTsunPersonalityModuleConversations TsunTsunPersonalityModuleConversations { get; }
+111894: 	public StorySingleton.CatgirlPersonalityModuleConversations CatgirlPersonalityModuleConversations { get; }
+111895: 	public StorySingleton.DriverPersonalityModuleConversations DriverPersonalityModuleConversations { get; }
+111896: 	public StorySingleton.RobotPersonalityModuleConversations RobotPersonalityModuleConversations { get; }
+111897: 	public StorySingleton.YanderePersonalityModuleConversations YanderePersonalityModuleConversations { get; }
+111898: 	public StorySingleton.SlutPersonalityModuleConversations SlutPersonalityModuleConversations { get; }
+111899: 	public StorySingleton.FemcelPersonalityModuleConversations FemcelPersonalityModuleConversations { get; }
+111900: 	public StorySingleton.HimederePersonalityModuleConversations HimederePersonalityModuleConversations { get; }
+111901: 	public StorySingleton.SillyCatPersonalityModuleConversations SillyCatPersonalityModuleConversations { get; }
+111902: 	public StorySingleton.AraAraPersonalityModuleConversations AraAraPersonalityModuleConversations { get; }
+111903: 
+111904: 	// Methods
+111905: 
+111906: 	// RVA: 0x3972F0 Offset: 0x3966F0 VA: 0x1803972F0
+111907: 	public FrickConversations get_FrickConversations() { }
+111908: 
+111909: 	// RVA: 0x3972D0 Offset: 0x3966D0 VA: 0x1803972D0
+111910: 	public BlowjobBrainState.BlowjobConversations get_BlowjobConversations() { }
+111911: 
+111912: 	// RVA: 0x3972B0 Offset: 0x3966B0 VA: 0x1803972B0
+111913: 	public CowgirlBrainState.CowgirlConversations get_CowgirlConversations() { }
+
+--- MATCH NEAR DUMP LINE 111934 ---
+111926: 
+111927: 	// RVA: 0x3972A0 Offset: 0x3966A0 VA: 0x1803972A0
+111928: 	public FungusEnumerators.ClothierStrings get_ClothierStrings() { }
+111929: 
+111930: 	// RVA: 0x4988F0 Offset: 0x497CF0 VA: 0x1804988F0
+111931: 	public StorySingleton.StoryMenuBranchesStrings get_StoryMenuBranchesStrings() { }
+111932: 
+111933: 	// RVA: 0x619A00 Offset: 0x618E00 VA: 0x180619A00
+111934: 	public StorySingleton.TsunTsunPersonalityModuleConversations get_TsunTsunPersonalityModuleConversations() { }
+111935: 
+111936: 	// RVA: 0x3A1980 Offset: 0x3A0D80 VA: 0x1803A1980
+111937: 	public StorySingleton.CatgirlPersonalityModuleConversations get_CatgirlPersonalityModuleConversations() { }
+111938: 
+111939: 	// RVA: 0x611540 Offset: 0x610940 VA: 0x180611540
+111940: 	public StorySingleton.DriverPersonalityModuleConversations get_DriverPersonalityModuleConversations() { }
+111941: 
+111942: 	// RVA: 0x6198B0 Offset: 0x618CB0 VA: 0x1806198B0
+111943: 	public StorySingleton.RobotPersonalityModuleConversations get_RobotPersonalityModuleConversations() { }
+111944: 
+111945: 	// RVA: 0x674F90 Offset: 0x674390 VA: 0x180674F90
+111946: 	public StorySingleton.YanderePersonalityModuleConversations get_YanderePersonalityModuleConversations() { }
+
+--- MATCH NEAR DUMP LINE 111940 ---
+111932: 
+111933: 	// RVA: 0x619A00 Offset: 0x618E00 VA: 0x180619A00
+111934: 	public StorySingleton.TsunTsunPersonalityModuleConversations get_TsunTsunPersonalityModuleConversations() { }
+111935: 
+111936: 	// RVA: 0x3A1980 Offset: 0x3A0D80 VA: 0x1803A1980
+111937: 	public StorySingleton.CatgirlPersonalityModuleConversations get_CatgirlPersonalityModuleConversations() { }
+111938: 
+111939: 	// RVA: 0x611540 Offset: 0x610940 VA: 0x180611540
+111940: 	public StorySingleton.DriverPersonalityModuleConversations get_DriverPersonalityModuleConversations() { }
+111941: 
+111942: 	// RVA: 0x6198B0 Offset: 0x618CB0 VA: 0x1806198B0
+111943: 	public StorySingleton.RobotPersonalityModuleConversations get_RobotPersonalityModuleConversations() { }
+111944: 
+111945: 	// RVA: 0x674F90 Offset: 0x674390 VA: 0x180674F90
+111946: 	public StorySingleton.YanderePersonalityModuleConversations get_YanderePersonalityModuleConversations() { }
+111947: 
+111948: 	// RVA: 0x674FB0 Offset: 0x6743B0 VA: 0x180674FB0
+111949: 	public StorySingleton.SlutPersonalityModuleConversations get_SlutPersonalityModuleConversations() { }
+111950: 
+111951: 	// RVA: 0x6198D0 Offset: 0x618CD0 VA: 0x1806198D0
+111952: 	public StorySingleton.FemcelPersonalityModuleConversations get_FemcelPersonalityModuleConversations() { }
+
+--- MATCH NEAR DUMP LINE 111946 ---
+111938: 
+111939: 	// RVA: 0x611540 Offset: 0x610940 VA: 0x180611540
+111940: 	public StorySingleton.DriverPersonalityModuleConversations get_DriverPersonalityModuleConversations() { }
+111941: 
+111942: 	// RVA: 0x6198B0 Offset: 0x618CB0 VA: 0x1806198B0
+111943: 	public StorySingleton.RobotPersonalityModuleConversations get_RobotPersonalityModuleConversations() { }
+111944: 
+111945: 	// RVA: 0x674F90 Offset: 0x674390 VA: 0x180674F90
+111946: 	public StorySingleton.YanderePersonalityModuleConversations get_YanderePersonalityModuleConversations() { }
+111947: 
+111948: 	// RVA: 0x674FB0 Offset: 0x6743B0 VA: 0x180674FB0
+111949: 	public StorySingleton.SlutPersonalityModuleConversations get_SlutPersonalityModuleConversations() { }
+111950: 
+111951: 	// RVA: 0x6198D0 Offset: 0x618CD0 VA: 0x1806198D0
+111952: 	public StorySingleton.FemcelPersonalityModuleConversations get_FemcelPersonalityModuleConversations() { }
+111953: 
+111954: 	// RVA: 0x6198C0 Offset: 0x618CC0 VA: 0x1806198C0
+111955: 	public StorySingleton.HimederePersonalityModuleConversations get_HimederePersonalityModuleConversations() { }
+111956: 
+111957: 	// RVA: 0x674F80 Offset: 0x674380 VA: 0x180674F80
+111958: 	public StorySingleton.SillyCatPersonalityModuleConversations get_SillyCatPersonalityModuleConversations() { }
+
+--- MATCH NEAR DUMP LINE 111952 ---
+111944: 
+111945: 	// RVA: 0x674F90 Offset: 0x674390 VA: 0x180674F90
+111946: 	public StorySingleton.YanderePersonalityModuleConversations get_YanderePersonalityModuleConversations() { }
+111947: 
+111948: 	// RVA: 0x674FB0 Offset: 0x6743B0 VA: 0x180674FB0
+111949: 	public StorySingleton.SlutPersonalityModuleConversations get_SlutPersonalityModuleConversations() { }
+111950: 
+111951: 	// RVA: 0x6198D0 Offset: 0x618CD0 VA: 0x1806198D0
+111952: 	public StorySingleton.FemcelPersonalityModuleConversations get_FemcelPersonalityModuleConversations() { }
+111953: 
+111954: 	// RVA: 0x6198C0 Offset: 0x618CC0 VA: 0x1806198C0
+111955: 	public StorySingleton.HimederePersonalityModuleConversations get_HimederePersonalityModuleConversations() { }
+111956: 
+111957: 	// RVA: 0x674F80 Offset: 0x674380 VA: 0x180674F80
+111958: 	public StorySingleton.SillyCatPersonalityModuleConversations get_SillyCatPersonalityModuleConversations() { }
+111959: 
+111960: 	// RVA: 0x604C50 Offset: 0x604050 VA: 0x180604C50
+111961: 	public StorySingleton.AraAraPersonalityModuleConversations get_AraAraPersonalityModuleConversations() { }
+111962: 
+111963: 	[IteratorStateMachine(typeof(CFLocalizationDataSO.<GetAllContainers>d__57))]
+111964: 	// RVA: 0x9673D0 Offset: 0x9667D0 VA: 0x1809673D0 Slot: 4
+
+--- MATCH NEAR DUMP LINE 111958 ---
+111950: 
+111951: 	// RVA: 0x6198D0 Offset: 0x618CD0 VA: 0x1806198D0
+111952: 	public StorySingleton.FemcelPersonalityModuleConversations get_FemcelPersonalityModuleConversations() { }
+111953: 
+111954: 	// RVA: 0x6198C0 Offset: 0x618CC0 VA: 0x1806198C0
+111955: 	public StorySingleton.HimederePersonalityModuleConversations get_HimederePersonalityModuleConversations() { }
+111956: 
+111957: 	// RVA: 0x674F80 Offset: 0x674380 VA: 0x180674F80
+111958: 	public StorySingleton.SillyCatPersonalityModuleConversations get_SillyCatPersonalityModuleConversations() { }
+111959: 
+111960: 	// RVA: 0x604C50 Offset: 0x604050 VA: 0x180604C50
+111961: 	public StorySingleton.AraAraPersonalityModuleConversations get_AraAraPersonalityModuleConversations() { }
+111962: 
+111963: 	[IteratorStateMachine(typeof(CFLocalizationDataSO.<GetAllContainers>d__57))]
+111964: 	// RVA: 0x9673D0 Offset: 0x9667D0 VA: 0x1809673D0 Slot: 4
+111965: 	public IEnumerable<LocalizedStringReferenceContainer> GetAllContainers() { }
+111966: 
+111967: 	// RVA: 0x967440 Offset: 0x966840 VA: 0x180967440
+111968: 	public void .ctor() { }
+111969: }
+111970: 
+
+Additional matches omitted: 76
+
+############################################################
+TARGET: CurrentModGuid
+############################################################
+
+TOTAL OCCURRENCES: 1
+
+
+--- MATCH NEAR DUMP LINE 117069 ---
+117061: // Namespace: 
+117062: [Serializable]
+117063: public class ModsSingleton.ModScriptWindow // TypeDefIndex: 1944
+117064: {
+117065: 	// Fields
+117066: 	public List<string> luaFiles; // 0x10
+117067: 	private Mod mod; // 0x18
+117068: 	private List<Closure> _luaFilesClosures; // 0x20
+117069: 	public const string CurrentModGuidVariableName = "CurrentModGuid";
+117070: 
+117071: 	// Methods
+117072: 
+117073: 	// RVA: 0x9C89D0 Offset: 0x9C7DD0 VA: 0x1809C89D0
+117074: 	public void CreateClosures(string name, Mod mod) { }
+117075: 
+117076: 	// RVA: 0x9C8DD0 Offset: 0x9C81D0 VA: 0x1809C8DD0
+117077: 	public void Execute() { }
+117078: 
+117079: 	// RVA: 0x9C8FE0 Offset: 0x9C83E0 VA: 0x1809C8FE0
+117080: 	public void .ctor() { }
+117081: }
+
+############################################################
+TARGET: targetVersion
+############################################################
+
+TOTAL OCCURRENCES: 2
+
+
+--- MATCH NEAR DUMP LINE 116127 ---
+116119: 	public static readonly string ModInfoFileName; // 0x0
+116120: 	public string name; // 0x10
+116121: 	public string description; // 0x18
+116122: 	[SerializeField]
+116123: 	private string modVersion; // 0x20
+116124: 	private ParsedVersion _parsedModVersion; // 0x28
+116125: 	public ModsSingleton.ModScriptWindow OnGameStart; // 0x30
+116126: 	[SerializeField]
+116127: 	private string targetVersion; // 0x38
+116128: 	private ParsedVersion _parsedTargetVersion; // 0x40
+116129: 	[SerializeField]
+116130: 	private string languageCode; // 0x48
+116131: 	private Locale _locale; // 0x50
+116132: 	public TechnicalData doNotChangeVariablesBelowThis; // 0x58
+116133: 	private static string DefaultName; // 0x8
+116134: 
+116135: 	// Properties
+116136: 	public ParsedVersion ParsedModVersion { get; set; }
+116137: 	public ParsedVersion ParsedTargetGameVersion { get; set; }
+116138: 	public Locale Locale { get; set; }
+116139: 	public Guid guid { get; }
+
+Additional matches omitted: 1
+
+============================================================
+END REPORT
+============================================================
