@@ -1,0 +1,140 @@
+============================================================
+MDRG 0.97 - PrepareContainer / Stage Analysis
+============================================================
+
+############################################################
+PREPARECONTAINER REFERENCES
+############################################################
+
+
+--- Around dump line 128840 ---
+128835: {
+128836: 	// Methods
+128837: 
+128838: 	[Preserve]
+128839: 	// RVA: 0xA83040 Offset: 0xA82440 VA: 0x180A83040
+128840: 	public StoryBotDialogueBranchContainer PrepareContainer(string tagId, int stageNr) { }
+128841: 
+128842: 	// RVA: 0xA83150 Offset: 0xA82550 VA: 0x180A83150
+128843: 	public void .ctor() { }
+128844: }
+128845: 
+128846: // Namespace: 
+128847: [CompilerGenerated]
+128848: [Serializable]
+128849: private sealed class StorySingleton.ConversationContainerPersonalityModuleDefinition.<>c<T> // TypeDefIndex: 2281
+128850: {
+
+############################################################
+STORYBOTCONTAINERTYPEENUM
+############################################################
+
+129673: public enum StoryBotContainerTypeEnum // TypeDefIndex: 2305
+129674: {
+129675: 	// Fields
+129676: 	public int value__; // 0x0
+129677: 	public const StoryBotContainerTypeEnum Prologue = 0;
+129678: 	public const StoryBotContainerTypeEnum Default = 1;
+129679: 	public const StoryBotContainerTypeEnum Override = 2;
+129680: }
+129681: 
+129682: // Namespace: 
+129683: [CompilerGenerated]
+129684: [Serializable]
+129685: private sealed class StoryBotDialogueBranchContainer.<>c // TypeDefIndex: 2306
+129686: {
+129687: 	// Fields
+129688: 	public static readonly StoryBotDialogueBranchContainer.<>c <>9; // 0x0
+
+############################################################
+STORYBOTDIALOGUESTAGE
+############################################################
+
+130163: private sealed class StoryBotDialogueStage.<>c // TypeDefIndex: 2319
+130164: {
+130165: 	// Fields
+130166: 	public static readonly StoryBotDialogueStage.<>c <>9; // 0x0
+130167: 	public static Func<StoryBotDialogueBranchContainer, IEnumerable<StoryBotDialogueBranch>> <>9__20_0; // 0x8
+130168: 	public static Func<KeyValuePair<string, StoryBotDialogueTag>, IEnumerable<StoryBotDialogueBranchContainer>> <>9__22_0; // 0x10
+130169: 	public static Func<StoryBotDialogueBranchContainer, bool> <>9__25_0; // 0x18
+130170: 	public static Func<StoryBotDialogueBranchContainer, int> <>9__26_0; // 0x20
+130171: 
+130172: 	// Methods
+130173: 
+130174: 	// RVA: 0xAB6500 Offset: 0xAB5900 VA: 0x180AB6500
+130175: 	private static void .cctor() { }
+130176: 
+130177: 	// RVA: 0x397420 Offset: 0x396820 VA: 0x180397420
+130178: 	public void .ctor() { }
+130179: 
+130180: 	// RVA: 0xAB3A40 Offset: 0xAB2E40 VA: 0x180AB3A40
+130181: 	internal IEnumerable<StoryBotDialogueBranch> <GetBranches>b__20_0(StoryBotDialogueBranchContainer t) { }
+130182: 
+130183: 	// RVA: 0xAB44E0 Offset: 0xAB38E0 VA: 0x180AB44E0
+130184: 	internal IEnumerable<StoryBotDialogueBranchContainer> <get_AllContainers>b__22_0(KeyValuePair<string, StoryBotDialogueTag> t) { }
+130185: 
+130186: 	// RVA: 0xAB3AB0 Offset: 0xAB2EB0 VA: 0x180AB3AB0
+130187: 	internal bool <IsPrologueFinished>b__25_0(StoryBotDialogueBranchContainer t) { }
+130188: 
+130189: 	// RVA: 0xAB39B0 Offset: 0xAB2DB0 VA: 0x180AB39B0
+130190: 	internal int <GetBranchCount>b__26_0(StoryBotDialogueBranchContainer t) { }
+130191: }
+
+############################################################
+STAGE-RELATED TEXT SEARCH
+############################################################
+
+
+TERM: PrepareContainer(
+------------------------------------------------------------
+Line 128840: 	public StoryBotDialogueBranchContainer PrepareContainer(string tagId, int stageNr) { }
+
+TERM: StoryBotContainerTypeEnum.Prologue
+------------------------------------------------------------
+NO MATCHES
+
+TERM: StoryBotContainerTypeEnum.Default
+------------------------------------------------------------
+NO MATCHES
+
+TERM: StoryBotContainerTypeEnum.Override
+------------------------------------------------------------
+NO MATCHES
+
+TERM: stageNr
+------------------------------------------------------------
+Line 128840: 	public StoryBotDialogueBranchContainer PrepareContainer(string tagId, int stageNr) { }
+Line 129435: 	private StoryBotDialogueStage GetStageInner(int stageNr) { }
+Line 129445: 	private StoryBotDialogueStage GetStage(int stageNr, string queryTag) { }
+Line 129448: 	public StoryBotDialogueStage GetStage(int stageNr) { }
+Line 129459: 	public bool TryGetTag(int stageNr, string queryTag, out StoryBotDialogueTag storyTag) { }
+
+TERM: Default = 1
+------------------------------------------------------------
+Line 103791: 	public const long ReturnToDefault = 181229886776414208;
+Line 103821: 	public const long BotName_Default = 193485221486530560;
+Line 129678: 	public const StoryBotContainerTypeEnum Default = 1;
+Line 245101: 	public const DebuggableAttribute.DebuggingModes Default = 1;
+Line 353536: 	public const ColumnSortingMode Default = 1;
+Line 359590: 	public const DispatchMode Default = 1;
+Line 472925: 	public const InputUpdateType Default = 11;
+Line 491061: 	public const CoreModules Preset_Default = 114687;
+Line 525655: 	public const XmlSpace Default = 1;
+Line 570551: 	public const EventKeywords Default = 1;
+Line 625279: 	public const DataRowVersion Default = 1536;
+Line 846581: 	public const ZipVersionNeededValues Default = 10;
+Line 865251: 	public const CollisionPairEventFlags ContactDefault = 1025;
+Line 865252: 	public const CollisionPairEventFlags TriggerDefault = 1044;
+Line 869217: 	public const HierarchyPropertyStorageType Default = 1;
+
+TERM: Override = 2
+------------------------------------------------------------
+Line 129679: 	public const StoryBotContainerTypeEnum Override = 2;
+
+TERM: Prologue = 0
+------------------------------------------------------------
+Line 129677: 	public const StoryBotContainerTypeEnum Prologue = 0;
+
+============================================================
+END REPORT
+============================================================
