@@ -1,0 +1,111 @@
+============================================================
+MDRG 0.97 - Lua Dialogue API Extraction
+============================================================
+
+
+############################################################
+TARGET: StoryBotDialogueBranch
+############################################################
+
+DECLARATION [Line 129538]: public sealed class StoryBotDialogueBranch : StoryEntryPointBase.StoryBranchGenericBase // TypeDefIndex: 2304
+
+CLASS BLOCK: lines 129538-129670
+
+METHODS / CONSTRUCTORS / LUA-EXPOSED MEMBERS
+------------------------------------------------------------
+
+--- Around dump line 129571 ---
+129569: 
+129570: 	// RVA: 0x3E0150 Offset: 0x3DF550 VA: 0x1803E0150
+129571: 	public void InitSource(StoryBotDialogueBranchContainer sourceContainer) { }
+129572: 
+129573: 	[CompilerGenerated]
+
+--- Around dump line 129588 ---
+129586: 
+129587: 	// RVA: 0xA900A0 Offset: 0xA8F4A0 VA: 0x180A900A0
+129588: 	public void .ctor(GameId id, StoryBranchTarget branchTarget) { }
+129589: 
+129590: 	[UsedInLua]
+
+--- Around dump line 129590 ---
+129588: 	public void .ctor(GameId id, StoryBranchTarget branchTarget) { }
+129589: 
+129590: 	[UsedInLua]
+129591: 	// RVA: 0xA90150 Offset: 0xA8F550 VA: 0x180A90150
+129592: 	public void .ctor(string text, Guid guid, int index, bool waitForInput) { }
+
+--- Around dump line 129592 ---
+129590: 	[UsedInLua]
+129591: 	// RVA: 0xA90150 Offset: 0xA8F550 VA: 0x180A90150
+129592: 	public void .ctor(string text, Guid guid, int index, bool waitForInput) { }
+129593: 
+129594: 	// RVA: 0xA8FFE0 Offset: 0xA8F3E0 VA: 0x180A8FFE0
+
+--- Around dump line 129644 ---
+129642: 
+129643: 	// RVA: 0xA90080 Offset: 0xA8F480 VA: 0x180A90080
+129644: 	public StoryBotDialogueBranch SetOdds(float odds) { }
+129645: 
+129646: 	// RVA: 0xA90070 Offset: 0xA8F470 VA: 0x180A90070
+
+--- Around dump line 129653 ---
+129651: 
+129652: 	// RVA: 0xA90090 Offset: 0xA8F490 VA: 0x180A90090
+129653: 	public StoryBotDialogueBranch SetPriority(int i) { }
+129654: 
+129655: 	// RVA: 0xA8FEE0 Offset: 0xA8F2E0 VA: 0x180A8FEE0
+
+--- Around dump line 129669 ---
+129667: 	[MustUseReturnValue]
+129668: 	// RVA: 0xA8FD80 Offset: 0xA8F180 VA: 0x180A8FD80
+129669: 	public StoryBranchTarget ActivateGetTarget() { }
+129670: }
+
+
+############################################################
+TARGET: StoryBotDialogueBranchContainer
+############################################################
+
+DECLARATION [Line 129685]: private sealed class StoryBotDialogueBranchContainer.<>c // TypeDefIndex: 2306
+
+CLASS BLOCK: lines 129685-129701
+
+METHODS / CONSTRUCTORS / LUA-EXPOSED MEMBERS
+------------------------------------------------------------
+
+--- Around dump line 129697 ---
+129695: 
+129696: 	// RVA: 0x397420 Offset: 0x396820 VA: 0x180397420
+129697: 	public void .ctor() { }
+129698: 
+129699: 	// RVA: 0xA99260 Offset: 0xA98660 VA: 0x180A99260
+
+
+############################################################
+TARGET: StoryBranchTarget
+############################################################
+
+DECLARATION [Line 131941]: public abstract class StoryBranchTarget // TypeDefIndex: 2347
+
+CLASS BLOCK: lines 131941-131965
+
+METHODS / CONSTRUCTORS / LUA-EXPOSED MEMBERS
+------------------------------------------------------------
+
+--- Around dump line 131964 ---
+131962: 
+131963: 	// RVA: 0x397420 Offset: 0x396820 VA: 0x180397420
+131964: 	protected void .ctor() { }
+131965: }
+
+
+############################################################
+TARGET: LuaPersonalityModuleDefinition
+############################################################
+
+TARGET NOT FOUND
+
+============================================================
+END REPORT
+============================================================
