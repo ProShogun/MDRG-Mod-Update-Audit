@@ -1,0 +1,1261 @@
+============================================================
+MDRG 0.97 - Dialogue Stage Evidence
+============================================================
+
+
+############################################################
+TARGET TAG: Frick_CumInside
+############################################################
+
+MATCH AT DUMP LINE 128469
+
+128454: }
+128455: 
+128456: // Namespace: 
+128457: public abstract class StorySingleton.BasePersonalityModuleConversationContainer : StorySingleton.EmptyPersonalityModuleConversationContainer // TypeDefIndex: 2266
+128458: {
+128459: 	// Fields
+128460: 	[PersonalityIndex(0)]
+128461: 	public SerializedLocalizedConversation Frick_StartFrick; // 0x10
+128462: 	[PersonalityIndex(1)]
+128463: 	public SerializedLocalizedConversation Frick_GenericFuckBrainStateRandomDialogueCockOutside; // 0x18
+128464: 	[PersonalityIndex(2)]
+128465: 	public SerializedLocalizedConversation Frick_GenericFuckBrainStateRandomDialogueCockInside; // 0x20
+128466: 	[PersonalityIndex(3)]
+128467: 	public SerializedLocalizedConversation Frick_GenericFuckBrainStateRandomDialogueCockInsideAnal; // 0x28
+128468: 	[PersonalityIndex(4)]
+128469: 	public SerializedLocalizedConversation Frick_CumInside; // 0x30
+128470: 	[PersonalityIndex(5)]
+128471: 	public SerializedLocalizedConversation Frick_CumInsideAnal; // 0x38
+128472: 	[PersonalityIndex(6)]
+128473: 	public SerializedLocalizedConversation Frick_CumOutside; // 0x40
+128474: 	[PersonalityIndex(7)]
+128475: 	public SerializedLocalizedConversation Frick_CumTogether; // 0x48
+128476: 	[PersonalityIndex(8)]
+128477: 	public SerializedLocalizedConversation Frick_BotCumming; // 0x50
+128478: 	[PersonalityIndex(9)]
+128479: 	public SerializedLocalizedConversation Frick_Moan; // 0x58
+128480: 	[PersonalityIndex(10)]
+128481: 	public SerializedLocalizedConversation Frick_EdgingOn; // 0x60
+128482: 	[PersonalityIndex(11)]
+128483: 	public SerializedLocalizedConversation Frick_EdgingOff; // 0x68
+128484: 	[PersonalityIndex(12)]
+128485: 	public SerializedLocalizedConversation Frick_Headpat; // 0x70
+128486: 	[PersonalityIndex(13)]
+128487: 	public SerializedLocalizedConversation Frick_RapeBegStopSuccess; // 0x78
+128488: 	[PersonalityIndex(14)]
+128489: 	public SerializedLocalizedConversation Frick_RapeBegStopRefuse; // 0x80
+
+MATCH AT DUMP LINE 128471
+
+128456: // Namespace: 
+128457: public abstract class StorySingleton.BasePersonalityModuleConversationContainer : StorySingleton.EmptyPersonalityModuleConversationContainer // TypeDefIndex: 2266
+128458: {
+128459: 	// Fields
+128460: 	[PersonalityIndex(0)]
+128461: 	public SerializedLocalizedConversation Frick_StartFrick; // 0x10
+128462: 	[PersonalityIndex(1)]
+128463: 	public SerializedLocalizedConversation Frick_GenericFuckBrainStateRandomDialogueCockOutside; // 0x18
+128464: 	[PersonalityIndex(2)]
+128465: 	public SerializedLocalizedConversation Frick_GenericFuckBrainStateRandomDialogueCockInside; // 0x20
+128466: 	[PersonalityIndex(3)]
+128467: 	public SerializedLocalizedConversation Frick_GenericFuckBrainStateRandomDialogueCockInsideAnal; // 0x28
+128468: 	[PersonalityIndex(4)]
+128469: 	public SerializedLocalizedConversation Frick_CumInside; // 0x30
+128470: 	[PersonalityIndex(5)]
+128471: 	public SerializedLocalizedConversation Frick_CumInsideAnal; // 0x38
+128472: 	[PersonalityIndex(6)]
+128473: 	public SerializedLocalizedConversation Frick_CumOutside; // 0x40
+128474: 	[PersonalityIndex(7)]
+128475: 	public SerializedLocalizedConversation Frick_CumTogether; // 0x48
+128476: 	[PersonalityIndex(8)]
+128477: 	public SerializedLocalizedConversation Frick_BotCumming; // 0x50
+128478: 	[PersonalityIndex(9)]
+128479: 	public SerializedLocalizedConversation Frick_Moan; // 0x58
+128480: 	[PersonalityIndex(10)]
+128481: 	public SerializedLocalizedConversation Frick_EdgingOn; // 0x60
+128482: 	[PersonalityIndex(11)]
+128483: 	public SerializedLocalizedConversation Frick_EdgingOff; // 0x68
+128484: 	[PersonalityIndex(12)]
+128485: 	public SerializedLocalizedConversation Frick_Headpat; // 0x70
+128486: 	[PersonalityIndex(13)]
+128487: 	public SerializedLocalizedConversation Frick_RapeBegStopSuccess; // 0x78
+128488: 	[PersonalityIndex(14)]
+128489: 	public SerializedLocalizedConversation Frick_RapeBegStopRefuse; // 0x80
+128490: 	[PersonalityIndex(15)]
+128491: 	public SerializedLocalizedConversation Frick_RapeFlacidReaction; // 0x88
+
+
+############################################################
+TARGET TAG: Frick_CumInsideAnal
+############################################################
+
+MATCH AT DUMP LINE 128471
+
+128456: // Namespace: 
+128457: public abstract class StorySingleton.BasePersonalityModuleConversationContainer : StorySingleton.EmptyPersonalityModuleConversationContainer // TypeDefIndex: 2266
+128458: {
+128459: 	// Fields
+128460: 	[PersonalityIndex(0)]
+128461: 	public SerializedLocalizedConversation Frick_StartFrick; // 0x10
+128462: 	[PersonalityIndex(1)]
+128463: 	public SerializedLocalizedConversation Frick_GenericFuckBrainStateRandomDialogueCockOutside; // 0x18
+128464: 	[PersonalityIndex(2)]
+128465: 	public SerializedLocalizedConversation Frick_GenericFuckBrainStateRandomDialogueCockInside; // 0x20
+128466: 	[PersonalityIndex(3)]
+128467: 	public SerializedLocalizedConversation Frick_GenericFuckBrainStateRandomDialogueCockInsideAnal; // 0x28
+128468: 	[PersonalityIndex(4)]
+128469: 	public SerializedLocalizedConversation Frick_CumInside; // 0x30
+128470: 	[PersonalityIndex(5)]
+128471: 	public SerializedLocalizedConversation Frick_CumInsideAnal; // 0x38
+128472: 	[PersonalityIndex(6)]
+128473: 	public SerializedLocalizedConversation Frick_CumOutside; // 0x40
+128474: 	[PersonalityIndex(7)]
+128475: 	public SerializedLocalizedConversation Frick_CumTogether; // 0x48
+128476: 	[PersonalityIndex(8)]
+128477: 	public SerializedLocalizedConversation Frick_BotCumming; // 0x50
+128478: 	[PersonalityIndex(9)]
+128479: 	public SerializedLocalizedConversation Frick_Moan; // 0x58
+128480: 	[PersonalityIndex(10)]
+128481: 	public SerializedLocalizedConversation Frick_EdgingOn; // 0x60
+128482: 	[PersonalityIndex(11)]
+128483: 	public SerializedLocalizedConversation Frick_EdgingOff; // 0x68
+128484: 	[PersonalityIndex(12)]
+128485: 	public SerializedLocalizedConversation Frick_Headpat; // 0x70
+128486: 	[PersonalityIndex(13)]
+128487: 	public SerializedLocalizedConversation Frick_RapeBegStopSuccess; // 0x78
+128488: 	[PersonalityIndex(14)]
+128489: 	public SerializedLocalizedConversation Frick_RapeBegStopRefuse; // 0x80
+128490: 	[PersonalityIndex(15)]
+128491: 	public SerializedLocalizedConversation Frick_RapeFlacidReaction; // 0x88
+
+
+############################################################
+TARGET TAG: Frick_CumOutside
+############################################################
+
+MATCH AT DUMP LINE 96994
+
+96979: 	public const long ColorName_DiabeteColaYellow = 118217092112453644;
+96980: 	public const long ColorName_DiabeteColaBlue = 118217092112453645;
+96981: 	public const long ColorName_DiabeteDrSugarRed = 118217092112453646;
+96982: 	public const long ColorName_DiabeteDrSugarBlue = 118217092112453647;
+96983: 	public const long ColorName_DiabeteSweetPotatoBrown = 118217092112453648;
+96984: 	public const long ColorName_DiabeteSweetPotatoOrange = 118217092112453649;
+96985: 	public const long ColorName_CazinoGreen = 118217092112453650;
+96986: 	public const long ColorName_CazinoBrown = 118217092112453651;
+96987: 	public const long Cowgirl_RemovePants = 120033781170966528;
+96988: 	public const long Cowgirl_BeforeInsert = 120034458442010624;
+96989: 	public const long Cowgirl_BeforeInsertBotLead = 120034827842752512;
+96990: 	public const long Cowgirl_CumInMouth = 120039386887622656;
+96991: 	public const long Cowgirl_CumInside = 120039449936400384;
+96992: 	public const long Cowgirl_CumOutside = 120039509310967808;
+96993: 	public const long Cowgirl_DidntDecide = 120040555219390464;
+96994: 	public const long Frick_CumOutside = 120043369240858624;
+96995: 	public const long Cowgirl_CumQuestion = 120045205435846656;
+96996: 	public const long Cowgirl_EdgeVeryClose = 120136478058483712;
+96997: 	public const long NunRepair_EquipedItem = 120730844321943552;
+96998: 	public const long NunRepair_Denied = 120731892331712512;
+96999: 	public const long NunRepair_DeniedNoMoney = 120732450169950208;
+97000: 	public const long NunRepair_Busy = 120733919916986368;
+97001: 	public const long NunRepair_RepairResult = 120739286138884096;
+97002: 	public const long NunRepair_RepairStarted = 120742247099404288;
+97003: 	public const long ColorName_Black = 121122169009606656;
+97004: 	public const long Achievement_ending_theyKnowOblivious = 121130260094652416;
+97005: 	public const long Achievement_ending_theyKnow = 121130260115623936;
+97006: 	public const long Achievement_bigdaddyhurtSecretEpilogue = 121152291804680192;
+97007: 	public const long Cowgirl_CumTogether = 122058373351739392;
+97008: 	public const long Cowgirl_EdgeForceStopped = 122691757786664960;
+97009: 	public const long Cowgirl_FlacidReaction = 122719261100478464;
+97010: 	public const long Cowgirl_EdgingBreak = 122729071132938240;
+97011: 	public const long Frick_BotCum = 122925642265006080;
+97012: 	public const long Cowgirl_CumAlone = 122685814826995712;
+97013: 	public const long Stage2Headpat1 = 188398410854699008;
+97014: 	public const long Stage2Headpat2 = 188398413132206080;
+
+MATCH AT DUMP LINE 97396
+
+97381: 	public static readonly LOS.TupleReference ColorName_DiabeteColaYellow; // 0x7B8
+97382: 	public static readonly LOS.TupleReference ColorName_DiabeteColaBlue; // 0x7C0
+97383: 	public static readonly LOS.TupleReference ColorName_DiabeteDrSugarRed; // 0x7C8
+97384: 	public static readonly LOS.TupleReference ColorName_DiabeteDrSugarBlue; // 0x7D0
+97385: 	public static readonly LOS.TupleReference ColorName_DiabeteSweetPotatoBrown; // 0x7D8
+97386: 	public static readonly LOS.TupleReference ColorName_DiabeteSweetPotatoOrange; // 0x7E0
+97387: 	public static readonly LOS.TupleReference ColorName_CazinoGreen; // 0x7E8
+97388: 	public static readonly LOS.TupleReference ColorName_CazinoBrown; // 0x7F0
+97389: 	public static readonly LOS.TupleReference Cowgirl_RemovePants; // 0x7F8
+97390: 	public static readonly LOS.TupleReference Cowgirl_BeforeInsert; // 0x800
+97391: 	public static readonly LOS.TupleReference Cowgirl_BeforeInsertBotLead; // 0x808
+97392: 	public static readonly LOS.TupleReference Cowgirl_CumInMouth; // 0x810
+97393: 	public static readonly LOS.TupleReference Cowgirl_CumInside; // 0x818
+97394: 	public static readonly LOS.TupleReference Cowgirl_CumOutside; // 0x820
+97395: 	public static readonly LOS.TupleReference Cowgirl_DidntDecide; // 0x828
+97396: 	public static readonly LOS.TupleReference Frick_CumOutside; // 0x830
+97397: 	public static readonly LOS.TupleReference Cowgirl_CumQuestion; // 0x838
+97398: 	public static readonly LOS.TupleReference Cowgirl_EdgeVeryClose; // 0x840
+97399: 	public static readonly LOS.TupleReference NunRepair_EquipedItem; // 0x848
+97400: 	public static readonly LOS.TupleReference NunRepair_Denied; // 0x850
+97401: 	public static readonly LOS.TupleReference NunRepair_DeniedNoMoney; // 0x858
+97402: 	public static readonly LOS.TupleReference NunRepair_Busy; // 0x860
+97403: 	public static readonly LOS.TupleReference NunRepair_RepairResult; // 0x868
+97404: 	public static readonly LOS.TupleReference NunRepair_RepairStarted; // 0x870
+97405: 	public static readonly LOS.TupleReference ColorName_Black; // 0x878
+97406: 	public static readonly LOS.TupleReference Achievement_ending_theyKnowOblivious; // 0x880
+97407: 	public static readonly LOS.TupleReference Achievement_ending_theyKnow; // 0x888
+97408: 	public static readonly LOS.TupleReference Achievement_bigdaddyhurtSecretEpilogue; // 0x890
+97409: 	public static readonly LOS.TupleReference Cowgirl_CumTogether; // 0x898
+97410: 	public static readonly LOS.TupleReference Cowgirl_EdgeForceStopped; // 0x8A0
+97411: 	public static readonly LOS.TupleReference Cowgirl_FlacidReaction; // 0x8A8
+97412: 	public static readonly LOS.TupleReference Cowgirl_EdgingBreak; // 0x8B0
+97413: 	public static readonly LOS.TupleReference Frick_BotCum; // 0x8B8
+97414: 	public static readonly LOS.TupleReference Cowgirl_CumAlone; // 0x8C0
+97415: 	public static readonly LOS.TupleReference Stage2Headpat1; // 0x8C8
+97416: 	public static readonly LOS.TupleReference Stage2Headpat2; // 0x8D0
+
+MATCH AT DUMP LINE 97807
+
+97792: 	public static string ColorName_DiabeteColaYellow { get; }
+97793: 	public static string ColorName_DiabeteColaBlue { get; }
+97794: 	public static string ColorName_DiabeteDrSugarRed { get; }
+97795: 	public static string ColorName_DiabeteDrSugarBlue { get; }
+97796: 	public static string ColorName_DiabeteSweetPotatoBrown { get; }
+97797: 	public static string ColorName_DiabeteSweetPotatoOrange { get; }
+97798: 	public static string ColorName_CazinoGreen { get; }
+97799: 	public static string ColorName_CazinoBrown { get; }
+97800: 	public static string Cowgirl_RemovePants { get; }
+97801: 	public static string Cowgirl_BeforeInsert { get; }
+97802: 	public static string Cowgirl_BeforeInsertBotLead { get; }
+97803: 	public static string Cowgirl_CumInMouth { get; }
+97804: 	public static string Cowgirl_CumInside { get; }
+97805: 	public static string Cowgirl_CumOutside { get; }
+97806: 	public static string Cowgirl_DidntDecide { get; }
+97807: 	public static string Frick_CumOutside { get; }
+97808: 	public static string Cowgirl_CumQuestion { get; }
+97809: 	public static string Cowgirl_EdgeVeryClose { get; }
+97810: 	public static string NunRepair_EquipedItem { get; }
+97811: 	public static string NunRepair_Denied { get; }
+97812: 	public static string NunRepair_DeniedNoMoney { get; }
+97813: 	public static string NunRepair_RepairStarted { get; }
+97814: 	public static string ColorName_Black { get; }
+97815: 	public static string Achievement_ending_theyKnowOblivious { get; }
+97816: 	public static string Achievement_ending_theyKnow { get; }
+97817: 	public static string Achievement_bigdaddyhurtSecretEpilogue { get; }
+97818: 	public static string Cowgirl_CumTogether { get; }
+97819: 	public static string Cowgirl_EdgeForceStopped { get; }
+97820: 	public static string Cowgirl_FlacidReaction { get; }
+97821: 	public static string Cowgirl_EdgingBreak { get; }
+97822: 	public static string Frick_BotCum { get; }
+97823: 	public static string Cowgirl_CumAlone { get; }
+97824: 	public static string Stage2Headpat1 { get; }
+97825: 	public static string Stage2Headpat2 { get; }
+97826: 	public static string Stage2Headpat3 { get; }
+97827: 	public static string Word_Brother { get; }
+
+MATCH AT DUMP LINE 98743
+
+98728: 	public static string get_Cowgirl_BeforeInsertBotLead() { }
+98729: 
+98730: 	// RVA: 0x92DA90 Offset: 0x92CE90 VA: 0x18092DA90
+98731: 	public static string get_Cowgirl_CumInMouth() { }
+98732: 
+98733: 	// RVA: 0x92DAE0 Offset: 0x92CEE0 VA: 0x18092DAE0
+98734: 	public static string get_Cowgirl_CumInside() { }
+98735: 
+98736: 	// RVA: 0x92DB30 Offset: 0x92CF30 VA: 0x18092DB30
+98737: 	public static string get_Cowgirl_CumOutside() { }
+98738: 
+98739: 	// RVA: 0x92DC20 Offset: 0x92D020 VA: 0x18092DC20
+98740: 	public static string get_Cowgirl_DidntDecide() { }
+98741: 
+98742: 	// RVA: 0x92F2F0 Offset: 0x92E6F0 VA: 0x18092F2F0
+98743: 	public static string get_Frick_CumOutside() { }
+98744: 
+98745: 	// RVA: 0x92DB80 Offset: 0x92CF80 VA: 0x18092DB80
+98746: 	public static string get_Cowgirl_CumQuestion() { }
+98747: 
+98748: 	// RVA: 0x92DCC0 Offset: 0x92D0C0 VA: 0x18092DCC0
+98749: 	public static string get_Cowgirl_EdgeVeryClose() { }
+98750: 
+98751: 	// RVA: 0x930510 Offset: 0x92F910 VA: 0x180930510
+98752: 	public static string get_NunRepair_EquipedItem() { }
+98753: 
+98754: 	// RVA: 0x9304C0 Offset: 0x92F8C0 VA: 0x1809304C0
+98755: 	public static string get_NunRepair_Denied() { }
+98756: 
+98757: 	// RVA: 0x930470 Offset: 0x92F870 VA: 0x180930470
+98758: 	public static string get_NunRepair_DeniedNoMoney() { }
+98759: 
+98760: 	// RVA: 0x929540 Offset: 0x928940 VA: 0x180929540
+98761: 	public static string NunRepair_Busy(object arg0) { }
+98762: 
+98763: 	// RVA: 0x929610 Offset: 0x928A10 VA: 0x180929610
+
+MATCH AT DUMP LINE 128473
+
+128458: {
+128459: 	// Fields
+128460: 	[PersonalityIndex(0)]
+128461: 	public SerializedLocalizedConversation Frick_StartFrick; // 0x10
+128462: 	[PersonalityIndex(1)]
+128463: 	public SerializedLocalizedConversation Frick_GenericFuckBrainStateRandomDialogueCockOutside; // 0x18
+128464: 	[PersonalityIndex(2)]
+128465: 	public SerializedLocalizedConversation Frick_GenericFuckBrainStateRandomDialogueCockInside; // 0x20
+128466: 	[PersonalityIndex(3)]
+128467: 	public SerializedLocalizedConversation Frick_GenericFuckBrainStateRandomDialogueCockInsideAnal; // 0x28
+128468: 	[PersonalityIndex(4)]
+128469: 	public SerializedLocalizedConversation Frick_CumInside; // 0x30
+128470: 	[PersonalityIndex(5)]
+128471: 	public SerializedLocalizedConversation Frick_CumInsideAnal; // 0x38
+128472: 	[PersonalityIndex(6)]
+128473: 	public SerializedLocalizedConversation Frick_CumOutside; // 0x40
+128474: 	[PersonalityIndex(7)]
+128475: 	public SerializedLocalizedConversation Frick_CumTogether; // 0x48
+128476: 	[PersonalityIndex(8)]
+128477: 	public SerializedLocalizedConversation Frick_BotCumming; // 0x50
+128478: 	[PersonalityIndex(9)]
+128479: 	public SerializedLocalizedConversation Frick_Moan; // 0x58
+128480: 	[PersonalityIndex(10)]
+128481: 	public SerializedLocalizedConversation Frick_EdgingOn; // 0x60
+128482: 	[PersonalityIndex(11)]
+128483: 	public SerializedLocalizedConversation Frick_EdgingOff; // 0x68
+128484: 	[PersonalityIndex(12)]
+128485: 	public SerializedLocalizedConversation Frick_Headpat; // 0x70
+128486: 	[PersonalityIndex(13)]
+128487: 	public SerializedLocalizedConversation Frick_RapeBegStopSuccess; // 0x78
+128488: 	[PersonalityIndex(14)]
+128489: 	public SerializedLocalizedConversation Frick_RapeBegStopRefuse; // 0x80
+128490: 	[PersonalityIndex(15)]
+128491: 	public SerializedLocalizedConversation Frick_RapeFlacidReaction; // 0x88
+128492: 	[PersonalityIndex(16)]
+128493: 	public SerializedLocalizedConversation Frick_FingeringBotCumming; // 0x90
+
+
+############################################################
+TARGET TAG: Frick_Moan
+############################################################
+
+MATCH AT DUMP LINE 128479
+
+128464: 	[PersonalityIndex(2)]
+128465: 	public SerializedLocalizedConversation Frick_GenericFuckBrainStateRandomDialogueCockInside; // 0x20
+128466: 	[PersonalityIndex(3)]
+128467: 	public SerializedLocalizedConversation Frick_GenericFuckBrainStateRandomDialogueCockInsideAnal; // 0x28
+128468: 	[PersonalityIndex(4)]
+128469: 	public SerializedLocalizedConversation Frick_CumInside; // 0x30
+128470: 	[PersonalityIndex(5)]
+128471: 	public SerializedLocalizedConversation Frick_CumInsideAnal; // 0x38
+128472: 	[PersonalityIndex(6)]
+128473: 	public SerializedLocalizedConversation Frick_CumOutside; // 0x40
+128474: 	[PersonalityIndex(7)]
+128475: 	public SerializedLocalizedConversation Frick_CumTogether; // 0x48
+128476: 	[PersonalityIndex(8)]
+128477: 	public SerializedLocalizedConversation Frick_BotCumming; // 0x50
+128478: 	[PersonalityIndex(9)]
+128479: 	public SerializedLocalizedConversation Frick_Moan; // 0x58
+128480: 	[PersonalityIndex(10)]
+128481: 	public SerializedLocalizedConversation Frick_EdgingOn; // 0x60
+128482: 	[PersonalityIndex(11)]
+128483: 	public SerializedLocalizedConversation Frick_EdgingOff; // 0x68
+128484: 	[PersonalityIndex(12)]
+128485: 	public SerializedLocalizedConversation Frick_Headpat; // 0x70
+128486: 	[PersonalityIndex(13)]
+128487: 	public SerializedLocalizedConversation Frick_RapeBegStopSuccess; // 0x78
+128488: 	[PersonalityIndex(14)]
+128489: 	public SerializedLocalizedConversation Frick_RapeBegStopRefuse; // 0x80
+128490: 	[PersonalityIndex(15)]
+128491: 	public SerializedLocalizedConversation Frick_RapeFlacidReaction; // 0x88
+128492: 	[PersonalityIndex(16)]
+128493: 	public SerializedLocalizedConversation Frick_FingeringBotCumming; // 0x90
+128494: 	[PersonalityIndex(18)]
+128495: 	public SerializedLocalizedConversation Frick_FingeringDuring; // 0x98
+128496: 	[PersonalityIndex(19)]
+128497: 	public SerializedLocalizedConversation Frick_BoobFondle; // 0xA0
+128498: 	[PersonalityIndex(20)]
+128499: 	public SerializedLocalizedConversation Frick_NipplePull; // 0xA8
+
+
+############################################################
+TARGET TAG: Frick_StartFrick
+############################################################
+
+MATCH AT DUMP LINE 128461
+
+128446: 
+128447: // Namespace: 
+128448: public abstract class StorySingleton.EmptyPersonalityModuleConversationContainer : LocalizedStringReferenceContainer // TypeDefIndex: 2265
+128449: {
+128450: 	// Methods
+128451: 
+128452: 	// RVA: 0x432230 Offset: 0x431630 VA: 0x180432230
+128453: 	protected void .ctor() { }
+128454: }
+128455: 
+128456: // Namespace: 
+128457: public abstract class StorySingleton.BasePersonalityModuleConversationContainer : StorySingleton.EmptyPersonalityModuleConversationContainer // TypeDefIndex: 2266
+128458: {
+128459: 	// Fields
+128460: 	[PersonalityIndex(0)]
+128461: 	public SerializedLocalizedConversation Frick_StartFrick; // 0x10
+128462: 	[PersonalityIndex(1)]
+128463: 	public SerializedLocalizedConversation Frick_GenericFuckBrainStateRandomDialogueCockOutside; // 0x18
+128464: 	[PersonalityIndex(2)]
+128465: 	public SerializedLocalizedConversation Frick_GenericFuckBrainStateRandomDialogueCockInside; // 0x20
+128466: 	[PersonalityIndex(3)]
+128467: 	public SerializedLocalizedConversation Frick_GenericFuckBrainStateRandomDialogueCockInsideAnal; // 0x28
+128468: 	[PersonalityIndex(4)]
+128469: 	public SerializedLocalizedConversation Frick_CumInside; // 0x30
+128470: 	[PersonalityIndex(5)]
+128471: 	public SerializedLocalizedConversation Frick_CumInsideAnal; // 0x38
+128472: 	[PersonalityIndex(6)]
+128473: 	public SerializedLocalizedConversation Frick_CumOutside; // 0x40
+128474: 	[PersonalityIndex(7)]
+128475: 	public SerializedLocalizedConversation Frick_CumTogether; // 0x48
+128476: 	[PersonalityIndex(8)]
+128477: 	public SerializedLocalizedConversation Frick_BotCumming; // 0x50
+128478: 	[PersonalityIndex(9)]
+128479: 	public SerializedLocalizedConversation Frick_Moan; // 0x58
+128480: 	[PersonalityIndex(10)]
+128481: 	public SerializedLocalizedConversation Frick_EdgingOn; // 0x60
+
+
+############################################################
+TARGET TAG: Blowjob_SwallowFull
+############################################################
+
+MATCH AT DUMP LINE 96897
+
+96882: 	public const long ColorName_MidnightBlue = 6480075771744274;
+96883: 	public const long ColorName_BasicBlack = 6480075771744275;
+96884: 	public const long ColorName_BasicWhite = 6480075771744276;
+96885: 	public const long ColorName_BloodyRed = 6480075771744277;
+96886: 	public const long ColorName_Miku = 6480075771744278;
+96887: 	public const long ColorName_FakeGold = 6480075771744279;
+96888: 	public const long ColorName_DreamyCyan = 6480075771744280;
+96889: 	public const long ColorName_UglyBlue = 6480075771744281;
+96890: 	public const long ColorName_EBPurple = 6480075771744282;
+96891: 	public const long ColorName_EBBlue = 6480075771744283;
+96892: 	public const long ColorName_EBGreen = 6480075771744284;
+96893: 	public const long ColorName_EBYellow = 6480075771744285;
+96894: 	public const long ColorName_EBOrange = 6480075771744286;
+96895: 	public const long ColorName_EBRed = 6480075771744287;
+96896: 	public const long ColorName_Custom = 6484980532121600;
+96897: 	public const long Blowjob_SwallowFull = 36649044804399104;
+96898: 	public const long Blowjob_SwallowHalf = 36649314556866560;
+96899: 	public const long Blowjob_SwallowLittle = 36649699321344000;
+96900: 	public const long Blowjob_SwallowAlmostEmpty = 36650295650709504;
+96901: 	public const long Blowjob_EdgingForceStop = 36651023119183872;
+96902: 	public const long Blowjob_EdgingAlmostCame = 36651290724167680;
+96903: 	public const long Blowjob_EdgingHadToSlowdown = 36651869752029184;
+96904: 	public const long Blowjob_EdgingOn = 36658999078973440;
+96905: 	public const long Blowjob_EdgingOff = 36659004787421184;
+96906: 	public const long Game_OldMaid_StartingWithQueen = 37005369136672768;
+96907: 	public const long Game_OldMaid_StartingWithoutQueen = 37005500103815168;
+96908: 	public const long Game_OldMaid_Waiting = 37006170395537408;
+96909: 	public const long Game_OldMaid_PlayerPickingStartWithQueen = 37006206491717632;
+96910: 	public const long Game_OldMaid_PlayerPickingStartWithoutQueen = 37006398297239552;
+96911: 	public const long Game_OldMaid_PlayerPickingDoesntMatter = 37006908236525568;
+96912: 	public const long Game_OldMaid_PlayerPickedQueenAfterLying = 37007086569943040;
+96913: 	public const long Game_OldMaid_PlayerPickedQueen = 37007252152676352;
+96914: 	public const long Game_OldMaid_PlayerPickedCardOtherThanQueenWhileBotHasQueen = 37007384810123264;
+96915: 	public const long Game_OldMaid_BotPickingCardsHover = 37007703203934208;
+96916: 	public const long Game_OldMaid_BotPickingCardsChosen = 37007761286656000;
+96917: 	public const long Game_OldMaid_BotChooseQueen = 37007916232634368;
+
+MATCH AT DUMP LINE 97299
+
+97284: 	public static readonly LOS.TupleReference ColorName_MidnightBlue; // 0x4B0
+97285: 	public static readonly LOS.TupleReference ColorName_BasicBlack; // 0x4B8
+97286: 	public static readonly LOS.TupleReference ColorName_BasicWhite; // 0x4C0
+97287: 	public static readonly LOS.TupleReference ColorName_BloodyRed; // 0x4C8
+97288: 	public static readonly LOS.TupleReference ColorName_Miku; // 0x4D0
+97289: 	public static readonly LOS.TupleReference ColorName_FakeGold; // 0x4D8
+97290: 	public static readonly LOS.TupleReference ColorName_DreamyCyan; // 0x4E0
+97291: 	public static readonly LOS.TupleReference ColorName_UglyBlue; // 0x4E8
+97292: 	public static readonly LOS.TupleReference ColorName_EBPurple; // 0x4F0
+97293: 	public static readonly LOS.TupleReference ColorName_EBBlue; // 0x4F8
+97294: 	public static readonly LOS.TupleReference ColorName_EBGreen; // 0x500
+97295: 	public static readonly LOS.TupleReference ColorName_EBYellow; // 0x508
+97296: 	public static readonly LOS.TupleReference ColorName_EBOrange; // 0x510
+97297: 	public static readonly LOS.TupleReference ColorName_EBRed; // 0x518
+97298: 	public static readonly LOS.TupleReference ColorName_Custom; // 0x520
+97299: 	public static readonly LOS.TupleReference Blowjob_SwallowFull; // 0x528
+97300: 	public static readonly LOS.TupleReference Blowjob_SwallowHalf; // 0x530
+97301: 	public static readonly LOS.TupleReference Blowjob_SwallowLittle; // 0x538
+97302: 	public static readonly LOS.TupleReference Blowjob_SwallowAlmostEmpty; // 0x540
+97303: 	public static readonly LOS.TupleReference Blowjob_EdgingForceStop; // 0x548
+97304: 	public static readonly LOS.TupleReference Blowjob_EdgingAlmostCame; // 0x550
+97305: 	public static readonly LOS.TupleReference Blowjob_EdgingHadToSlowdown; // 0x558
+97306: 	public static readonly LOS.TupleReference Blowjob_EdgingOn; // 0x560
+97307: 	public static readonly LOS.TupleReference Blowjob_EdgingOff; // 0x568
+97308: 	public static readonly LOS.TupleReference Game_OldMaid_StartingWithQueen; // 0x570
+97309: 	public static readonly LOS.TupleReference Game_OldMaid_StartingWithoutQueen; // 0x578
+97310: 	public static readonly LOS.TupleReference Game_OldMaid_Waiting; // 0x580
+97311: 	public static readonly LOS.TupleReference Game_OldMaid_PlayerPickingStartWithQueen; // 0x588
+97312: 	public static readonly LOS.TupleReference Game_OldMaid_PlayerPickingStartWithoutQueen; // 0x590
+97313: 	public static readonly LOS.TupleReference Game_OldMaid_PlayerPickingDoesntMatter; // 0x598
+97314: 	public static readonly LOS.TupleReference Game_OldMaid_PlayerPickedQueenAfterLying; // 0x5A0
+97315: 	public static readonly LOS.TupleReference Game_OldMaid_PlayerPickedQueen; // 0x5A8
+97316: 	public static readonly LOS.TupleReference Game_OldMaid_PlayerPickedCardOtherThanQueenWhileBotHasQueen; // 0x5B0
+97317: 	public static readonly LOS.TupleReference Game_OldMaid_BotPickingCardsHover; // 0x5B8
+97318: 	public static readonly LOS.TupleReference Game_OldMaid_BotPickingCardsChosen; // 0x5C0
+97319: 	public static readonly LOS.TupleReference Game_OldMaid_BotChooseQueen; // 0x5C8
+
+MATCH AT DUMP LINE 97714
+
+97699: 	public static string ColorName_MidnightBlue { get; }
+97700: 	public static string ColorName_BasicBlack { get; }
+97701: 	public static string ColorName_BasicWhite { get; }
+97702: 	public static string ColorName_BloodyRed { get; }
+97703: 	public static string ColorName_Miku { get; }
+97704: 	public static string ColorName_FakeGold { get; }
+97705: 	public static string ColorName_DreamyCyan { get; }
+97706: 	public static string ColorName_UglyBlue { get; }
+97707: 	public static string ColorName_EBPurple { get; }
+97708: 	public static string ColorName_EBBlue { get; }
+97709: 	public static string ColorName_EBGreen { get; }
+97710: 	public static string ColorName_EBYellow { get; }
+97711: 	public static string ColorName_EBOrange { get; }
+97712: 	public static string ColorName_EBRed { get; }
+97713: 	public static string ColorName_Custom { get; }
+97714: 	public static string Blowjob_SwallowFull { get; }
+97715: 	public static string Blowjob_SwallowHalf { get; }
+97716: 	public static string Blowjob_SwallowLittle { get; }
+97717: 	public static string Blowjob_SwallowAlmostEmpty { get; }
+97718: 	public static string Blowjob_EdgingForceStop { get; }
+97719: 	public static string Blowjob_EdgingAlmostCame { get; }
+97720: 	public static string Blowjob_EdgingHadToSlowdown { get; }
+97721: 	public static string Blowjob_EdgingOn { get; }
+97722: 	public static string Blowjob_EdgingOff { get; }
+97723: 	public static string Game_OldMaid_StartingWithQueen { get; }
+97724: 	public static string Game_OldMaid_StartingWithoutQueen { get; }
+97725: 	public static string Game_OldMaid_Waiting { get; }
+97726: 	public static string Game_OldMaid_PlayerPickingStartWithQueen { get; }
+97727: 	public static string Game_OldMaid_PlayerPickingStartWithoutQueen { get; }
+97728: 	public static string Game_OldMaid_PlayerPickingDoesntMatter { get; }
+97729: 	public static string Game_OldMaid_PlayerPickedQueenAfterLying { get; }
+97730: 	public static string Game_OldMaid_PlayerPickedQueen { get; }
+97731: 	public static string Game_OldMaid_PlayerPickedCardOtherThanQueenWhileBotHasQueen { get; }
+97732: 	public static string Game_OldMaid_BotPickingCardsHover { get; }
+97733: 	public static string Game_OldMaid_BotPickingCardsChosen { get; }
+97734: 	public static string Game_OldMaid_BotChooseQueen { get; }
+
+MATCH AT DUMP LINE 98452
+
+98437: 	public static string get_ColorName_EBGreen() { }
+98438: 
+98439: 	// RVA: 0x92C230 Offset: 0x92B630 VA: 0x18092C230
+98440: 	public static string get_ColorName_EBYellow() { }
+98441: 
+98442: 	// RVA: 0x92C140 Offset: 0x92B540 VA: 0x18092C140
+98443: 	public static string get_ColorName_EBOrange() { }
+98444: 
+98445: 	// RVA: 0x92C1E0 Offset: 0x92B5E0 VA: 0x18092C1E0
+98446: 	public static string get_ColorName_EBRed() { }
+98447: 
+98448: 	// RVA: 0x92BB00 Offset: 0x92AF00 VA: 0x18092BB00
+98449: 	public static string get_ColorName_Custom() { }
+98450: 
+98451: 	// RVA: 0x92AA20 Offset: 0x929E20 VA: 0x18092AA20
+98452: 	public static string get_Blowjob_SwallowFull() { }
+98453: 
+98454: 	// RVA: 0x92AA70 Offset: 0x929E70 VA: 0x18092AA70
+98455: 	public static string get_Blowjob_SwallowHalf() { }
+98456: 
+98457: 	// RVA: 0x92AAC0 Offset: 0x929EC0 VA: 0x18092AAC0
+98458: 	public static string get_Blowjob_SwallowLittle() { }
+98459: 
+98460: 	// RVA: 0x92A9D0 Offset: 0x929DD0 VA: 0x18092A9D0
+98461: 	public static string get_Blowjob_SwallowAlmostEmpty() { }
+98462: 
+98463: 	// RVA: 0x92A890 Offset: 0x929C90 VA: 0x18092A890
+98464: 	public static string get_Blowjob_EdgingForceStop() { }
+98465: 
+98466: 	// RVA: 0x92A840 Offset: 0x929C40 VA: 0x18092A840
+98467: 	public static string get_Blowjob_EdgingAlmostCame() { }
+98468: 
+98469: 	// RVA: 0x92A8E0 Offset: 0x929CE0 VA: 0x18092A8E0
+98470: 	public static string get_Blowjob_EdgingHadToSlowdown() { }
+98471: 
+98472: 	// RVA: 0x92A980 Offset: 0x929D80 VA: 0x18092A980
+
+MATCH AT DUMP LINE 128525
+
+128510: 	[PersonalityIndex(26)]
+128511: 	public SerializedLocalizedConversation Frick_FlacidBoredReaction; // 0xD8
+128512: 	[PersonalityIndex(27)]
+128513: 	public SerializedLocalizedConversation Frick_FingeringAnusDuring; // 0xE0
+128514: 	[PersonalityIndex(28)]
+128515: 	public SerializedLocalizedConversation Frick_AnusSpread; // 0xE8
+128516: 	[PersonalityIndex(29)]
+128517: 	public SerializedLocalizedConversation Frick_FingeringAnusBotCumming; // 0xF0
+128518: 	[PersonalityIndex(200)]
+128519: 	public SerializedLocalizedConversation Blowjob_EdgingAlmostCame; // 0xF8
+128520: 	[PersonalityIndex(201)]
+128521: 	public SerializedLocalizedConversation Blowjob_EdgingHadToSlowdown; // 0x100
+128522: 	[PersonalityIndex(202)]
+128523: 	public SerializedLocalizedConversation Blowjob_EdgingForceStop; // 0x108
+128524: 	[PersonalityIndex(203)]
+128525: 	public SerializedLocalizedConversation Blowjob_SwallowFull; // 0x110
+128526: 	[PersonalityIndex(204)]
+128527: 	public SerializedLocalizedConversation Blowjob_SwallowHalf; // 0x118
+128528: 	[PersonalityIndex(205)]
+128529: 	public SerializedLocalizedConversation Blowjob_SwallowLittle; // 0x120
+128530: 	[PersonalityIndex(206)]
+128531: 	public SerializedLocalizedConversation Blowjob_SwallowAlmostEmpty; // 0x128
+128532: 	[PersonalityIndex(207)]
+128533: 	public SerializedLocalizedConversation Blowjob_SwitchToCowgirlBotLead; // 0x130
+128534: 	[PersonalityIndex(208)]
+128535: 	public SerializedLocalizedConversation Blowjob_SwitchToCowgirlBotRape; // 0x138
+128536: 	[PersonalityIndex(209)]
+128537: 	public SerializedLocalizedConversation Blowjob_SwallowWithMl; // 0x140
+128538: 	[PersonalityIndex(400)]
+128539: 	public SerializedLocalizedConversation Cowgirl_RemovePants; // 0x148
+128540: 	[PersonalityIndex(401)]
+128541: 	public SerializedLocalizedConversation Cowgirl_BeforeFirstInsertBotLead; // 0x150
+128542: 	[PersonalityIndex(402)]
+128543: 	public SerializedLocalizedConversation Cowgirl_BeforeFirstInsert; // 0x158
+128544: 	[PersonalityIndex(403)]
+128545: 	public SerializedLocalizedConversation Cowgirl_EdgingForceStopped; // 0x160
+
+
+############################################################
+TARGET TAG: Blowjob_SwallowHalf
+############################################################
+
+MATCH AT DUMP LINE 96898
+
+96883: 	public const long ColorName_BasicBlack = 6480075771744275;
+96884: 	public const long ColorName_BasicWhite = 6480075771744276;
+96885: 	public const long ColorName_BloodyRed = 6480075771744277;
+96886: 	public const long ColorName_Miku = 6480075771744278;
+96887: 	public const long ColorName_FakeGold = 6480075771744279;
+96888: 	public const long ColorName_DreamyCyan = 6480075771744280;
+96889: 	public const long ColorName_UglyBlue = 6480075771744281;
+96890: 	public const long ColorName_EBPurple = 6480075771744282;
+96891: 	public const long ColorName_EBBlue = 6480075771744283;
+96892: 	public const long ColorName_EBGreen = 6480075771744284;
+96893: 	public const long ColorName_EBYellow = 6480075771744285;
+96894: 	public const long ColorName_EBOrange = 6480075771744286;
+96895: 	public const long ColorName_EBRed = 6480075771744287;
+96896: 	public const long ColorName_Custom = 6484980532121600;
+96897: 	public const long Blowjob_SwallowFull = 36649044804399104;
+96898: 	public const long Blowjob_SwallowHalf = 36649314556866560;
+96899: 	public const long Blowjob_SwallowLittle = 36649699321344000;
+96900: 	public const long Blowjob_SwallowAlmostEmpty = 36650295650709504;
+96901: 	public const long Blowjob_EdgingForceStop = 36651023119183872;
+96902: 	public const long Blowjob_EdgingAlmostCame = 36651290724167680;
+96903: 	public const long Blowjob_EdgingHadToSlowdown = 36651869752029184;
+96904: 	public const long Blowjob_EdgingOn = 36658999078973440;
+96905: 	public const long Blowjob_EdgingOff = 36659004787421184;
+96906: 	public const long Game_OldMaid_StartingWithQueen = 37005369136672768;
+96907: 	public const long Game_OldMaid_StartingWithoutQueen = 37005500103815168;
+96908: 	public const long Game_OldMaid_Waiting = 37006170395537408;
+96909: 	public const long Game_OldMaid_PlayerPickingStartWithQueen = 37006206491717632;
+96910: 	public const long Game_OldMaid_PlayerPickingStartWithoutQueen = 37006398297239552;
+96911: 	public const long Game_OldMaid_PlayerPickingDoesntMatter = 37006908236525568;
+96912: 	public const long Game_OldMaid_PlayerPickedQueenAfterLying = 37007086569943040;
+96913: 	public const long Game_OldMaid_PlayerPickedQueen = 37007252152676352;
+96914: 	public const long Game_OldMaid_PlayerPickedCardOtherThanQueenWhileBotHasQueen = 37007384810123264;
+96915: 	public const long Game_OldMaid_BotPickingCardsHover = 37007703203934208;
+96916: 	public const long Game_OldMaid_BotPickingCardsChosen = 37007761286656000;
+96917: 	public const long Game_OldMaid_BotChooseQueen = 37007916232634368;
+96918: 	public const long Game_OldMaid_BotChooseOtherWhilePlayerHasQueen = 37007950978248704;
+
+MATCH AT DUMP LINE 97300
+
+97285: 	public static readonly LOS.TupleReference ColorName_BasicBlack; // 0x4B8
+97286: 	public static readonly LOS.TupleReference ColorName_BasicWhite; // 0x4C0
+97287: 	public static readonly LOS.TupleReference ColorName_BloodyRed; // 0x4C8
+97288: 	public static readonly LOS.TupleReference ColorName_Miku; // 0x4D0
+97289: 	public static readonly LOS.TupleReference ColorName_FakeGold; // 0x4D8
+97290: 	public static readonly LOS.TupleReference ColorName_DreamyCyan; // 0x4E0
+97291: 	public static readonly LOS.TupleReference ColorName_UglyBlue; // 0x4E8
+97292: 	public static readonly LOS.TupleReference ColorName_EBPurple; // 0x4F0
+97293: 	public static readonly LOS.TupleReference ColorName_EBBlue; // 0x4F8
+97294: 	public static readonly LOS.TupleReference ColorName_EBGreen; // 0x500
+97295: 	public static readonly LOS.TupleReference ColorName_EBYellow; // 0x508
+97296: 	public static readonly LOS.TupleReference ColorName_EBOrange; // 0x510
+97297: 	public static readonly LOS.TupleReference ColorName_EBRed; // 0x518
+97298: 	public static readonly LOS.TupleReference ColorName_Custom; // 0x520
+97299: 	public static readonly LOS.TupleReference Blowjob_SwallowFull; // 0x528
+97300: 	public static readonly LOS.TupleReference Blowjob_SwallowHalf; // 0x530
+97301: 	public static readonly LOS.TupleReference Blowjob_SwallowLittle; // 0x538
+97302: 	public static readonly LOS.TupleReference Blowjob_SwallowAlmostEmpty; // 0x540
+97303: 	public static readonly LOS.TupleReference Blowjob_EdgingForceStop; // 0x548
+97304: 	public static readonly LOS.TupleReference Blowjob_EdgingAlmostCame; // 0x550
+97305: 	public static readonly LOS.TupleReference Blowjob_EdgingHadToSlowdown; // 0x558
+97306: 	public static readonly LOS.TupleReference Blowjob_EdgingOn; // 0x560
+97307: 	public static readonly LOS.TupleReference Blowjob_EdgingOff; // 0x568
+97308: 	public static readonly LOS.TupleReference Game_OldMaid_StartingWithQueen; // 0x570
+97309: 	public static readonly LOS.TupleReference Game_OldMaid_StartingWithoutQueen; // 0x578
+97310: 	public static readonly LOS.TupleReference Game_OldMaid_Waiting; // 0x580
+97311: 	public static readonly LOS.TupleReference Game_OldMaid_PlayerPickingStartWithQueen; // 0x588
+97312: 	public static readonly LOS.TupleReference Game_OldMaid_PlayerPickingStartWithoutQueen; // 0x590
+97313: 	public static readonly LOS.TupleReference Game_OldMaid_PlayerPickingDoesntMatter; // 0x598
+97314: 	public static readonly LOS.TupleReference Game_OldMaid_PlayerPickedQueenAfterLying; // 0x5A0
+97315: 	public static readonly LOS.TupleReference Game_OldMaid_PlayerPickedQueen; // 0x5A8
+97316: 	public static readonly LOS.TupleReference Game_OldMaid_PlayerPickedCardOtherThanQueenWhileBotHasQueen; // 0x5B0
+97317: 	public static readonly LOS.TupleReference Game_OldMaid_BotPickingCardsHover; // 0x5B8
+97318: 	public static readonly LOS.TupleReference Game_OldMaid_BotPickingCardsChosen; // 0x5C0
+97319: 	public static readonly LOS.TupleReference Game_OldMaid_BotChooseQueen; // 0x5C8
+97320: 	public static readonly LOS.TupleReference Game_OldMaid_BotChooseOtherWhilePlayerHasQueen; // 0x5D0
+
+MATCH AT DUMP LINE 97715
+
+97700: 	public static string ColorName_BasicBlack { get; }
+97701: 	public static string ColorName_BasicWhite { get; }
+97702: 	public static string ColorName_BloodyRed { get; }
+97703: 	public static string ColorName_Miku { get; }
+97704: 	public static string ColorName_FakeGold { get; }
+97705: 	public static string ColorName_DreamyCyan { get; }
+97706: 	public static string ColorName_UglyBlue { get; }
+97707: 	public static string ColorName_EBPurple { get; }
+97708: 	public static string ColorName_EBBlue { get; }
+97709: 	public static string ColorName_EBGreen { get; }
+97710: 	public static string ColorName_EBYellow { get; }
+97711: 	public static string ColorName_EBOrange { get; }
+97712: 	public static string ColorName_EBRed { get; }
+97713: 	public static string ColorName_Custom { get; }
+97714: 	public static string Blowjob_SwallowFull { get; }
+97715: 	public static string Blowjob_SwallowHalf { get; }
+97716: 	public static string Blowjob_SwallowLittle { get; }
+97717: 	public static string Blowjob_SwallowAlmostEmpty { get; }
+97718: 	public static string Blowjob_EdgingForceStop { get; }
+97719: 	public static string Blowjob_EdgingAlmostCame { get; }
+97720: 	public static string Blowjob_EdgingHadToSlowdown { get; }
+97721: 	public static string Blowjob_EdgingOn { get; }
+97722: 	public static string Blowjob_EdgingOff { get; }
+97723: 	public static string Game_OldMaid_StartingWithQueen { get; }
+97724: 	public static string Game_OldMaid_StartingWithoutQueen { get; }
+97725: 	public static string Game_OldMaid_Waiting { get; }
+97726: 	public static string Game_OldMaid_PlayerPickingStartWithQueen { get; }
+97727: 	public static string Game_OldMaid_PlayerPickingStartWithoutQueen { get; }
+97728: 	public static string Game_OldMaid_PlayerPickingDoesntMatter { get; }
+97729: 	public static string Game_OldMaid_PlayerPickedQueenAfterLying { get; }
+97730: 	public static string Game_OldMaid_PlayerPickedQueen { get; }
+97731: 	public static string Game_OldMaid_PlayerPickedCardOtherThanQueenWhileBotHasQueen { get; }
+97732: 	public static string Game_OldMaid_BotPickingCardsHover { get; }
+97733: 	public static string Game_OldMaid_BotPickingCardsChosen { get; }
+97734: 	public static string Game_OldMaid_BotChooseQueen { get; }
+97735: 	public static string Game_OldMaid_BotChooseOtherWhilePlayerHasQueen { get; }
+
+MATCH AT DUMP LINE 98455
+
+98440: 	public static string get_ColorName_EBYellow() { }
+98441: 
+98442: 	// RVA: 0x92C140 Offset: 0x92B540 VA: 0x18092C140
+98443: 	public static string get_ColorName_EBOrange() { }
+98444: 
+98445: 	// RVA: 0x92C1E0 Offset: 0x92B5E0 VA: 0x18092C1E0
+98446: 	public static string get_ColorName_EBRed() { }
+98447: 
+98448: 	// RVA: 0x92BB00 Offset: 0x92AF00 VA: 0x18092BB00
+98449: 	public static string get_ColorName_Custom() { }
+98450: 
+98451: 	// RVA: 0x92AA20 Offset: 0x929E20 VA: 0x18092AA20
+98452: 	public static string get_Blowjob_SwallowFull() { }
+98453: 
+98454: 	// RVA: 0x92AA70 Offset: 0x929E70 VA: 0x18092AA70
+98455: 	public static string get_Blowjob_SwallowHalf() { }
+98456: 
+98457: 	// RVA: 0x92AAC0 Offset: 0x929EC0 VA: 0x18092AAC0
+98458: 	public static string get_Blowjob_SwallowLittle() { }
+98459: 
+98460: 	// RVA: 0x92A9D0 Offset: 0x929DD0 VA: 0x18092A9D0
+98461: 	public static string get_Blowjob_SwallowAlmostEmpty() { }
+98462: 
+98463: 	// RVA: 0x92A890 Offset: 0x929C90 VA: 0x18092A890
+98464: 	public static string get_Blowjob_EdgingForceStop() { }
+98465: 
+98466: 	// RVA: 0x92A840 Offset: 0x929C40 VA: 0x18092A840
+98467: 	public static string get_Blowjob_EdgingAlmostCame() { }
+98468: 
+98469: 	// RVA: 0x92A8E0 Offset: 0x929CE0 VA: 0x18092A8E0
+98470: 	public static string get_Blowjob_EdgingHadToSlowdown() { }
+98471: 
+98472: 	// RVA: 0x92A980 Offset: 0x929D80 VA: 0x18092A980
+98473: 	public static string get_Blowjob_EdgingOn() { }
+98474: 
+98475: 	// RVA: 0x92A930 Offset: 0x929D30 VA: 0x18092A930
+
+MATCH AT DUMP LINE 128527
+
+128512: 	[PersonalityIndex(27)]
+128513: 	public SerializedLocalizedConversation Frick_FingeringAnusDuring; // 0xE0
+128514: 	[PersonalityIndex(28)]
+128515: 	public SerializedLocalizedConversation Frick_AnusSpread; // 0xE8
+128516: 	[PersonalityIndex(29)]
+128517: 	public SerializedLocalizedConversation Frick_FingeringAnusBotCumming; // 0xF0
+128518: 	[PersonalityIndex(200)]
+128519: 	public SerializedLocalizedConversation Blowjob_EdgingAlmostCame; // 0xF8
+128520: 	[PersonalityIndex(201)]
+128521: 	public SerializedLocalizedConversation Blowjob_EdgingHadToSlowdown; // 0x100
+128522: 	[PersonalityIndex(202)]
+128523: 	public SerializedLocalizedConversation Blowjob_EdgingForceStop; // 0x108
+128524: 	[PersonalityIndex(203)]
+128525: 	public SerializedLocalizedConversation Blowjob_SwallowFull; // 0x110
+128526: 	[PersonalityIndex(204)]
+128527: 	public SerializedLocalizedConversation Blowjob_SwallowHalf; // 0x118
+128528: 	[PersonalityIndex(205)]
+128529: 	public SerializedLocalizedConversation Blowjob_SwallowLittle; // 0x120
+128530: 	[PersonalityIndex(206)]
+128531: 	public SerializedLocalizedConversation Blowjob_SwallowAlmostEmpty; // 0x128
+128532: 	[PersonalityIndex(207)]
+128533: 	public SerializedLocalizedConversation Blowjob_SwitchToCowgirlBotLead; // 0x130
+128534: 	[PersonalityIndex(208)]
+128535: 	public SerializedLocalizedConversation Blowjob_SwitchToCowgirlBotRape; // 0x138
+128536: 	[PersonalityIndex(209)]
+128537: 	public SerializedLocalizedConversation Blowjob_SwallowWithMl; // 0x140
+128538: 	[PersonalityIndex(400)]
+128539: 	public SerializedLocalizedConversation Cowgirl_RemovePants; // 0x148
+128540: 	[PersonalityIndex(401)]
+128541: 	public SerializedLocalizedConversation Cowgirl_BeforeFirstInsertBotLead; // 0x150
+128542: 	[PersonalityIndex(402)]
+128543: 	public SerializedLocalizedConversation Cowgirl_BeforeFirstInsert; // 0x158
+128544: 	[PersonalityIndex(403)]
+128545: 	public SerializedLocalizedConversation Cowgirl_EdgingForceStopped; // 0x160
+128546: 	[PersonalityIndex(404)]
+128547: 	public SerializedLocalizedConversation Cowgirl_EdgingBreak; // 0x168
+
+
+############################################################
+TARGET TAG: Cowgirl_BeforeFirstInsert
+############################################################
+
+MATCH AT DUMP LINE 128541
+
+128526: 	[PersonalityIndex(204)]
+128527: 	public SerializedLocalizedConversation Blowjob_SwallowHalf; // 0x118
+128528: 	[PersonalityIndex(205)]
+128529: 	public SerializedLocalizedConversation Blowjob_SwallowLittle; // 0x120
+128530: 	[PersonalityIndex(206)]
+128531: 	public SerializedLocalizedConversation Blowjob_SwallowAlmostEmpty; // 0x128
+128532: 	[PersonalityIndex(207)]
+128533: 	public SerializedLocalizedConversation Blowjob_SwitchToCowgirlBotLead; // 0x130
+128534: 	[PersonalityIndex(208)]
+128535: 	public SerializedLocalizedConversation Blowjob_SwitchToCowgirlBotRape; // 0x138
+128536: 	[PersonalityIndex(209)]
+128537: 	public SerializedLocalizedConversation Blowjob_SwallowWithMl; // 0x140
+128538: 	[PersonalityIndex(400)]
+128539: 	public SerializedLocalizedConversation Cowgirl_RemovePants; // 0x148
+128540: 	[PersonalityIndex(401)]
+128541: 	public SerializedLocalizedConversation Cowgirl_BeforeFirstInsertBotLead; // 0x150
+128542: 	[PersonalityIndex(402)]
+128543: 	public SerializedLocalizedConversation Cowgirl_BeforeFirstInsert; // 0x158
+128544: 	[PersonalityIndex(403)]
+128545: 	public SerializedLocalizedConversation Cowgirl_EdgingForceStopped; // 0x160
+128546: 	[PersonalityIndex(404)]
+128547: 	public SerializedLocalizedConversation Cowgirl_EdgingBreak; // 0x168
+128548: 	[PersonalityIndex(405)]
+128549: 	public SerializedLocalizedConversation Cowgirl_FlacidReaction; // 0x170
+128550: 	[PersonalityIndex(406)]
+128551: 	public SerializedLocalizedConversation Cowgirl_WhereToCumQuestion; // 0x178
+128552: 	[PersonalityIndex(407)]
+128553: 	public SerializedLocalizedConversation Cowgirl_WhereToCumQuestionDidntAnswer; // 0x180
+128554: 	[PersonalityIndex(408)]
+128555: 	public SerializedLocalizedConversation Cowgirl_BeforeFirstInsertRape; // 0x188
+128556: 	[PersonalityIndex(409)]
+128557: 	public SerializedLocalizedConversation Cowgirl_MadeMcCumInsideWhileCummingHerself; // 0x190
+128558: 	[PersonalityIndex(410)]
+128559: 	public SerializedLocalizedConversation Cowgirl_BeforeSwitchToBlowjobBotLead; // 0x198
+128560: 	[PersonalityIndex(411)]
+128561: 	public SerializedLocalizedConversation Cowgirl_BeforeSwitchToBlowjobRape; // 0x1A0
+
+MATCH AT DUMP LINE 128543
+
+128528: 	[PersonalityIndex(205)]
+128529: 	public SerializedLocalizedConversation Blowjob_SwallowLittle; // 0x120
+128530: 	[PersonalityIndex(206)]
+128531: 	public SerializedLocalizedConversation Blowjob_SwallowAlmostEmpty; // 0x128
+128532: 	[PersonalityIndex(207)]
+128533: 	public SerializedLocalizedConversation Blowjob_SwitchToCowgirlBotLead; // 0x130
+128534: 	[PersonalityIndex(208)]
+128535: 	public SerializedLocalizedConversation Blowjob_SwitchToCowgirlBotRape; // 0x138
+128536: 	[PersonalityIndex(209)]
+128537: 	public SerializedLocalizedConversation Blowjob_SwallowWithMl; // 0x140
+128538: 	[PersonalityIndex(400)]
+128539: 	public SerializedLocalizedConversation Cowgirl_RemovePants; // 0x148
+128540: 	[PersonalityIndex(401)]
+128541: 	public SerializedLocalizedConversation Cowgirl_BeforeFirstInsertBotLead; // 0x150
+128542: 	[PersonalityIndex(402)]
+128543: 	public SerializedLocalizedConversation Cowgirl_BeforeFirstInsert; // 0x158
+128544: 	[PersonalityIndex(403)]
+128545: 	public SerializedLocalizedConversation Cowgirl_EdgingForceStopped; // 0x160
+128546: 	[PersonalityIndex(404)]
+128547: 	public SerializedLocalizedConversation Cowgirl_EdgingBreak; // 0x168
+128548: 	[PersonalityIndex(405)]
+128549: 	public SerializedLocalizedConversation Cowgirl_FlacidReaction; // 0x170
+128550: 	[PersonalityIndex(406)]
+128551: 	public SerializedLocalizedConversation Cowgirl_WhereToCumQuestion; // 0x178
+128552: 	[PersonalityIndex(407)]
+128553: 	public SerializedLocalizedConversation Cowgirl_WhereToCumQuestionDidntAnswer; // 0x180
+128554: 	[PersonalityIndex(408)]
+128555: 	public SerializedLocalizedConversation Cowgirl_BeforeFirstInsertRape; // 0x188
+128556: 	[PersonalityIndex(409)]
+128557: 	public SerializedLocalizedConversation Cowgirl_MadeMcCumInsideWhileCummingHerself; // 0x190
+128558: 	[PersonalityIndex(410)]
+128559: 	public SerializedLocalizedConversation Cowgirl_BeforeSwitchToBlowjobBotLead; // 0x198
+128560: 	[PersonalityIndex(411)]
+128561: 	public SerializedLocalizedConversation Cowgirl_BeforeSwitchToBlowjobRape; // 0x1A0
+128562: 	[PersonalityIndex(412)]
+128563: 	public SerializedLocalizedConversation Cowgirl_AfterFirstInsertBotRape; // 0x1A8
+
+MATCH AT DUMP LINE 128555
+
+128540: 	[PersonalityIndex(401)]
+128541: 	public SerializedLocalizedConversation Cowgirl_BeforeFirstInsertBotLead; // 0x150
+128542: 	[PersonalityIndex(402)]
+128543: 	public SerializedLocalizedConversation Cowgirl_BeforeFirstInsert; // 0x158
+128544: 	[PersonalityIndex(403)]
+128545: 	public SerializedLocalizedConversation Cowgirl_EdgingForceStopped; // 0x160
+128546: 	[PersonalityIndex(404)]
+128547: 	public SerializedLocalizedConversation Cowgirl_EdgingBreak; // 0x168
+128548: 	[PersonalityIndex(405)]
+128549: 	public SerializedLocalizedConversation Cowgirl_FlacidReaction; // 0x170
+128550: 	[PersonalityIndex(406)]
+128551: 	public SerializedLocalizedConversation Cowgirl_WhereToCumQuestion; // 0x178
+128552: 	[PersonalityIndex(407)]
+128553: 	public SerializedLocalizedConversation Cowgirl_WhereToCumQuestionDidntAnswer; // 0x180
+128554: 	[PersonalityIndex(408)]
+128555: 	public SerializedLocalizedConversation Cowgirl_BeforeFirstInsertRape; // 0x188
+128556: 	[PersonalityIndex(409)]
+128557: 	public SerializedLocalizedConversation Cowgirl_MadeMcCumInsideWhileCummingHerself; // 0x190
+128558: 	[PersonalityIndex(410)]
+128559: 	public SerializedLocalizedConversation Cowgirl_BeforeSwitchToBlowjobBotLead; // 0x198
+128560: 	[PersonalityIndex(411)]
+128561: 	public SerializedLocalizedConversation Cowgirl_BeforeSwitchToBlowjobRape; // 0x1A0
+128562: 	[PersonalityIndex(412)]
+128563: 	public SerializedLocalizedConversation Cowgirl_AfterFirstInsertBotRape; // 0x1A8
+128564: 
+128565: 	// Methods
+128566: 
+128567: 	// RVA: 0x432230 Offset: 0x431630 VA: 0x180432230
+128568: 	protected void .ctor() { }
+128569: }
+128570: 
+128571: // Namespace: 
+128572: [Serializable]
+128573: public class StorySingleton.TsunTsunPersonalityModuleConversations : StorySingleton.BasePersonalityModuleConversationContainer // TypeDefIndex: 2267
+128574: {
+128575: 	// Properties
+
+
+############################################################
+TARGET TAG: Cowgirl_FlacidReaction
+############################################################
+
+MATCH AT DUMP LINE 97009
+
+96994: 	public const long Frick_CumOutside = 120043369240858624;
+96995: 	public const long Cowgirl_CumQuestion = 120045205435846656;
+96996: 	public const long Cowgirl_EdgeVeryClose = 120136478058483712;
+96997: 	public const long NunRepair_EquipedItem = 120730844321943552;
+96998: 	public const long NunRepair_Denied = 120731892331712512;
+96999: 	public const long NunRepair_DeniedNoMoney = 120732450169950208;
+97000: 	public const long NunRepair_Busy = 120733919916986368;
+97001: 	public const long NunRepair_RepairResult = 120739286138884096;
+97002: 	public const long NunRepair_RepairStarted = 120742247099404288;
+97003: 	public const long ColorName_Black = 121122169009606656;
+97004: 	public const long Achievement_ending_theyKnowOblivious = 121130260094652416;
+97005: 	public const long Achievement_ending_theyKnow = 121130260115623936;
+97006: 	public const long Achievement_bigdaddyhurtSecretEpilogue = 121152291804680192;
+97007: 	public const long Cowgirl_CumTogether = 122058373351739392;
+97008: 	public const long Cowgirl_EdgeForceStopped = 122691757786664960;
+97009: 	public const long Cowgirl_FlacidReaction = 122719261100478464;
+97010: 	public const long Cowgirl_EdgingBreak = 122729071132938240;
+97011: 	public const long Frick_BotCum = 122925642265006080;
+97012: 	public const long Cowgirl_CumAlone = 122685814826995712;
+97013: 	public const long Stage2Headpat1 = 188398410854699008;
+97014: 	public const long Stage2Headpat2 = 188398413132206080;
+97015: 	public const long Stage2Headpat3 = 188398414898008064;
+97016: 	public const long Word_Brother = 192453224328728576;
+97017: 	public const long Word_Sister = 192453258243870720;
+97018: 	public const long Outside_RiotsDanger = 196436563699163136;
+97019: 	public const long Fishing_PollutedLakeName = 268423275278753792;
+97020: 	public const long Fishing_PollutedLakeDescription = 268423666603122688;
+97021: 	public const long Fishing_TrashedRiverName = 268424045873061888;
+97022: 	public const long Fishing_TrashedRiverDescription = 268424115800498176;
+97023: 	public const long Fishing_PremiumFishFarmName = 268424601735782400;
+97024: 	public const long Fishing_PremiumFishFarmDescription = 268424603933597696;
+97025: 	public const long Fishing_MicroplasticsCoastName = 272492651078475776;
+97026: 	public const long Fishing_MicroplasticsCoastDescription = 272492655176310784;
+97027: 	public const long ColorName_Bastille = 276056677704261632;
+97028: 	public const long ColorName_Mirage = 276056677775564800;
+97029: 	public const long ColorName_Toledo = 276056677821702144;
+
+MATCH AT DUMP LINE 97411
+
+97396: 	public static readonly LOS.TupleReference Frick_CumOutside; // 0x830
+97397: 	public static readonly LOS.TupleReference Cowgirl_CumQuestion; // 0x838
+97398: 	public static readonly LOS.TupleReference Cowgirl_EdgeVeryClose; // 0x840
+97399: 	public static readonly LOS.TupleReference NunRepair_EquipedItem; // 0x848
+97400: 	public static readonly LOS.TupleReference NunRepair_Denied; // 0x850
+97401: 	public static readonly LOS.TupleReference NunRepair_DeniedNoMoney; // 0x858
+97402: 	public static readonly LOS.TupleReference NunRepair_Busy; // 0x860
+97403: 	public static readonly LOS.TupleReference NunRepair_RepairResult; // 0x868
+97404: 	public static readonly LOS.TupleReference NunRepair_RepairStarted; // 0x870
+97405: 	public static readonly LOS.TupleReference ColorName_Black; // 0x878
+97406: 	public static readonly LOS.TupleReference Achievement_ending_theyKnowOblivious; // 0x880
+97407: 	public static readonly LOS.TupleReference Achievement_ending_theyKnow; // 0x888
+97408: 	public static readonly LOS.TupleReference Achievement_bigdaddyhurtSecretEpilogue; // 0x890
+97409: 	public static readonly LOS.TupleReference Cowgirl_CumTogether; // 0x898
+97410: 	public static readonly LOS.TupleReference Cowgirl_EdgeForceStopped; // 0x8A0
+97411: 	public static readonly LOS.TupleReference Cowgirl_FlacidReaction; // 0x8A8
+97412: 	public static readonly LOS.TupleReference Cowgirl_EdgingBreak; // 0x8B0
+97413: 	public static readonly LOS.TupleReference Frick_BotCum; // 0x8B8
+97414: 	public static readonly LOS.TupleReference Cowgirl_CumAlone; // 0x8C0
+97415: 	public static readonly LOS.TupleReference Stage2Headpat1; // 0x8C8
+97416: 	public static readonly LOS.TupleReference Stage2Headpat2; // 0x8D0
+97417: 	public static readonly LOS.TupleReference Stage2Headpat3; // 0x8D8
+97418: 	public static readonly LOS.TupleReference Word_Brother; // 0x8E0
+97419: 	public static readonly LOS.TupleReference Word_Sister; // 0x8E8
+97420: 	public static readonly LOS.TupleReference Outside_RiotsDanger; // 0x8F0
+97421: 	public static readonly LOS.TupleReference Fishing_PollutedLakeName; // 0x8F8
+97422: 	public static readonly LOS.TupleReference Fishing_PollutedLakeDescription; // 0x900
+97423: 	public static readonly LOS.TupleReference Fishing_TrashedRiverName; // 0x908
+97424: 	public static readonly LOS.TupleReference Fishing_TrashedRiverDescription; // 0x910
+97425: 	public static readonly LOS.TupleReference Fishing_PremiumFishFarmName; // 0x918
+97426: 	public static readonly LOS.TupleReference Fishing_PremiumFishFarmDescription; // 0x920
+97427: 	public static readonly LOS.TupleReference Fishing_MicroplasticsCoastName; // 0x928
+97428: 	public static readonly LOS.TupleReference Fishing_MicroplasticsCoastDescription; // 0x930
+97429: 	public static readonly LOS.TupleReference ColorName_Bastille; // 0x938
+97430: 	public static readonly LOS.TupleReference ColorName_Mirage; // 0x940
+97431: 	public static readonly LOS.TupleReference ColorName_Toledo; // 0x948
+
+MATCH AT DUMP LINE 97820
+
+97805: 	public static string Cowgirl_CumOutside { get; }
+97806: 	public static string Cowgirl_DidntDecide { get; }
+97807: 	public static string Frick_CumOutside { get; }
+97808: 	public static string Cowgirl_CumQuestion { get; }
+97809: 	public static string Cowgirl_EdgeVeryClose { get; }
+97810: 	public static string NunRepair_EquipedItem { get; }
+97811: 	public static string NunRepair_Denied { get; }
+97812: 	public static string NunRepair_DeniedNoMoney { get; }
+97813: 	public static string NunRepair_RepairStarted { get; }
+97814: 	public static string ColorName_Black { get; }
+97815: 	public static string Achievement_ending_theyKnowOblivious { get; }
+97816: 	public static string Achievement_ending_theyKnow { get; }
+97817: 	public static string Achievement_bigdaddyhurtSecretEpilogue { get; }
+97818: 	public static string Cowgirl_CumTogether { get; }
+97819: 	public static string Cowgirl_EdgeForceStopped { get; }
+97820: 	public static string Cowgirl_FlacidReaction { get; }
+97821: 	public static string Cowgirl_EdgingBreak { get; }
+97822: 	public static string Frick_BotCum { get; }
+97823: 	public static string Cowgirl_CumAlone { get; }
+97824: 	public static string Stage2Headpat1 { get; }
+97825: 	public static string Stage2Headpat2 { get; }
+97826: 	public static string Stage2Headpat3 { get; }
+97827: 	public static string Word_Brother { get; }
+97828: 	public static string Word_Sister { get; }
+97829: 	public static string Outside_RiotsDanger { get; }
+97830: 	public static string Fishing_PollutedLakeName { get; }
+97831: 	public static string Fishing_PollutedLakeDescription { get; }
+97832: 	public static string Fishing_TrashedRiverName { get; }
+97833: 	public static string Fishing_TrashedRiverDescription { get; }
+97834: 	public static string Fishing_PremiumFishFarmName { get; }
+97835: 	public static string Fishing_PremiumFishFarmDescription { get; }
+97836: 	public static string Fishing_MicroplasticsCoastName { get; }
+97837: 	public static string Fishing_MicroplasticsCoastDescription { get; }
+97838: 	public static string ColorName_Bastille { get; }
+97839: 	public static string ColorName_Mirage { get; }
+97840: 	public static string ColorName_Toledo { get; }
+
+MATCH AT DUMP LINE 98788
+
+98773: 	public static string get_Achievement_ending_theyKnowOblivious() { }
+98774: 
+98775: 	// RVA: 0x92A2F0 Offset: 0x9296F0 VA: 0x18092A2F0
+98776: 	public static string get_Achievement_ending_theyKnow() { }
+98777: 
+98778: 	// RVA: 0x9299E0 Offset: 0x928DE0 VA: 0x1809299E0
+98779: 	public static string get_Achievement_bigdaddyhurtSecretEpilogue() { }
+98780: 
+98781: 	// RVA: 0x92DBD0 Offset: 0x92CFD0 VA: 0x18092DBD0
+98782: 	public static string get_Cowgirl_CumTogether() { }
+98783: 
+98784: 	// RVA: 0x92DC70 Offset: 0x92D070 VA: 0x18092DC70
+98785: 	public static string get_Cowgirl_EdgeForceStopped() { }
+98786: 
+98787: 	// RVA: 0x92DD60 Offset: 0x92D160 VA: 0x18092DD60
+98788: 	public static string get_Cowgirl_FlacidReaction() { }
+98789: 
+98790: 	// RVA: 0x92DD10 Offset: 0x92D110 VA: 0x18092DD10
+98791: 	public static string get_Cowgirl_EdgingBreak() { }
+98792: 
+98793: 	// RVA: 0x92F2A0 Offset: 0x92E6A0 VA: 0x18092F2A0
+98794: 	public static string get_Frick_BotCum() { }
+98795: 
+98796: 	// RVA: 0x92DA40 Offset: 0x92CE40 VA: 0x18092DA40
+98797: 	public static string get_Cowgirl_CumAlone() { }
+98798: 
+98799: 	// RVA: 0x930DD0 Offset: 0x9301D0 VA: 0x180930DD0
+98800: 	public static string get_Stage2Headpat1() { }
+98801: 
+98802: 	// RVA: 0x930E20 Offset: 0x930220 VA: 0x180930E20
+98803: 	public static string get_Stage2Headpat2() { }
+98804: 
+98805: 	// RVA: 0x930E70 Offset: 0x930270 VA: 0x180930E70
+98806: 	public static string get_Stage2Headpat3() { }
+98807: 
+98808: 	// RVA: 0x931230 Offset: 0x930630 VA: 0x180931230
+
+MATCH AT DUMP LINE 128549
+
+128534: 	[PersonalityIndex(208)]
+128535: 	public SerializedLocalizedConversation Blowjob_SwitchToCowgirlBotRape; // 0x138
+128536: 	[PersonalityIndex(209)]
+128537: 	public SerializedLocalizedConversation Blowjob_SwallowWithMl; // 0x140
+128538: 	[PersonalityIndex(400)]
+128539: 	public SerializedLocalizedConversation Cowgirl_RemovePants; // 0x148
+128540: 	[PersonalityIndex(401)]
+128541: 	public SerializedLocalizedConversation Cowgirl_BeforeFirstInsertBotLead; // 0x150
+128542: 	[PersonalityIndex(402)]
+128543: 	public SerializedLocalizedConversation Cowgirl_BeforeFirstInsert; // 0x158
+128544: 	[PersonalityIndex(403)]
+128545: 	public SerializedLocalizedConversation Cowgirl_EdgingForceStopped; // 0x160
+128546: 	[PersonalityIndex(404)]
+128547: 	public SerializedLocalizedConversation Cowgirl_EdgingBreak; // 0x168
+128548: 	[PersonalityIndex(405)]
+128549: 	public SerializedLocalizedConversation Cowgirl_FlacidReaction; // 0x170
+128550: 	[PersonalityIndex(406)]
+128551: 	public SerializedLocalizedConversation Cowgirl_WhereToCumQuestion; // 0x178
+128552: 	[PersonalityIndex(407)]
+128553: 	public SerializedLocalizedConversation Cowgirl_WhereToCumQuestionDidntAnswer; // 0x180
+128554: 	[PersonalityIndex(408)]
+128555: 	public SerializedLocalizedConversation Cowgirl_BeforeFirstInsertRape; // 0x188
+128556: 	[PersonalityIndex(409)]
+128557: 	public SerializedLocalizedConversation Cowgirl_MadeMcCumInsideWhileCummingHerself; // 0x190
+128558: 	[PersonalityIndex(410)]
+128559: 	public SerializedLocalizedConversation Cowgirl_BeforeSwitchToBlowjobBotLead; // 0x198
+128560: 	[PersonalityIndex(411)]
+128561: 	public SerializedLocalizedConversation Cowgirl_BeforeSwitchToBlowjobRape; // 0x1A0
+128562: 	[PersonalityIndex(412)]
+128563: 	public SerializedLocalizedConversation Cowgirl_AfterFirstInsertBotRape; // 0x1A8
+128564: 
+128565: 	// Methods
+128566: 
+128567: 	// RVA: 0x432230 Offset: 0x431630 VA: 0x180432230
+128568: 	protected void .ctor() { }
+128569: }
+
+
+############################################################
+STAGE CLASSES
+############################################################
+
+130160: // Namespace: 
+130161: [CompilerGenerated]
+130162: [Serializable]
+130163: private sealed class StoryBotDialogueStage.<>c // TypeDefIndex: 2319
+130164: {
+130165: 	// Fields
+130166: 	public static readonly StoryBotDialogueStage.<>c <>9; // 0x0
+130167: 	public static Func<StoryBotDialogueBranchContainer, IEnumerable<StoryBotDialogueBranch>> <>9__20_0; // 0x8
+130168: 	public static Func<KeyValuePair<string, StoryBotDialogueTag>, IEnumerable<StoryBotDialogueBranchContainer>> <>9__22_0; // 0x10
+130169: 	public static Func<StoryBotDialogueBranchContainer, bool> <>9__25_0; // 0x18
+130170: 	public static Func<StoryBotDialogueBranchContainer, int> <>9__26_0; // 0x20
+130171: 
+130172: 	// Methods
+130173: 
+130174: 	// RVA: 0xAB6500 Offset: 0xAB5900 VA: 0x180AB6500
+130175: 	private static void .cctor() { }
+130176: 
+130177: 	// RVA: 0x397420 Offset: 0x396820 VA: 0x180397420
+130178: 	public void .ctor() { }
+130179: 
+130180: 	// RVA: 0xAB3A40 Offset: 0xAB2E40 VA: 0x180AB3A40
+130181: 	internal IEnumerable<StoryBotDialogueBranch> <GetBranches>b__20_0(StoryBotDialogueBranchContainer t) { }
+130182: 
+130183: 	// RVA: 0xAB44E0 Offset: 0xAB38E0 VA: 0x180AB44E0
+130184: 	internal IEnumerable<StoryBotDialogueBranchContainer> <get_AllContainers>b__22_0(KeyValuePair<string, StoryBotDialogueTag> t) { }
+130185: 
+130186: 	// RVA: 0xAB3AB0 Offset: 0xAB2EB0 VA: 0x180AB3AB0
+130187: 	internal bool <IsPrologueFinished>b__25_0(StoryBotDialogueBranchContainer t) { }
+130188: 
+130189: 	// RVA: 0xAB39B0 Offset: 0xAB2DB0 VA: 0x180AB39B0
+130190: 	internal int <GetBranchCount>b__26_0(StoryBotDialogueBranchContainer t) { }
+130191: }
+130191: }
+130192: 
+130193: // Namespace: 
+130194: public class StoryBotDialogueStage : StoryEntryPointBase<StoryBotDialogueBranch> // TypeDefIndex: 2320
+130195: {
+130196: 	// Fields
+130197: 	public readonly string OldOriginalSource; // 0x18
+130198: 	public readonly string OldOriginalSourceLinear; // 0x20
+130199: 	public readonly string OldOriginalKeyPrefix; // 0x28
+130200: 	private Dictionary<Guid, int> _lastIdUsed; // 0x30
+130201: 	private Dictionary<string, StoryBotDialogueTag> _tagged; // 0x38
+130202: 	public const string MainDialogueKey = "Interact_MainDialogue";
+130203: 	[CompilerGenerated]
+130204: 	private readonly StoryBotDialogueTag <MainDialogue>k__BackingField; // 0x40
+130205: 
+130206: 	// Properties
+130207: 	public StoryBotDialogueTag MainDialogue { get; }
+130208: 	public IEnumerable<StoryBotDialogueBranchContainer> AllContainers { get; }
+130209: 	public IEnumerable<KeyValuePair<string, StoryBotDialogueTag>> AllTags { get; }
+130210: 
+130211: 	// Methods
+130212: 
+130213: 	// RVA: 0xA91740 Offset: 0xA90B40 VA: 0x180A91740
+130214: 	public void .ctor(string oldOriginalSource) { }
+130215: 
+130216: 	// RVA: 0xA90590 Offset: 0xA8F990 VA: 0x180A90590
+130217: 	public DialogueChainMemory GetMemory(GameVariables gameVariables) { }
+130218: 
+130219: 	// RVA: 0xA905C0 Offset: 0xA8F9C0 VA: 0x180A905C0
+130220: 	public DialogueChainMemory GetMemory() { }
+130221: 
+130222: 	// RVA: 0xA91050 Offset: 0xA90450 VA: 0x180A91050
+130223: 	public bool TryGetBranchById(GameId id, out StoryBotDialogueBranch branch) { }
+130224: 
+130225: 	// RVA: 0xA90F20 Offset: 0xA90320 VA: 0x180A90F20
+130226: 	private void RegisterUsedId(GameId source) { }
+130227: 
+130228: 	// RVA: 0xA90620 Offset: 0xA8FA20 VA: 0x180A90620
+130229: 	public int GetNextFreeId(Guid source) { }
+130230: 
+130231: 	// RVA: 0xA906B0 Offset: 0xA8FAB0 VA: 0x180A906B0
+130232: 	public int GetNextFreeVanillaId() { }
+130233: 
+130234: 	// RVA: 0xA91240 Offset: 0xA90640 VA: 0x180A91240
+130235: 	public bool TryGetLastUsedVanillaIdEnum(Stage3VanillaDialogueIds dialogue, out int lastUsed) { }
+130236: 
+130237: 	// RVA: 0xA90760 Offset: 0xA8FB60 VA: 0x180A90760
+130238: 	public int GetNextSuggestedVanillaContainerStart() { }
+130239: 
+130240: 	[CompilerGenerated]
+130241: 	// RVA: 0x3972E0 Offset: 0x3966E0 VA: 0x1803972E0
+130242: 	public StoryBotDialogueTag get_MainDialogue() { }
+130243: 
+130244: 	// RVA: 0xA916D0 Offset: 0xA90AD0 VA: 0x180A916D0
+130245: 	public bool TryGetTag(string tag, out StoryBotDialogueTag container) { }
+130246: 
+130247: 	// RVA: 0xA90820 Offset: 0xA8FC20 VA: 0x180A90820
+130248: 	public StoryBotDialogueTag GetTag(string tagName) { }
+130249: 
+130250: 	// RVA: 0xA90480 Offset: 0xA8F880 VA: 0x180A90480 Slot: 5
+130251: 	public override IEnumerable<StoryBotDialogueBranch> GetBranches() { }
+130252: 
+130253: 	// RVA: 0xA91890 Offset: 0xA90C90 VA: 0x180A91890
+130254: 	public IEnumerable<StoryBotDialogueBranchContainer> get_AllContainers() { }
+130255: 
+130256: 	// RVA: 0x397300 Offset: 0x396700 VA: 0x180397300
+130257: 	public IEnumerable<KeyValuePair<string, StoryBotDialogueTag>> get_AllTags() { }
+130258: 
+130259: 	// RVA: 0xA90DC0 Offset: 0xA901C0 VA: 0x180A90DC0
+130260: 	public bool IsPrologueFinished() { }
+130261: 
+130262: 	// RVA: 0xA90370 Offset: 0xA8F770 VA: 0x180A90370
+130263: 	public int GetBranchCount() { }
+130264: 
+130265: 	// RVA: 0xA90320 Offset: 0xA8F720 VA: 0x180A90320
+130266: 	public void AddVanilla(out StoryBotDialogueBranchContainer main, out StoryBotDialogueBranchContainer prologue) { }
+130267: 
+130268: 	// RVA: 0xA90BB0 Offset: 0xA8FFB0 VA: 0x180A90BB0
+130269: 	public void InitVanilla() { }
+
+============================================================
+END REPORT
+============================================================
