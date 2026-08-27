@@ -1,0 +1,611 @@
+============================================================
+MDRG 0.97 - Exact Dialogue Structure
+============================================================
+
+
+############################################################
+TARGET: StoryBotDialogueBranchContainer
+############################################################
+
+DECLARATION HITS: 4
+
+
+--- DECLARATION NEAR DUMP LINE 129685 ---
+129683: [CompilerGenerated]
+129684: [Serializable]
+129685: private sealed class StoryBotDialogueBranchContainer.<>c // TypeDefIndex: 2306
+129686: {
+129687: 	// Fields
+129688: 	public static readonly StoryBotDialogueBranchContainer.<>c <>9; // 0x0
+129689: 	public static Func<StoryBotDialogueBranch, GameId> <>9__33_0; // 0x8
+129690: 
+129691: 	// Methods
+129692: 
+129693: 	// RVA: 0xA9A550 Offset: 0xA99950 VA: 0x180A9A550
+129694: 	private static void .cctor() { }
+129695: 
+129696: 	// RVA: 0x397420 Offset: 0x396820 VA: 0x180397420
+129697: 	public void .ctor() { }
+129698: 
+129699: 	// RVA: 0xA99260 Offset: 0xA98660 VA: 0x180A99260
+129700: 	internal GameId <TryGetFirst>b__33_0(StoryBotDialogueBranch x) { }
+129701: }
+
+--- DECLARATION NEAR DUMP LINE 129705 ---
+129703: // Namespace: 
+129704: [CompilerGenerated]
+129705: private sealed class StoryBotDialogueBranchContainer.<>c__DisplayClass35_0 // TypeDefIndex: 2307
+129706: {
+129707: 	// Fields
+129708: 	public StoryBotDialogueBranchType allowedTypes; // 0x10
+129709: 	public SceneEnumFlag sceneEnumFlag; // 0x14
+129710: 	public DialogueChainMemory memory; // 0x18
+129711: 
+129712: 	// Methods
+129713: 
+129714: 	// RVA: 0x397420 Offset: 0x396820 VA: 0x180397420
+129715: 	public void .ctor() { }
+129716: 
+129717: 	// RVA: 0xA99BF0 Offset: 0xA98FF0 VA: 0x180A99BF0
+129718: 	internal bool <GetAllBranchesCheckConditionsAndIgnored>b__0(StoryBotDialogueBranch t) { }
+129719: }
+
+--- DECLARATION NEAR DUMP LINE 129723 ---
+129721: // Namespace: 
+129722: [CompilerGenerated]
+129723: private sealed class StoryBotDialogueBranchContainer.<GetAllBranchesCheckConditions>d__34 : IEnumerator<object>, IEnumerator<object>, IPointerClickHandler, IEnumerator, IEnumerator<object> // TypeDefIndex: 2308
+129724: {
+129725: 	// Fields
+129726: 	private int <>1__state; // 0x10
+129727: 	private StoryBotDialogueBranch <>2__current; // 0x18
+129728: 	private int <>l__initialThreadId; // 0x20
+129729: 	public StoryBotDialogueBranchContainer <>4__this; // 0x28
+129730: 	private List.Enumerator<StoryBotDialogueBranch> <>7__wrap1; // 0x30
+129731: 	private Dictionary.Enumerator<StoryCondition, StoryBotDialogueBranch> <>7__wrap2; // 0x48
+129732: 	private Dictionary.Enumerator<StoryCondition, List<StoryBotDialogueBranch>> <>7__wrap3; // 0x70
+129733: 
+129734: 	// Properties
+129735: 	private StoryBotDialogueBranch System.Collections.Generic.IEnumerator<StoryBotDialogueBranch>.Current { get; }
+129736: 	private object System.Collections.IEnumerator.Current { get; }
+129737: 
+129738: 	// Methods
+129739: 
+129740: 	[DebuggerHidden]
+129741: 	// RVA: 0x45D340 Offset: 0x45C740 VA: 0x18045D340
+129742: 	public void .ctor(int <>1__state) { }
+129743: 
+129744: 	[DebuggerHidden]
+129745: 	// RVA: 0xA966C0 Offset: 0xA95AC0 VA: 0x180A966C0 Slot: 7
+129746: 	private void System.IDisposable.Dispose() { }
+129747: 
+129748: 	// RVA: 0xA96040 Offset: 0xA95440 VA: 0x180A96040 Slot: 8
+129749: 	private bool MoveNext() { }
+129750: 
+129751: 	// RVA: 0xA96920 Offset: 0xA95D20 VA: 0x180A96920
+129752: 	private void <>m__Finally1() { }
+129753: 
+129754: 	// RVA: 0xA96970 Offset: 0xA95D70 VA: 0x180A96970
+129755: 	private void <>m__Finally2() { }
+129756: 
+129757: 	// RVA: 0xA969C0 Offset: 0xA95DC0 VA: 0x180A969C0
+129758: 	private void <>m__Finally3() { }
+129759: 
+129760: 	// RVA: 0xA96A10 Offset: 0xA95E10 VA: 0x180A96A10
+129761: 	private void <>m__Finally4() { }
+129762: 
+129763: 	[DebuggerHidden]
+129764: 	// RVA: 0x3972F0 Offset: 0x3966F0 VA: 0x1803972F0 Slot: 6
+129765: 	private StoryBotDialogueBranch System.Collections.Generic.IEnumerator<StoryBotDialogueBranch>.get_Current() { }
+129766: 
+129767: 	[DebuggerHidden]
+129768: 	// RVA: 0xA96680 Offset: 0xA95A80 VA: 0x180A96680 Slot: 10
+129769: 	private void System.Collections.IEnumerator.Reset() { }
+129770: 
+129771: 	[DebuggerHidden]
+129772: 	// RVA: 0x3972F0 Offset: 0x3966F0 VA: 0x1803972F0 Slot: 9
+129773: 	private object System.Collections.IEnumerator.get_Current() { }
+129774: 
+129775: 	[DebuggerHidden]
+129776: 	// RVA: 0xA965E0 Offset: 0xA959E0 VA: 0x180A965E0 Slot: 4
+129777: 	private IEnumerator<StoryBotDialogueBranch> System.Collections.Generic.IEnumerable<StoryBotDialogueBranch>.GetEnumerator() { }
+129778: 
+129779: 	[DebuggerHidden]
+129780: 	// RVA: 0xA965E0 Offset: 0xA959E0 VA: 0x180A965E0 Slot: 5
+129781: 	private IEnumerator System.Collections.IEnumerable.GetEnumerator() { }
+129782: }
+
+--- DECLARATION NEAR DUMP LINE 129785 ---
+129783: 
+129784: // Namespace: 
+129785: public class StoryBotDialogueBranchContainer // TypeDefIndex: 2309
+129786: {
+129787: 	// Fields
+129788: 	[CompilerGenerated]
+129789: 	private StoryBotDialogueTag <SourceTag>k__BackingField; // 0x10
+129790: 	[CompilerGenerated]
+129791: 	private StoryCondition[] <Conditions>k__BackingField; // 0x18
+129792: 	public readonly StoryBotContainerTypeEnum StoryBotContainerType; // 0x20
+129793: 	private readonly Dictionary<GameId, StoryBotDialogueBranch> _branchesDictionary; // 0x28
+129794: 	private readonly List<StoryBotDialogueBranch> _unconditionalBranches; // 0x30
+129795: 	private readonly Dictionary<StoryCondition, StoryBotDialogueBranch> _singleBranches; // 0x38
+129796: 	private readonly Dictionary<StoryCondition, List<StoryBotDialogueBranch>> _multipleBranches; // 0x40
+129797: 
+129798: 	// Properties
+129799: 	public StoryBotDialogueTag SourceTag { get; set; }
+129800: 	public StoryCondition[] Conditions { get; set; }
+129801: 	public int BranchCount { get; }
+129802: 	public IEnumerable<StoryBotDialogueBranch> AllBranches { get; }
+129803: 
+129804: 	// Methods
+129805: 
+129806: 	// RVA: 0xA8FBA0 Offset: 0xA8EFA0 VA: 0x180A8FBA0
+129807: 	public void .ctor(StoryBotDialogueTag sourceTag, StoryBotContainerTypeEnum storyBotContainerType) { }
+129808: 
+129809: 	[CompilerGenerated]
+129810: 	// RVA: 0x3991A0 Offset: 0x3985A0 VA: 0x1803991A0
+129811: 	public StoryBotDialogueTag get_SourceTag() { }
+129812: 
+129813: 	[CompilerGenerated]
+129814: 	// RVA: 0x4E6CA0 Offset: 0x4E60A0 VA: 0x1804E6CA0
+129815: 	private void set_SourceTag(StoryBotDialogueTag value) { }
+129816: 
+129817: 	[CompilerGenerated]
+129818: 	// RVA: 0x3972F0 Offset: 0x3966F0 VA: 0x1803972F0
+129819: 	public StoryCondition[] get_Conditions() { }
+129820: 
+129821: 	[CompilerGenerated]
+129822: 	// RVA: 0x3A1AA0 Offset: 0x3A0EA0 VA: 0x1803A1AA0
+129823: 	private void set_Conditions(StoryCondition[] value) { }
+129824: 
+129825: 	// RVA: 0x3A1AA0 Offset: 0x3A0EA0 VA: 0x1803A1AA0
+129826: 	public void SetConditions(StoryCondition[] newConditions) { }
+129827: 
+129828: 	// RVA: 0xA8F350 Offset: 0xA8E750 VA: 0x180A8F350
+129829: 	public bool ConditionsMet() { }
+129830: 
+129831: 	// RVA: 0xA8F5D0 Offset: 0xA8E9D0 VA: 0x180A8F5D0
+129832: 	private void InitBranch(StoryBotDialogueBranch branch) { }
+129833: 
+129834: 	// RVA: 0xA8F100 Offset: 0xA8E500 VA: 0x180A8F100
+129835: 	private void AddRangeToAllBranches(IEnumerable<StoryBotDialogueBranch> branches) { }
+129836: 
+129837: 	// RVA: 0xA8E990 Offset: 0xA8DD90 VA: 0x180A8E990
+129838: 	public void AddBranches(StoryBotDialogueBranch[] branches) { }
+129839: 
+129840: 	// RVA: 0xA8E9A0 Offset: 0xA8DDA0 VA: 0x180A8E9A0
+129841: 	public void AddBranches(IEnumerable<StoryBotDialogueBranch> branches) { }
+129842: 
+129843: 	// RVA: 0xA8F670 Offset: 0xA8EA70 VA: 0x180A8F670
+129844: 	public void InitVanilla(string keyPrefix) { }
+129845: 
+129846: 	// RVA: 0xA8E670 Offset: 0xA8DA70 VA: 0x180A8E670
+129847: 	public StoryBotDialogueBranchContainer AddBranch(StoryBotDialogueBranch branch) { }
+129848: 
+129849: 	// RVA: 0xA8F090 Offset: 0xA8E490 VA: 0x180A8F090
+129850: 	public void AddMultipleBranchesWithoutConditions(StoryBotDialogueBranch[] branches) { }
+129851: 
+129852: 	// RVA: 0xA8F090 Offset: 0xA8E490 VA: 0x180A8F090
+129853: 	public void AddMultipleBranchesWithoutConditions(IList<StoryBotDialogueBranch> branches) { }
+129854: 
+129855: 	// RVA: 0xA8F080 Offset: 0xA8E480 VA: 0x180A8F080
+129856: 	public void AddMultipleBranchesWithSameCondition(StoryCondition condition, StoryBotDialogueBranch[] branches) { }
+129857: 
+129858: 	// RVA: 0xA8EB60 Offset: 0xA8DF60 VA: 0x180A8EB60
+129859: 	public void AddMultipleBranchesWithSameCondition(StoryCondition condition, IList<StoryBotDialogueBranch> branches) { }
+129860: 
+129861: 	// RVA: 0xA8F900 Offset: 0xA8ED00 VA: 0x180A8F900
+129862: 	public bool IsLastFinished() { }
+129863: 
+129864: 	// RVA: 0xA8F9D0 Offset: 0xA8EDD0 VA: 0x180A8F9D0
+129865: 	public bool TryGetBranchById(GameId id, out StoryBotDialogueBranch branch) { }
+
+############################################################
+TARGET: StorySingleton.LuaPersonalityModuleDefinition
+############################################################
+
+DECLARATION HITS: 1
+
+
+--- DECLARATION NEAR DUMP LINE 128834 ---
+128832: 
+128833: // Namespace: 
+128834: public class StorySingleton.LuaPersonalityModuleDefinition : StorySingleton.PersonalityModuleDefinition // TypeDefIndex: 2280
+128835: {
+128836: 	// Methods
+128837: 
+128838: 	[Preserve]
+128839: 	// RVA: 0xA83040 Offset: 0xA82440 VA: 0x180A83040
+128840: 	public StoryBotDialogueBranchContainer PrepareContainer(string tagId, int stageNr) { }
+128841: 
+128842: 	// RVA: 0xA83150 Offset: 0xA82550 VA: 0x180A83150
+128843: 	public void .ctor() { }
+128844: }
+
+############################################################
+TARGET: StoryBotDialogueTag
+############################################################
+
+DECLARATION HITS: 6
+
+
+--- DECLARATION NEAR DUMP LINE 129888 ---
+129886: 
+129887: // Namespace: 
+129888: private class StoryBotDialogueTag.BranchLottery // TypeDefIndex: 2310
+129889: {
+129890: 	// Fields
+129891: 	private Lottery<StoryBotDialogueBranch> _branchLotteryInner; // 0x10
+129892: 	[CompilerGenerated]
+129893: 	private int <CurrentPriority>k__BackingField; // 0x18
+129894: 
+129895: 	// Properties
+129896: 	public int CurrentPriority { get; set; }
+129897: 	public bool NotEmpty { get; }
+129898: 
+129899: 	// Methods
+129900: 
+129901: 	[CompilerGenerated]
+129902: 	// RVA: 0x3DDC70 Offset: 0x3DD070 VA: 0x1803DDC70
+129903: 	public int get_CurrentPriority() { }
+129904: 
+129905: 	[CompilerGenerated]
+129906: 	// RVA: 0x5DDBB0 Offset: 0x5DCFB0 VA: 0x1805DDBB0
+129907: 	private void set_CurrentPriority(int value) { }
+129908: 
+129909: 	// RVA: 0xA81010 Offset: 0xA80410 VA: 0x180A81010
+129910: 	public bool get_NotEmpty() { }
+129911: 
+129912: 	// RVA: 0xA80EF0 Offset: 0xA802F0 VA: 0x180A80EF0
+129913: 	public void Clear() { }
+129914: 
+129915: 	// RVA: 0xA80C30 Offset: 0xA80030 VA: 0x180A80C30
+129916: 	public void AddItem(StoryBotDialogueBranch item) { }
+129917: 
+129918: 	// RVA: 0xA80D30 Offset: 0xA80130 VA: 0x180A80D30
+129919: 	public void AddItems(IEnumerable<StoryBotDialogueBranch> items) { }
+129920: 
+129921: 	// RVA: 0xA80F40 Offset: 0xA80340 VA: 0x180A80F40
+129922: 	public StoryBotDialogueBranch GetRandom() { }
+129923: 
+129924: 	// RVA: 0xA80F90 Offset: 0xA80390 VA: 0x180A80F90
+129925: 	public void .ctor() { }
+129926: }
+
+--- DECLARATION NEAR DUMP LINE 129929 ---
+129927: 
+129928: // Namespace: 
+129929: private class StoryBotDialogueTag.BranchLotteryPoll : BetterObjectPool<StoryBotDialogueTag.BranchLottery> // TypeDefIndex: 2311
+129930: {
+129931: 	// Methods
+129932: 
+129933: 	// RVA: 0xA80BE0 Offset: 0xA7FFE0 VA: 0x180A80BE0
+129934: 	public void .ctor(int maxCachedInstances) { }
+129935: 
+129936: 	// RVA: 0xA80AE0 Offset: 0xA7FEE0 VA: 0x180A80AE0 Slot: 4
+129937: 	protected override StoryBotDialogueTag.BranchLottery CreateNew() { }
+129938: 
+129939: 	// RVA: 0xA80B80 Offset: 0xA7FF80 VA: 0x180A80B80 Slot: 5
+129940: 	protected override void OnAfterAddedToPool(StoryBotDialogueTag.BranchLottery obj) { }
+129941: 
+129942: 	// RVA: 0x398930 Offset: 0x397D30 VA: 0x180398930 Slot: 8
+129943: 	protected override bool CanBePooled(StoryBotDialogueTag.BranchLottery obj) { }
+129944: }
+
+--- DECLARATION NEAR DUMP LINE 129949 ---
+129947: [CompilerGenerated]
+129948: [Serializable]
+129949: private sealed class StoryBotDialogueTag.<>c // TypeDefIndex: 2312
+129950: {
+129951: 	// Fields
+129952: 	public static readonly StoryBotDialogueTag.<>c <>9; // 0x0
+129953: 	public static Func<StoryBotDialogueBranchContainer, IEnumerable<StoryBotDialogueBranch>> <>9__10_0; // 0x8
+129954: 	public static Func<StoryBotDialogueBranchContainer, int> <>9__19_0; // 0x10
+129955: 	public static Func<StoryBotDialogueBranchContainer, bool> <>9__22_0; // 0x18
+129956: 
+129957: 	// Methods
+129958: 
+129959: 	// RVA: 0xA9A4F0 Offset: 0xA998F0 VA: 0x180A9A4F0
+129960: 	private static void .cctor() { }
+129961: 
+129962: 	// RVA: 0x397420 Offset: 0x396820 VA: 0x180397420
+129963: 	public void .ctor() { }
+129964: 
+129965: 	// RVA: 0xA98C00 Offset: 0xA98000 VA: 0x180A98C00
+129966: 	internal IEnumerable<StoryBotDialogueBranch> <GetBranches>b__10_0(StoryBotDialogueBranchContainer t) { }
+129967: 
+129968: 	// RVA: 0xA98BB0 Offset: 0xA97FB0 VA: 0x180A98BB0
+129969: 	internal int <GetBranchCount>b__19_0(StoryBotDialogueBranchContainer t) { }
+129970: 
+129971: 	// RVA: 0xA99230 Offset: 0xA98630 VA: 0x180A99230
+129972: 	internal bool <TryGetByContainerTypeConditionsMet>b__22_0(StoryBotDialogueBranchContainer x) { }
+129973: }
+
+--- DECLARATION NEAR DUMP LINE 129977 ---
+129975: // Namespace: 
+129976: [CompilerGenerated]
+129977: private struct StoryBotDialogueTag.<>c__DisplayClass14_0 // TypeDefIndex: 2313
+129978: {
+129979: 	// Fields
+129980: 	public SceneEnumFlag sceneEnumFlag; // 0x0
+129981: 	public HashSet<StoryBotDialogueBranch> uniqueDialogues; // 0x8
+129982: 	public int uniqueDialoguesCount; // 0x10
+129983: 	public HashSet<StoryBotDialogueBranch> genericDialogues; // 0x18
+129984: }
+
+--- DECLARATION NEAR DUMP LINE 129988 ---
+129986: // Namespace: 
+129987: [CompilerGenerated]
+129988: private struct StoryBotDialogueTag.<>c__DisplayClass18_0 // TypeDefIndex: 2314
+129989: {
+129990: 	// Fields
+129991: 	public SceneEnumFlag scene; // 0x0
+129992: 	public StoryBotDialogueBranchType allowedTypes; // 0x4
+129993: }
+
+--- DECLARATION NEAR DUMP LINE 129996 ---
+129994: 
+129995: // Namespace: 
+129996: public class StoryBotDialogueTag : IEnumerator<object> // TypeDefIndex: 2315
+129997: {
+129998: 	// Fields
+129999: 	protected Dictionary<StoryBotContainerTypeEnum, List<StoryBotDialogueBranchContainer>> _containersByType; // 0x10
+130000: 	protected List<StoryBotDialogueBranchContainer> _containers; // 0x18
+130001: 	[CompilerGenerated]
+130002: 	private StoryBotDialogueStage <SourceStage>k__BackingField; // 0x20
+130003: 	private static StoryBotDialogueTag.BranchLotteryPoll _branchLotteryPoll; // 0x0
+130004: 
+130005: 	// Properties
+130006: 	public StoryBotDialogueStage SourceStage { get; set; }
+130007: 	public ReadOnlyCollection<StoryBotDialogueBranchContainer> AllContainers { get; }
+130008: 
+130009: 	// Methods
+130010: 
+130011: 	// RVA: 0x4F3C30 Offset: 0x4F3030 VA: 0x1804F3C30
+130012: 	public void InitSource(StoryBotDialogueStage storyBotDialogueStage) { }
+130013: 
+130014: 	[CompilerGenerated]
+130015: 	// RVA: 0x3972D0 Offset: 0x3966D0 VA: 0x1803972D0
+130016: 	public StoryBotDialogueStage get_SourceStage() { }
+130017: 
+130018: 	[CompilerGenerated]
+130019: 	// RVA: 0x4F3C30 Offset: 0x4F3030 VA: 0x1804F3C30
+130020: 	private void set_SourceStage(StoryBotDialogueStage value) { }
+130021: 
+130022: 	// RVA: 0xA94220 Offset: 0xA93620 VA: 0x180A94220
+130023: 	public ReadOnlyCollection<StoryBotDialogueBranchContainer> get_AllContainers() { }
+130024: 
+130025: 	// RVA: 0xA921D0 Offset: 0xA915D0 VA: 0x180A921D0
+130026: 	public void CreateContainer(out StoryBotDialogueBranchContainer container, StoryBotContainerTypeEnum type) { }
+130027: 
+130028: 	// RVA: 0xA927D0 Offset: 0xA91BD0 VA: 0x180A927D0 Slot: 4
+130029: 	public IEnumerable<StoryBotDialogueBranch> GetBranches() { }
+130030: 
+130031: 	// RVA: 0xA92A10 Offset: 0xA91E10 VA: 0x180A92A10
+130032: 	public void GetDialogues(HashSet<StoryBotDialogueBranch> uniqueDialogues, HashSet<StoryBotDialogueBranch> genericDialogues, int uniqueDialoguesCount, SceneEnumFlag sceneEnumFlag) { }
+130033: 
+130034: 	// RVA: 0xA92910 Offset: 0xA91D10 VA: 0x180A92910
+130035: 	public bool GetDialogueForModelBrainState(ModelBrainState modelBrainState, out StoryBotDialogueBranch branch) { }
+130036: 
+130037: 	// RVA: 0xA92D90 Offset: 0xA92190 VA: 0x180A92D90
+130038: 	public bool StartDialogueFromModelBrainState(StoryBotDialogueBranch branch, ModelBrainState modelBrainState, bool isRealDialogue, bool noWrapper) { }
+130039: 
+130040: 	// RVA: 0xA92360 Offset: 0xA91760 VA: 0x180A92360
+130041: 	public bool GetAndStartDialogueFromModelBrainState(ModelBrainState modelBrainState, bool isRealDialogue, bool noWrapper) { }
+130042: 
+130043: 	// RVA: 0xA93430 Offset: 0xA92830 VA: 0x180A93430
+130044: 	public bool TryGetRandom(out StoryBotDialogueBranch branch, SceneEnumFlag scene, StoryBotDialogueBranchType allowedTypes) { }
+130045: 
+130046: 	// RVA: 0xA926D0 Offset: 0xA91AD0 VA: 0x180A926D0
+130047: 	public int GetBranchCount() { }
+130048: 
+130049: 	// RVA: 0xA92010 Offset: 0xA91410 VA: 0x180A92010
+130050: 	protected void AddInner(StoryBotDialogueBranchContainer container) { }
+130051: 
+130052: 	// RVA: 0xA93390 Offset: 0xA92790 VA: 0x180A93390
+130053: 	public bool TryGetByContainerType(StoryBotContainerTypeEnum storyBotContainerTypeEnum, out IReadOnlyCollection<StoryBotDialogueBranchContainer> values) { }
+130054: 
+130055: 	// RVA: 0xA93200 Offset: 0xA92600 VA: 0x180A93200
+130056: 	public bool TryGetByContainerTypeConditionsMet(StoryBotContainerTypeEnum storyBotContainerTypeEnum, out List<StoryBotDialogueBranchContainer> values) { }
+130057: 
+130058: 	// RVA: 0xA93050 Offset: 0xA92450 VA: 0x180A93050
+130059: 	public bool TryGetBranchById(GameId id, out StoryBotDialogueBranch branch) { }
+130060: 
+130061: 	// RVA: 0xA92D20 Offset: 0xA92120 VA: 0x180A92D20
+130062: 	public bool HasAny(StoryBotContainerTypeEnum storyBotContainerTypeEnum) { }
+130063: 
+130064: 	// RVA: 0xA94170 Offset: 0xA93570 VA: 0x180A94170
+130065: 	public void .ctor() { }
+130066: 
+130067: 	// RVA: 0xA940E0 Offset: 0xA934E0 VA: 0x180A940E0
+130068: 	private static void .cctor() { }
+130069: 
+130070: 	[CompilerGenerated]
+130071: 	// RVA: 0xA93720 Offset: 0xA92B20 VA: 0x180A93720
+130072: 	internal static void <GetDialogues>g__FillFromContainers|14_0(IEnumerable<StoryBotDialogueBranchContainer> storyBotDialogueBranchContainers, ref StoryBotDialogueTag.<>c__DisplayClass14_0 ) { }
+130073: 
+130074: 	[CompilerGenerated]
+130075: 	// RVA: 0xA93D30 Offset: 0xA93130 VA: 0x180A93D30
+130076: 	internal static bool <TryGetRandom>g__TryGetRandomFromContainers|18_0(IEnumerable<StoryBotDialogueBranchContainer> storyBotDialogueBranchContainers, out StoryBotDialogueBranch branch, ref StoryBotDialogueTag.<>c__DisplayClass18_0 ) { }
+
+############################################################
+TARGET: StoryBotDialogueStage
+############################################################
+
+DECLARATION HITS: 2
+
+
+--- DECLARATION NEAR DUMP LINE 130163 ---
+130161: [CompilerGenerated]
+130162: [Serializable]
+130163: private sealed class StoryBotDialogueStage.<>c // TypeDefIndex: 2319
+130164: {
+130165: 	// Fields
+130166: 	public static readonly StoryBotDialogueStage.<>c <>9; // 0x0
+130167: 	public static Func<StoryBotDialogueBranchContainer, IEnumerable<StoryBotDialogueBranch>> <>9__20_0; // 0x8
+130168: 	public static Func<KeyValuePair<string, StoryBotDialogueTag>, IEnumerable<StoryBotDialogueBranchContainer>> <>9__22_0; // 0x10
+130169: 	public static Func<StoryBotDialogueBranchContainer, bool> <>9__25_0; // 0x18
+130170: 	public static Func<StoryBotDialogueBranchContainer, int> <>9__26_0; // 0x20
+130171: 
+130172: 	// Methods
+130173: 
+130174: 	// RVA: 0xAB6500 Offset: 0xAB5900 VA: 0x180AB6500
+130175: 	private static void .cctor() { }
+130176: 
+130177: 	// RVA: 0x397420 Offset: 0x396820 VA: 0x180397420
+130178: 	public void .ctor() { }
+130179: 
+130180: 	// RVA: 0xAB3A40 Offset: 0xAB2E40 VA: 0x180AB3A40
+130181: 	internal IEnumerable<StoryBotDialogueBranch> <GetBranches>b__20_0(StoryBotDialogueBranchContainer t) { }
+130182: 
+130183: 	// RVA: 0xAB44E0 Offset: 0xAB38E0 VA: 0x180AB44E0
+130184: 	internal IEnumerable<StoryBotDialogueBranchContainer> <get_AllContainers>b__22_0(KeyValuePair<string, StoryBotDialogueTag> t) { }
+130185: 
+130186: 	// RVA: 0xAB3AB0 Offset: 0xAB2EB0 VA: 0x180AB3AB0
+130187: 	internal bool <IsPrologueFinished>b__25_0(StoryBotDialogueBranchContainer t) { }
+130188: 
+130189: 	// RVA: 0xAB39B0 Offset: 0xAB2DB0 VA: 0x180AB39B0
+130190: 	internal int <GetBranchCount>b__26_0(StoryBotDialogueBranchContainer t) { }
+130191: }
+
+--- DECLARATION NEAR DUMP LINE 130194 ---
+130192: 
+130193: // Namespace: 
+130194: public class StoryBotDialogueStage : StoryEntryPointBase<StoryBotDialogueBranch> // TypeDefIndex: 2320
+130195: {
+130196: 	// Fields
+130197: 	public readonly string OldOriginalSource; // 0x18
+130198: 	public readonly string OldOriginalSourceLinear; // 0x20
+130199: 	public readonly string OldOriginalKeyPrefix; // 0x28
+130200: 	private Dictionary<Guid, int> _lastIdUsed; // 0x30
+130201: 	private Dictionary<string, StoryBotDialogueTag> _tagged; // 0x38
+130202: 	public const string MainDialogueKey = "Interact_MainDialogue";
+130203: 	[CompilerGenerated]
+130204: 	private readonly StoryBotDialogueTag <MainDialogue>k__BackingField; // 0x40
+130205: 
+130206: 	// Properties
+130207: 	public StoryBotDialogueTag MainDialogue { get; }
+130208: 	public IEnumerable<StoryBotDialogueBranchContainer> AllContainers { get; }
+130209: 	public IEnumerable<KeyValuePair<string, StoryBotDialogueTag>> AllTags { get; }
+130210: 
+130211: 	// Methods
+130212: 
+130213: 	// RVA: 0xA91740 Offset: 0xA90B40 VA: 0x180A91740
+130214: 	public void .ctor(string oldOriginalSource) { }
+130215: 
+130216: 	// RVA: 0xA90590 Offset: 0xA8F990 VA: 0x180A90590
+130217: 	public DialogueChainMemory GetMemory(GameVariables gameVariables) { }
+130218: 
+130219: 	// RVA: 0xA905C0 Offset: 0xA8F9C0 VA: 0x180A905C0
+130220: 	public DialogueChainMemory GetMemory() { }
+130221: 
+130222: 	// RVA: 0xA91050 Offset: 0xA90450 VA: 0x180A91050
+130223: 	public bool TryGetBranchById(GameId id, out StoryBotDialogueBranch branch) { }
+130224: 
+130225: 	// RVA: 0xA90F20 Offset: 0xA90320 VA: 0x180A90F20
+130226: 	private void RegisterUsedId(GameId source) { }
+130227: 
+130228: 	// RVA: 0xA90620 Offset: 0xA8FA20 VA: 0x180A90620
+130229: 	public int GetNextFreeId(Guid source) { }
+130230: 
+130231: 	// RVA: 0xA906B0 Offset: 0xA8FAB0 VA: 0x180A906B0
+130232: 	public int GetNextFreeVanillaId() { }
+130233: 
+130234: 	// RVA: 0xA91240 Offset: 0xA90640 VA: 0x180A91240
+130235: 	public bool TryGetLastUsedVanillaIdEnum(Stage3VanillaDialogueIds dialogue, out int lastUsed) { }
+130236: 
+130237: 	// RVA: 0xA90760 Offset: 0xA8FB60 VA: 0x180A90760
+130238: 	public int GetNextSuggestedVanillaContainerStart() { }
+130239: 
+130240: 	[CompilerGenerated]
+130241: 	// RVA: 0x3972E0 Offset: 0x3966E0 VA: 0x1803972E0
+130242: 	public StoryBotDialogueTag get_MainDialogue() { }
+130243: 
+130244: 	// RVA: 0xA916D0 Offset: 0xA90AD0 VA: 0x180A916D0
+130245: 	public bool TryGetTag(string tag, out StoryBotDialogueTag container) { }
+130246: 
+130247: 	// RVA: 0xA90820 Offset: 0xA8FC20 VA: 0x180A90820
+130248: 	public StoryBotDialogueTag GetTag(string tagName) { }
+130249: 
+130250: 	// RVA: 0xA90480 Offset: 0xA8F880 VA: 0x180A90480 Slot: 5
+130251: 	public override IEnumerable<StoryBotDialogueBranch> GetBranches() { }
+130252: 
+130253: 	// RVA: 0xA91890 Offset: 0xA90C90 VA: 0x180A91890
+130254: 	public IEnumerable<StoryBotDialogueBranchContainer> get_AllContainers() { }
+130255: 
+130256: 	// RVA: 0x397300 Offset: 0x396700 VA: 0x180397300
+130257: 	public IEnumerable<KeyValuePair<string, StoryBotDialogueTag>> get_AllTags() { }
+130258: 
+130259: 	// RVA: 0xA90DC0 Offset: 0xA901C0 VA: 0x180A90DC0
+130260: 	public bool IsPrologueFinished() { }
+130261: 
+130262: 	// RVA: 0xA90370 Offset: 0xA8F770 VA: 0x180A90370
+130263: 	public int GetBranchCount() { }
+130264: 
+130265: 	// RVA: 0xA90320 Offset: 0xA8F720 VA: 0x180A90320
+130266: 	public void AddVanilla(out StoryBotDialogueBranchContainer main, out StoryBotDialogueBranchContainer prologue) { }
+130267: 
+130268: 	// RVA: 0xA90BB0 Offset: 0xA8FFB0 VA: 0x180A90BB0
+130269: 	public void InitVanilla() { }
+130270: 
+130271: 	// RVA: 0xA909A0 Offset: 0xA8FDA0 VA: 0x180A909A0
+130272: 	public void InitBranch(StoryBotDialogueBranch branch) { }
+130273: }
+
+############################################################
+TARGET: StoryBotContainerTypeEnum
+############################################################
+
+DECLARATION HITS: 1
+
+
+--- DECLARATION NEAR DUMP LINE 129673 ---
+129671: 
+129672: // Namespace: 
+129673: public enum StoryBotContainerTypeEnum // TypeDefIndex: 2305
+129674: {
+129675: 	// Fields
+129676: 	public int value__; // 0x0
+129677: 	public const StoryBotContainerTypeEnum Prologue = 0;
+129678: 	public const StoryBotContainerTypeEnum Default = 1;
+129679: 	public const StoryBotContainerTypeEnum Override = 2;
+129680: }
+
+############################################################
+TARGET: StoryBranchTarget
+############################################################
+
+DECLARATION HITS: 1
+
+
+--- DECLARATION NEAR DUMP LINE 131941 ---
+131939: 
+131940: // Namespace: 
+131941: public abstract class StoryBranchTarget // TypeDefIndex: 2347
+131942: {
+131943: 	// Methods
+131944: 
+131945: 	// RVA: -1 Offset: -1 Slot: 4
+131946: 	public abstract void Activate(Action onFinished);
+131947: 
+131948: 	// RVA: -1 Offset: -1 Slot: 5
+131949: 	public abstract Result CheckValidity(Dictionary<string, Block> blocks);
+131950: 
+131951: 	// RVA: 0xAB0F20 Offset: 0xAB0320 VA: 0x180AB0F20
+131952: 	public static StoryBranchTarget op_Implicit(FungusBlocks.FungusBlockReference b) { }
+131953: 
+131954: 	// RVA: 0xAB0EB0 Offset: 0xAB02B0 VA: 0x180AB0EB0
+131955: 	public static StoryBranchTarget op_Implicit(LOS.TupleReference b) { }
+131956: 
+131957: 	// RVA: 0xAB0DF0 Offset: 0xAB01F0 VA: 0x180AB0DF0
+131958: 	public static StoryBranchTarget op_Implicit(SerializedLocalizedConversation b) { }
+131959: 
+131960: 	// RVA: 0xAB0E50 Offset: 0xAB0250 VA: 0x180AB0E50
+131961: 	public static StoryBranchTarget op_Implicit(Func<IEnumerator> b) { }
+131962: 
+131963: 	// RVA: 0x397420 Offset: 0x396820 VA: 0x180397420
+131964: 	protected void .ctor() { }
+131965: }
+
+============================================================
+END REPORT
+============================================================
